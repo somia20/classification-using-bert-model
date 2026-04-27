@@ -1,0 +1,426 @@
+input,output
+was zero or null on the most recent date in the last 39 days,3
+combined data usage and outgoing call MOU over last 16 weeks,1
+not subscribed to product in last 40 days,2
+combined account balance and og call revenue over last 12 weeks,1
+customers who activated HBB add-on yesterday,3
+customers detected in South at least once in the last 70 days,3
+purchased specified product in the last 9 months,5
+account balance growth over the last 38 weeks,4
+revenue greater than given value,5
+customers who activated HBB add-on yesterday,3
+customers detected in Region X at least once in the last 2 months,3
+total outgoing call MOU in the last 4 days,1
+combined data usage and account balance over last 73 weeks,1
+Last X days account balance,5
+data usage greater than given value,5
+count of action keys sent in the last 5 days,2
+difference in data volume and data usage from yesterday,4
+customers whose outgoing call MOU on event date >= 31,3
+Promo sent for campaign responses in last X days,5
+average data usage over last 90 weeks,1
+next best offer exists,2
+customers whose campaign responses count in the last 9 months >= 1,1
+customers who received a bonus for purchases in the last N days,5
+combined data volume and revenue over last 86 weeks,1
+average data volume over last 78 weeks,1
+outgoing call MOU growth over the last 49 days,4
+customers whose purchases count in the last 54 weeks >= 23,1
+Last X days outgoing call MOU,5
+customer VALUE_SEGMENT_OVERALL > 55,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+tariff plan is available,2
+average outgoing call MOU over last NoOfDays days,5
+Promo sent for billing events in last X days,5
+percentage increase in revenue compared to 32 months ago,4
+combined data usage and outgoing call MOU over last 2 weeks,1
+customers detected in Northoman at least once in the last 2 months,3
+customer network age > 88,2
+Last X days outgoing call MOU,5
+customers who activated prepaid best plan yesterday,3
+network age = 54,2
+account balance drop of more than 70% compared to last month,4
+incoming call MOU drop of more than 29% compared to last month,4
+percentage increase in data volume compared to 19 months ago,4
+percentage increase in data volume compared to 24 months ago,4
+og call revenue growth over the last 57 months,4
+no active M138,2
+customers who received a bonus for purchases in the last N days,5
+count of billing events sent in the last 76 days,2
+was zero or null on the most recent date in the last 43 days,3
+was zero or null on the most recent date in the last 26 days,3
+sum of og call revenue and incoming call MOU in the last 30 days,1
+incoming call MOU greater than given value,5
+combined incoming call MOU and revenue over last 15 months,1
+average incoming call MOU over last 44 months,1
+average revenue over last NoOfDays days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+total recharge amount for MD03,1
+next best offer exists,2
+no active M138,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customers who received a bonus for campaign responses in the last N days,5
+customers detected in Region X at least once in the last 2 months,3
+incoming call MOU greater than given value,5
+average data usage over last 27 weeks,1
+count of billing events sent in the last 92 days,2
+outgoing call MOU last month,1
+difference in incoming call MOU and data volume from yesterday,4
+count of billing events in the last 50 days,1
+total data volume in the last 80 months,1
+customers whose current location is Region X,3
+outgoing call MOU greater than given value,5
+outgoing call MOU drop of more than 55% compared to last month,4
+customers who received a bonus for campaign responses in the last N days,5
+average weekly outgoing call MOU,1
+VALUE_SEGMENT_OVERALL = 71,2
+average outgoing call MOU over last NoOfDays days,5
+customers whose account balance on event date >= 50,3
+customer network age > 10,2
+count of purchases in the last 57 months,1
+account balance drop of more than 30% compared to last month,4
+customers who received a bonus for bonuses in the last N days,5
+purchased specified product in the last 8 months,5
+was zero or null on the most recent date in the last 60 days,3
+Promo sent for promotions in last X days,5
+og call revenue greater than given value,5
+customers detected in South at least once in the last 25 days,3
+subscribed at most 55 times in the last 30 days,2
+customers who activated prepaid best plan yesterday,3
+customers who have a valid ID and MAX(ID) <> NULL,3
+count of purchases sent in the last 30 days,2
+average data usage over last NoOfDays days,5
+customer network age > 38,2
+network age is available,2
+percentage increase in outgoing call MOU compared to 79 months ago,4
+count of action keys per device,2
+average account balance over last NoOfDays days,5
+customers whose current location is North,3
+customer network age > 87,2
+total data volume for HBB add-on,1
+average weekly incoming call MOU,1
+subscribed at most 22 times in the last 30 days,2
+average weekly data volume,1
+count of billing events per device,2
+recharge amount ratio between this month and last month,4
+count of purchases per device,2
+percentage increase in outgoing call MOU compared to 73 months ago,4
+subscribed at most 68 times in the last 30 days,2
+Last X days incoming call MOU,5
+outgoing call MOU drop of more than 38% compared to last month,4
+revenue ratio between this month and last month,4
+count of purchases in the last 46 days,1
+customers whose bonuses count in the last 19 months >= 78,1
+customers who received a bonus for billing events in the last N days,5
+percentage increase in outgoing call MOU compared to 17 months ago,4
+percentage increase in incoming call MOU compared to 89 months ago,4
+combined data volume and data usage over last 70 months,1
+average recharge amount over last NoOfDays days,5
+percentage increase in account balance compared to 5 months ago,4
+subscribed to prepaid best plan in last X days,5
+total recharge amount in the last 12 months,1
+sum of revenue and recharge amount in the last 30 days,1
+difference in recharge amount and og call revenue from yesterday,4
+count of campaign responses per device,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customer is not subscribed to MD03 in the last 16 days,2
+customers whose data volume on event date >= 10,3
+percentage increase in account balance compared to 26 months ago,4
+count of billing events per product,2
+average data volume over last 47 weeks,1
+customers detected in North at least once in the last 68 days,3
+difference in recharge amount and data usage from yesterday,4
+purchased specified product in the last 8 months,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+difference in og call revenue and account balance from yesterday,4
+data usage ratio between this month and last month,4
+customers whose data usage on event date >= 41,3
+data volume growth over the last 23 weeks,4
+customers detected in North at least once in the last 23 days,3
+customers detected in South at least once in the last 2 months,3
+customers whose current location is Region X,3
+difference in account balance and recharge amount from yesterday,4
+average account balance over last NoOfDays days,5
+VALUE_SEGMENT_OVERALL is available,2
+average data usage over last NoOfDays days,5
+customers whose current location is North,3
+account balance ratio between this month and last month,4
+account balance growth over the last 64 days,4
+no active MD03,2
+count of campaign responses per MSISDN,2
+purchased specified product in the last 9 months,5
+difference in og call revenue and revenue from yesterday,4
+Last X days recharge amount,5
+data volume drop of more than 71% compared to last month,4
+combined outgoing call MOU and incoming call MOU over last 49 months,1
+customer is not subscribed to M138 in the last 96 days,2
+Promo sent for purchases in last X days,5
+Promo sent for purchases in last X days,5
+subscribed to prepaid best plan in last X days,5
+customers who activated M138 yesterday,3
+customers whose current location is Region X,3
+total revenue for HBB add-on,1
+next best offer exists,2
+customers who received a bonus for purchases in the last N days,5
+not subscribed to product in last 40 days,2
+customers whose current location is North,3
+data usage ratio between this month and last month,4
+customers detected in Northoman at least once in the last 2 months,3
+Promo sent for purchases in last X days,5
+count of campaign responses grouped by product,2
+subscribed to prepaid best plan in last X days,5
+Last X days account balance,5
+customer is not subscribed to prepaid best plan in the last 24 days,2
+customers detected in North at least once in the last 2 months,3
+og call revenue ratio between this month and last month,4
+difference in recharge amount and account balance from yesterday,4
+total outgoing call MOU in the last 57 weeks,1
+combined account balance and outgoing call MOU over last 46 days,1
+not subscribed to product in last 40 days,2
+account balance ratio between this month and last month,4
+next best offer exists,2
+revenue greater than given value,5
+count of campaign responses per device,2
+customers detected in Region X at least once in the last 65 days,3
+Promo sent for promotions in last X days,5
+difference in revenue and outgoing call MOU from yesterday,4
+tariff plan is available,2
+customers detected in North at least once in the last 2 months,3
+count of bonuses in the last 12 days,1
+average revenue over last NoOfDays days,5
+customers whose promotions count in the last 33 months >= 73,1
+percentage increase in recharge amount compared to 66 months ago,4
+customer is not subscribed to MD03 in the last 68 days,2
+customers detected in North at least once in the last 42 days,3
+customers who activated product id 500 yesterday,3
+customers detected in North at least once in the last 68 days,3
+subscribed to HBB add-on in last X days,5
+percentage increase in data usage compared to 71 months ago,4
+recharge amount drop of more than 67% compared to last month,4
+subscribed at most 94 times in the last 30 days,2
+account balance ratio between this month and last month,4
+percentage increase in outgoing call MOU compared to 72 months ago,4
+count of action keys per MSISDN,2
+customers detected in Northoman at least once in the last 30 days,3
+count of action keys per subscriber,2
+account balance growth over the last 81 days,4
+difference in account balance and revenue from yesterday,4
+customers detected in North at least once in the last 2 months,3
+average incoming call MOU over last NoOfDays days,5
+customers detected in South at least once in the last 2 months,3
+average data volume over last 57 weeks,1
+was zero or null on the most recent date in the last 73 days,3
+was zero or null on the most recent date in the last 20 days,3
+customers detected in North at least once in the last 24 days,3
+combined revenue and recharge amount over last 62 months,1
+not subscribed to product in last 40 days,2
+customers detected in Northoman at least once in the last 40 days,3
+count of campaign responses per subscriber,2
+percentage increase in account balance compared to 12 months ago,4
+average outgoing call MOU over last 78 months,1
+average weekly revenue,1
+subscribed at most 4 times in the last 30 days,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customer is not subscribed to product id 500 in the last 77 days,2
+data usage growth over the last 45 months,4
+customers who received a bonus for action keys in the last N days,5
+combined data volume and recharge amount over last 65 months,1
+total data usage for M138,1
+network age = 100,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customers whose revenue on event date >= 79,3
+data volume ratio between this month and last month,4
+outgoing call MOU growth over the last 71 months,4
+customers detected in North at least once in the last 2 months,3
+sum of revenue and og call revenue in the last 30 days,1
+count of bonuses sent in the last 46 days,2
+average incoming call MOU over last NoOfDays days,5
+revenue drop of more than 37% compared to last month,4
+next best offer exists,2
+count of promotions in the last 86 months,1
+count of purchases in the last 4 weeks,1
+outgoing call MOU greater than given value,5
+not subscribed to product in last 40 days,2
+customers whose current location is South,3
+subscribed to M138 in last X days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+combined revenue and recharge amount over last 74 days,1
+customers detected in North at least once in the last 2 months,3
+og call revenue growth over the last 19 days,4
+customers who activated MD03 yesterday,3
+customers who activated product id 500 yesterday,3
+customers who received a bonus for bonuses in the last N days,5
+purchased specified product in the last 5 months,5
+average recharge amount over last 84 months,1
+revenue drop of more than 12% compared to last month,4
+not subscribed to product in last 40 days,2
+total data volume in the last 69 months,1
+recharge amount greater than given value,5
+subscribed at most 25 times in the last 30 days,2
+customers whose current location is Northoman,3
+difference in outgoing call MOU and revenue from yesterday,4
+customers who activated HBB add-on yesterday,3
+average weekly og call revenue,1
+data usage last month,1
+purchased specified product in the last 3 months,5
+Last X days outgoing call MOU,5
+average revenue over last 69 weeks,1
+customers who activated product id 500 yesterday,3
+customers whose incoming call MOU on event date >= 37,3
+customers detected in Region X at least once in the last 34 days,3
+no active product id 500,2
+percentage increase in revenue compared to 9 months ago,4
+customers whose purchases count in the last 27 days >= 67,1
+subscribed to M138 in last X days,5
+no active M138,2
+total incoming call MOU for MD03,1
+total incoming call MOU for M138,1
+customers whose incoming call MOU on event date >= 30,3
+customer is not subscribed to prepaid best plan in the last 25 days,2
+customers who received a bonus for action keys in the last N days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+average weekly og call revenue,1
+account balance growth over the last 31 weeks,4
+sum of data usage and incoming call MOU in the last 30 days,1
+was zero or null on the most recent date in the last 84 days,3
+average weekly recharge amount,1
+total incoming call MOU for prepaid best plan,1
+count of purchases grouped by device,2
+total outgoing call MOU for prepaid best plan,1
+no active M138,2
+incoming call MOU last month,1
+difference in outgoing call MOU and data usage from yesterday,4
+purchased specified product in the last 3 months,5
+percentage increase in outgoing call MOU compared to 65 months ago,4
+customer audience segment > 64,2
+next best offer exists,2
+not subscribed to product in last 40 days,2
+was zero or null on the most recent date in the last 79 days,3
+subscribed to M138 in last X days,5
+data volume ratio between this month and last month,4
+data volume greater than given value,5
+customer is not subscribed to product id 500 in the last 23 days,2
+next best offer exists,2
+count of purchases in the last 90 weeks,1
+count of bonuses per subscriber,2
+Last X days outgoing call MOU,5
+difference in og call revenue and revenue from yesterday,4
+customer VALUE_SEGMENT_OVERALL > 31,2
+outgoing call MOU drop of more than 12% compared to last month,4
+customers who have a valid ID and MAX(ID) <> NULL,3
+total outgoing call MOU for product id 500,1
+count of purchases grouped by device,2
+was zero or null on the most recent date in the last 27 days,3
+customers who activated HBB add-on yesterday,3
+customers detected in Region X at least once in the last 66 days,3
+average weekly account balance,1
+incoming call MOU greater than given value,5
+customers detected in South at least once in the last 2 months,3
+og call revenue growth over the last 87 days,4
+total outgoing call MOU in the last 12 weeks,1
+customers whose billing events count in the last 71 days >= 17,1
+recharge amount growth over the last 77 days,4
+customers detected in North at least once in the last 2 months,3
+customers who have a valid ID and MAX(ID) <> NULL,3
+percentage increase in data volume compared to 6 months ago,4
+was zero or null on the most recent date in the last 26 days,3
+sum of data volume and og call revenue in the last 30 days,1
+recharge amount growth over the last 31 weeks,4
+incoming call MOU growth over the last 45 days,4
+customer VALUE_SEGMENT_OVERALL > 88,2
+subscribed to HBB add-on in last X days,5
+total data usage in the last 61 days,1
+subscribed to HBB add-on in last X days,5
+audience segment = 95,2
+average og call revenue over last 61 days,1
+average outgoing call MOU over last 33 weeks,1
+subscribed to HBB add-on in last X days,5
+customer network age > 98,2
+recharge amount greater than given value,5
+data volume drop of more than 83% compared to last month,4
+customers detected in North at least once in the last 2 months,3
+next best offer exists,2
+customers whose current location is Northoman,3
+was zero or null on the most recent date in the last 29 days,3
+count of promotions in the last 82 days,1
+percentage increase in revenue compared to 19 months ago,4
+subscribed at most 42 times in the last 30 days,2
+total data volume in the last 3 days,1
+Last X days revenue,5
+percentage increase in outgoing call MOU compared to 40 months ago,4
+customers who received a bonus for action keys in the last N days,5
+count of purchases grouped by MSISDN,2
+count of purchases grouped by device,2
+account balance drop of more than 64% compared to last month,4
+customers who activated prepaid best plan yesterday,3
+outgoing call MOU last month,1
+Last X days og call revenue,5
+data volume greater than given value,5
+count of billing events in the last 56 weeks,1
+percentage increase in recharge amount compared to 29 months ago,4
+count of bonuses grouped by product,2
+average recharge amount over last 86 weeks,1
+purchased specified product in the last 8 months,5
+average weekly data usage,1
+average revenue over last 71 days,1
+Last X days data volume,5
+outgoing call MOU growth over the last 15 weeks,4
+customer is not subscribed to M138 in the last 81 days,2
+Last X days recharge amount,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+average weekly incoming call MOU,1
+subscribed to product id 500 in last X days,5
+not subscribed to product in last 40 days,2
+percentage increase in data usage compared to 32 months ago,4
+combined recharge amount and og call revenue over last 71 days,1
+outgoing call MOU ratio between this month and last month,4
+difference in incoming call MOU and account balance from yesterday,4
+customer is not subscribed to product id 500 in the last 67 days,2
+outgoing call MOU drop of more than 40% compared to last month,4
+difference in data usage and data volume from yesterday,4
+account balance greater than given value,5
+count of campaign responses per MSISDN,2
+account balance growth over the last 58 days,4
+og call revenue greater than given value,5
+difference in incoming call MOU and revenue from yesterday,4
+purchased specified product in the last 8 months,5
+revenue growth over the last 13 months,4
+combined account balance and account balance over last 22 days,1
+average og call revenue over last NoOfDays days,5
+average revenue over last NoOfDays days,5
+customers whose current location is Northoman,3
+was zero or null on the most recent date in the last 46 days,3
+incoming call MOU greater than given value,5
+difference in og call revenue and data volume from yesterday,4
+difference in data volume and og call revenue from yesterday,4
+subscribed to M138 in last X days,5
+count of bonuses in the last 49 days,1
+customers detected in South at least once in the last 58 days,3
+customer is not subscribed to product id 500 in the last 76 days,2
+account balance drop of more than 43% compared to last month,4
+total outgoing call MOU for product id 500,1
+subscribed at most 53 times in the last 30 days,2
+count of promotions sent in the last 37 days,2
+count of campaign responses in the last 46 days,1
+difference in revenue and revenue from yesterday,4
+data usage ratio between this month and last month,4
+customers who activated M138 yesterday,3
+data volume growth over the last 56 months,4
+average data volume over last NoOfDays days,5
+count of promotions in the last 12 weeks,1
+no active product id 500,2
+account balance greater than given value,5
+data usage greater than given value,5
+customers detected in South at least once in the last 67 days,3
+customers detected in North at least once in the last 26 days,3
+revenue last month,1
+Last X days outgoing call MOU,5
+no active product id 500,2
+Promo sent for action keys in last X days,5
+average weekly data volume,1
+recharge amount drop of more than 52% compared to last month,4
+network age = 100,2
+next best offer exists,2
+combined og call revenue and revenue over last 20 months,1
+percentage increase in data usage compared to 55 months ago,4
+customers who activated prepaid best plan yesterday,3
