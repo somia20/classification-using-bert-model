@@ -1,0 +1,350 @@
+{"condition": "count check on the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COUNT_REFERRER_VALUE", "source_client": "airtel"}
+{"condition": "customer count condition", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COUNT_REFERRER_VALUE", "source_client": "airtel"}
+{"condition": "subscriber count check", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COUNT_REFERRER_VALUE", "source_client": "airtel"}
+{"condition": "the count satisfies the threshold", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COUNT_REFERRER_VALUE", "source_client": "airtel"}
+{"condition": "customer count grouped check", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COUNT_REFERRER_VALUE", "source_client": "airtel"}
+{"condition": "promotion was not delivered to the subscriber in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONDELIVERED_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "no promo received by the customer in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONDELIVERED_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "subscriber did not receive a promotion in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONDELIVERED_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "promotion absent for this customer in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONDELIVERED_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "promo was not sent in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONDELIVERED_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "created date exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LAST_7_DAYS_SUM_RECHARGE", "source_client": "omantel"}
+{"condition": "created date is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LAST_7_DAYS_SUM_RECHARGE", "source_client": "omantel"}
+{"condition": "the customer has created date", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LAST_7_DAYS_SUM_RECHARGE", "source_client": "omantel"}
+{"condition": "created date value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LAST_7_DAYS_SUM_RECHARGE", "source_client": "omantel"}
+{"condition": "created date is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LAST_7_DAYS_SUM_RECHARGE", "source_client": "omantel"}
+{"condition": "sum(common total idd revenue) exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Common_Total_IDD_Revenue_SUM", "source_client": "omantel"}
+{"condition": "sum(common total idd revenue) is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Common_Total_IDD_Revenue_SUM", "source_client": "omantel"}
+{"condition": "the customer has sum(common total idd revenue)", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Common_Total_IDD_Revenue_SUM", "source_client": "omantel"}
+{"condition": "sum(common total idd revenue) value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Common_Total_IDD_Revenue_SUM", "source_client": "omantel"}
+{"condition": "sum(common total idd revenue) is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Common_Total_IDD_Revenue_SUM", "source_client": "omantel"}
+{"condition": "count check on the customer today", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "RECHARGE_CHECK_SSO_FINAL", "source_client": "airtel"}
+{"condition": "customer count condition today", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "RECHARGE_CHECK_SSO_FINAL", "source_client": "airtel"}
+{"condition": "subscriber count check today", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "RECHARGE_CHECK_SSO_FINAL", "source_client": "airtel"}
+{"condition": "the count satisfies the threshold today", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "RECHARGE_CHECK_SSO_FINAL", "source_client": "airtel"}
+{"condition": "customer count grouped check today", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "RECHARGE_CHECK_SSO_FINAL", "source_client": "airtel"}
+{"condition": "promotion was not delivered to the subscriber in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONRESPONDER_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "no promo received by the customer in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONRESPONDER_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "subscriber did not receive a promotion in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONRESPONDER_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "promotion absent for this customer in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONRESPONDER_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "promo was not sent in the last 2 days", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LC_NONRESPONDER_LAST_2_DAYS", "source_client": "omantel"}
+{"condition": "common data local payg revenue exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TOTAL_COMMON_DATA_LOCAL_PAYG_REVENUE", "source_client": "omantel"}
+{"condition": "common data local payg revenue is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TOTAL_COMMON_DATA_LOCAL_PAYG_REVENUE", "source_client": "omantel"}
+{"condition": "the customer has common data local payg revenue", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TOTAL_COMMON_DATA_LOCAL_PAYG_REVENUE", "source_client": "omantel"}
+{"condition": "common data local payg revenue value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TOTAL_COMMON_DATA_LOCAL_PAYG_REVENUE", "source_client": "omantel"}
+{"condition": "common data local payg revenue is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TOTAL_COMMON_DATA_LOCAL_PAYG_REVENUE", "source_client": "omantel"}
+{"condition": "re trans dt exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "DATA_BUNDLE_PRE3_MONTH", "source_client": "airtel"}
+{"condition": "re trans dt is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "DATA_BUNDLE_PRE3_MONTH", "source_client": "airtel"}
+{"condition": "the customer has re trans dt", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "DATA_BUNDLE_PRE3_MONTH", "source_client": "airtel"}
+{"condition": "re trans dt value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "DATA_BUNDLE_PRE3_MONTH", "source_client": "airtel"}
+{"condition": "re trans dt is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "DATA_BUNDLE_PRE3_MONTH", "source_client": "airtel"}
+{"condition": "hbb serviceclass exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "MP1", "source_client": "airtel"}
+{"condition": "hbb serviceclass is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "MP1", "source_client": "airtel"}
+{"condition": "the customer has hbb serviceclass", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "MP1", "source_client": "airtel"}
+{"condition": "hbb serviceclass value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "MP1", "source_client": "airtel"}
+{"condition": "hbb serviceclass is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "MP1", "source_client": "airtel"}
+{"condition": "makasb points exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LMS_REWARD_POINTS_S", "source_client": "omantel"}
+{"condition": "makasb points is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LMS_REWARD_POINTS_S", "source_client": "omantel"}
+{"condition": "the customer has makasb points", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LMS_REWARD_POINTS_S", "source_client": "omantel"}
+{"condition": "makasb points value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LMS_REWARD_POINTS_S", "source_client": "omantel"}
+{"condition": "makasb points is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "LMS_REWARD_POINTS_S", "source_client": "omantel"}
+{"condition": "tv event exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TEST113", "source_client": "airtel"}
+{"condition": "tv event is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TEST113", "source_client": "airtel"}
+{"condition": "the customer has tv event", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TEST113", "source_client": "airtel"}
+{"condition": "tv event value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TEST113", "source_client": "airtel"}
+{"condition": "tv event is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "TEST113", "source_client": "airtel"}
+{"condition": "count check on the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "INSTANT_RECHARGE_SUM_CHECK_NEW", "source_client": "omantel"}
+{"condition": "customer count condition", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "INSTANT_RECHARGE_SUM_CHECK_NEW", "source_client": "omantel"}
+{"condition": "subscriber count check", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "INSTANT_RECHARGE_SUM_CHECK_NEW", "source_client": "omantel"}
+{"condition": "the count satisfies the threshold", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "INSTANT_RECHARGE_SUM_CHECK_NEW", "source_client": "omantel"}
+{"condition": "customer count grouped check", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "INSTANT_RECHARGE_SUM_CHECK_NEW", "source_client": "omantel"}
+{"condition": "gex revenue exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "V_GEX_OMR", "source_client": "omantel"}
+{"condition": "gex revenue is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "V_GEX_OMR", "source_client": "omantel"}
+{"condition": "the customer has gex revenue", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "V_GEX_OMR", "source_client": "omantel"}
+{"condition": "gex revenue value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "V_GEX_OMR", "source_client": "omantel"}
+{"condition": "gex revenue is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "V_GEX_OMR", "source_client": "omantel"}
+{"condition": "common prepay voice revenue exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COMMON_Prepay_Voice_Revenue_Sum", "source_client": "omantel"}
+{"condition": "common prepay voice revenue is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COMMON_Prepay_Voice_Revenue_Sum", "source_client": "omantel"}
+{"condition": "the customer has common prepay voice revenue", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COMMON_Prepay_Voice_Revenue_Sum", "source_client": "omantel"}
+{"condition": "common prepay voice revenue value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COMMON_Prepay_Voice_Revenue_Sum", "source_client": "omantel"}
+{"condition": "common prepay voice revenue is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "COMMON_Prepay_Voice_Revenue_Sum", "source_client": "omantel"}
+{"condition": "common ic call mou exists for the customer", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Total_Voice_MOU", "source_client": "omantel"}
+{"condition": "common ic call mou is present", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Total_Voice_MOU", "source_client": "omantel"}
+{"condition": "the customer has common ic call mou", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Total_Voice_MOU", "source_client": "omantel"}
+{"condition": "common ic call mou value is set", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Total_Voice_MOU", "source_client": "omantel"}
+{"condition": "common ic call mou is not null", "track": 2, "track_label": "STATIC_FLAG", "source_vp_name": "Total_Voice_MOU", "source_client": "omantel"}
+{"condition": "sum of data usage within the last 60 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST60_DAYS", "source_client": "airtel"}
+{"condition": "subscriber's sum of data usage within the last 60 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST60_DAYS", "source_client": "airtel"}
+{"condition": "over the last 60 days data usage", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST60_DAYS", "source_client": "airtel"}
+{"condition": "subscriber's sum of data usage in the last 60 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST60_DAYS", "source_client": "airtel"}
+{"condition": "subscriber's overall data usage within the last 60 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST60_DAYS", "source_client": "airtel"}
+{"condition": "customer's TikTok data volume 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "the average TikTok usage three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "overall TikTok usage for three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "sum of TikTok usage during 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "TikTok data volume three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "total limit paybill for for that period", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LIMIT_PAYBILL", "source_client": "airtel"}
+{"condition": "overall limit paybill for that period", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LIMIT_PAYBILL", "source_client": "airtel"}
+{"condition": "the overall limit paybill over the period", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LIMIT_PAYBILL", "source_client": "airtel"}
+{"condition": "limit paybill for that period", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LIMIT_PAYBILL", "source_client": "airtel"}
+{"condition": "overall limit paybill during over the period", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LIMIT_PAYBILL", "source_client": "airtel"}
+{"condition": "the month before this product revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_Prepay_Product_Revenue", "source_client": "omantel"}
+{"condition": "sum of prepaid product revenue last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_Prepay_Product_Revenue", "source_client": "omantel"}
+{"condition": "M1 product revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_Prepay_Product_Revenue", "source_client": "omantel"}
+{"condition": "overall product revenue for previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_Prepay_Product_Revenue", "source_client": "omantel"}
+{"condition": "the average prepaid product revenue M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_Prepay_Product_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's average mobile data revenue W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_Data_Revenue", "source_client": "omantel"}
+{"condition": "average data billing revenue during eighth rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_Data_Revenue", "source_client": "omantel"}
+{"condition": "eighth rolling week data revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_Data_Revenue", "source_client": "omantel"}
+{"condition": "sum of data usage revenue for W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_Data_Revenue", "source_client": "omantel"}
+{"condition": "customer's mobile data revenue W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_Data_Revenue", "source_client": "omantel"}
+{"condition": "overall outgoing SMS revenue so far this month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "total OG SMS revenue during current month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "customer's outgoing SMS revenue so far this month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "customer's SMS revenue month to date", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "outgoing SMS revenue current month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "sum of SMS revenue the last 7 days rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "sum of prepaid SMS revenue W1 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "the average prepaid SMS revenue first rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "messaging revenue the last 7 days rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "total SMS revenue first rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "sum of outgoing voice revenue for W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "sum of OG call revenue for W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "average OG call revenue eighth rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's sum of OG call revenue W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "average OG call revenue during W8 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W8_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "og idd free sms count two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_FREE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "og idd free sms count the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_FREE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "the average og idd free sms count 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_FREE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "customer's og idd free sms count the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_FREE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "subscriber's sum of og idd free sms count 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_FREE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "the overall og idd payg call mou M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "customer's og idd payg call mou previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "sum of og idd payg call mou the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "overall og idd payg call mou for one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "sum of og idd payg call mou one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "subscriber's total total data consumed two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "the sum of data usage volume M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "customer's total data consumed the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "subscriber's average data volume the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "average data volume 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "overall total prepay revenue during M8", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M8_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "eight months ago total prepaid revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M8_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "overall total revenue eight months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M8_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "total total revenue during eight months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M8_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "average total revenue eight months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M8_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "overall WhatsApp usage previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_WHATSAPP_VOLUME", "source_client": "omantel"}
+{"condition": "WhatsApp data volume previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_WHATSAPP_VOLUME", "source_client": "omantel"}
+{"condition": "WhatsApp usage one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_WHATSAPP_VOLUME", "source_client": "omantel"}
+{"condition": "the sum of WhatsApp usage previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_WHATSAPP_VOLUME", "source_client": "omantel"}
+{"condition": "average WhatsApp data volume for one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_WHATSAPP_VOLUME", "source_client": "omantel"}
+{"condition": "overall streaming data usage during three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_STREAMING_VOLUME", "source_client": "omantel"}
+{"condition": "the total streaming volume 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_STREAMING_VOLUME", "source_client": "omantel"}
+{"condition": "sum of streaming volume during 3 months prior", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_STREAMING_VOLUME", "source_client": "omantel"}
+{"condition": "streaming volume three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_STREAMING_VOLUME", "source_client": "omantel"}
+{"condition": "3 months back streaming volume", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_STREAMING_VOLUME", "source_client": "omantel"}
+{"condition": "W4 rolling outgoing voice revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W4_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "customer's outgoing voice revenue rolling week 4", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W4_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "W4 rolling OG call revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W4_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "fourth rolling week outgoing call revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W4_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "average outgoing call revenue W4 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W4_OG_Call_Revenue", "source_client": "omantel"}
+{"condition": "the overall data usage volume 3 months prior", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "three months ago data volume", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "average total data consumed 3 months prior", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "data volume three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "sum of total data consumed during 3 months prior", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OFF_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "total data consumed M3", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "total data volume for 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "average total data consumed for 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "M3 data usage volume", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "average data volume for 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_PEAK_DATA_VOLUME", "source_client": "omantel"}
+{"condition": "total og roam payg call count for two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_ROAM_PAYG_CALL_COUNT", "source_client": "omantel"}
+{"condition": "the overall og roam payg call count two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_ROAM_PAYG_CALL_COUNT", "source_client": "omantel"}
+{"condition": "og roam payg call count two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_ROAM_PAYG_CALL_COUNT", "source_client": "omantel"}
+{"condition": "subscriber's total og roam payg call count two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_ROAM_PAYG_CALL_COUNT", "source_client": "omantel"}
+{"condition": "M2 og roam payg call count", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_ROAM_PAYG_CALL_COUNT", "source_client": "omantel"}
+{"condition": "MTD prepaid SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "messaging revenue current month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "overall SMS revenue during MTD", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "customer's SMS revenue month to date", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "overall SMS revenue MTD", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Sms_Revenue", "source_client": "omantel"}
+{"condition": "total outgoing SMS revenue for second rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W2_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "rolling week 2 SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W2_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "second rolling week OG SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W2_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "customer's SMS revenue second rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W2_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's sum of outgoing SMS revenue rolling week 2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W2_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "the month before last voice revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_Prepay_Voice_Revenue", "source_client": "omantel"}
+{"condition": "overall voice revenue during the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_Prepay_Voice_Revenue", "source_client": "omantel"}
+{"condition": "average prepay voice revenue two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_Prepay_Voice_Revenue", "source_client": "omantel"}
+{"condition": "sum of prepay voice revenue the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_Prepay_Voice_Revenue", "source_client": "omantel"}
+{"condition": "the month before last prepaid voice revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_Prepay_Voice_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's sum of OG SMS revenue one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "customer's outgoing SMS revenue one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "previous month OG SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "M1 SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "sum of SMS revenue for the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Sms_Revenue", "source_client": "omantel"}
+{"condition": "three months ago og payg call mou", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "og payg call mou 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "sum of og payg call mou three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "average og payg call mou 3 months prior", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "sum of og payg call mou for M3", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "the average og local bundle onnet call mou two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_LOCAL_BUNDLE_ONNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "subscriber's average og local bundle onnet call mou M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_LOCAL_BUNDLE_ONNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "total og local bundle onnet call mou for the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_LOCAL_BUNDLE_ONNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "customer's og local bundle onnet call mou M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_LOCAL_BUNDLE_ONNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "og local bundle onnet call mou two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_LOCAL_BUNDLE_ONNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "subscriber's average incoming call duration last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_CALL_MOU", "source_client": "omantel"}
+{"condition": "last month incoming MOU", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_CALL_MOU", "source_client": "omantel"}
+{"condition": "last month incoming call minutes", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_CALL_MOU", "source_client": "omantel"}
+{"condition": "incoming call minutes M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_CALL_MOU", "source_client": "omantel"}
+{"condition": "customer's incoming call minutes M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_CALL_MOU", "source_client": "omantel"}
+{"condition": "nine months ago total prepaid revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M9_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "sum of total prepay revenue nine months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M9_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "nine months ago total prepay revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M9_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "overall total prepay revenue M9", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M9_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "sum of total revenue nine months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M9_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "customer's complimentary data volume three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_DATA_FREE_VOLUME", "source_client": "omantel"}
+{"condition": "three months ago free data volume", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_DATA_FREE_VOLUME", "source_client": "omantel"}
+{"condition": "overall free data volume for M3", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_DATA_FREE_VOLUME", "source_client": "omantel"}
+{"condition": "sum of complimentary data volume during M3", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_DATA_FREE_VOLUME", "source_client": "omantel"}
+{"condition": "3 months prior complimentary data volume", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_DATA_FREE_VOLUME", "source_client": "omantel"}
+{"condition": "overall smvolumesum lst7days for during the last 7 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "SMVolumeSum_Lst7Days", "source_client": "omantel"}
+{"condition": "past 7 days smvolumesum lst7days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "SMVolumeSum_Lst7Days", "source_client": "omantel"}
+{"condition": "customer's smvolumesum lst7days during the last 7 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "SMVolumeSum_Lst7Days", "source_client": "omantel"}
+{"condition": "in the last 7 days smvolumesum lst7days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "SMVolumeSum_Lst7Days", "source_client": "omantel"}
+{"condition": "total smvolumesum lst7days for past 7 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "SMVolumeSum_Lst7Days", "source_client": "omantel"}
+{"condition": "previous month ic sms count", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_SMS_COUNT", "source_client": "omantel"}
+{"condition": "subscriber's sum of ic sms count the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_SMS_COUNT", "source_client": "omantel"}
+{"condition": "the total ic sms count M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_SMS_COUNT", "source_client": "omantel"}
+{"condition": "the average ic sms count previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_SMS_COUNT", "source_client": "omantel"}
+{"condition": "total ic sms count last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_IC_SMS_COUNT", "source_client": "omantel"}
+{"condition": "data usage in the last 45 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST45_DAYS", "source_client": "airtel"}
+{"condition": "overall data usage for over the last 45 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST45_DAYS", "source_client": "airtel"}
+{"condition": "data usage over the last 45 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST45_DAYS", "source_client": "airtel"}
+{"condition": "subscriber's sum of data usage during the last 45 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST45_DAYS", "source_client": "airtel"}
+{"condition": "data usage within the last 45 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "DATA_USAGE_LAST45_DAYS", "source_client": "airtel"}
+{"condition": "half a year back total prepaid revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M6_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "average total revenue for M6", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M6_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "overall prepaid revenue half a year back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M6_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "M6 total revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M6_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "six months ago total revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M6_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "customer's TikTok usage M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "TikTok usage 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "total TikTok data volume during two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "overall TikTok data volume during two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "average TikTok data volume during two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_TIKTOK_VOLUME", "source_client": "omantel"}
+{"condition": "overall og local offnet call mou during previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_LOCAL_OFFNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "customer's og local offnet call mou the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_LOCAL_OFFNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "previous month og local offnet call mou", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_LOCAL_OFFNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "customer's og local offnet call mou previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_LOCAL_OFFNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "average og local offnet call mou during last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_LOCAL_OFFNET_CALL_MOU", "source_client": "omantel"}
+{"condition": "the average prepay voice revenue previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_VOICE_REV", "source_client": "omantel"}
+{"condition": "sum of voice revenue one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_VOICE_REV", "source_client": "omantel"}
+{"condition": "overall prepaid voice revenue during M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_VOICE_REV", "source_client": "omantel"}
+{"condition": "average prepay voice revenue one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_VOICE_REV", "source_client": "omantel"}
+{"condition": "last month voice revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_VOICE_REV", "source_client": "omantel"}
+{"condition": "LMTD data usage revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LMTD_Data_Revenue", "source_client": "omantel"}
+{"condition": "the average mobile data revenue LMTD", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LMTD_Data_Revenue", "source_client": "omantel"}
+{"condition": "data revenue same period last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LMTD_Data_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's total data revenue last month to date", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LMTD_Data_Revenue", "source_client": "omantel"}
+{"condition": "last month to date data billing revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "LMTD_Data_Revenue", "source_client": "omantel"}
+{"condition": "the overall og bundle sms count three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_BUNDLE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "customer's og bundle sms count three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_BUNDLE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "three months ago og bundle sms count", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_BUNDLE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "the total og bundle sms count three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_BUNDLE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "sum of og bundle sms count three months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_BUNDLE_SMS_COUNT", "source_client": "omantel"}
+{"condition": "game volume the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_GAME_VOLUME", "source_client": "omantel"}
+{"condition": "average game volume for last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_GAME_VOLUME", "source_client": "omantel"}
+{"condition": "average game volume for the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_GAME_VOLUME", "source_client": "omantel"}
+{"condition": "customer's game volume previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_GAME_VOLUME", "source_client": "omantel"}
+{"condition": "game volume one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_GAME_VOLUME", "source_client": "omantel"}
+{"condition": "total OG SMS revenue for M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_SMS_REV", "source_client": "omantel"}
+{"condition": "OG SMS revenue last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_SMS_REV", "source_client": "omantel"}
+{"condition": "overall SMS revenue the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_SMS_REV", "source_client": "omantel"}
+{"condition": "last month OG SMS revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_SMS_REV", "source_client": "omantel"}
+{"condition": "customer's OG SMS revenue M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_SMS_REV", "source_client": "omantel"}
+{"condition": "overall overall prepaid revenue for W1 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's sum of total prepaid revenue W1 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "sum of total prepaid revenue for first rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "the average total prepay revenue rolling week 1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "overall prepaid revenue the last 7 days rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W1_Total_Prepay_Revenue", "source_client": "omantel"}
+{"condition": "three months ago og roam ibp call mou", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_ROAM_IBP_CALL_MOU", "source_client": "omantel"}
+{"condition": "subscriber's sum of og roam ibp call mou 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_ROAM_IBP_CALL_MOU", "source_client": "omantel"}
+{"condition": "3 months prior og roam ibp call mou", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_ROAM_IBP_CALL_MOU", "source_client": "omantel"}
+{"condition": "total og roam ibp call mou 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_ROAM_IBP_CALL_MOU", "source_client": "omantel"}
+{"condition": "overall og roam ibp call mou 3 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M3_OG_ROAM_IBP_CALL_MOU", "source_client": "omantel"}
+{"condition": "overall data billing revenue for over the last 15 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Last15Days_Data_Revenue", "source_client": "omantel"}
+{"condition": "customer's mobile data revenue past 15 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Last15Days_Data_Revenue", "source_client": "omantel"}
+{"condition": "average data usage revenue for past 15 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Last15Days_Data_Revenue", "source_client": "omantel"}
+{"condition": "in the last 15 days mobile data revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Last15Days_Data_Revenue", "source_client": "omantel"}
+{"condition": "data usage revenue past 15 days", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Last15Days_Data_Revenue", "source_client": "omantel"}
+{"condition": "customer's number of incoming calls two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_IC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "the month before last incoming call count", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_IC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "the sum of number of incoming calls M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_IC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "sum of number of incoming calls M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_IC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "the overall incoming call count M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_IC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "customer's data billing revenue W7 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W7_Prepay_Data_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's total data revenue seventh rolling week", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W7_Prepay_Data_Revenue", "source_client": "omantel"}
+{"condition": "seventh rolling week data billing revenue", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W7_Prepay_Data_Revenue", "source_client": "omantel"}
+{"condition": "total mobile data revenue during W7 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W7_Prepay_Data_Revenue", "source_client": "omantel"}
+{"condition": "data usage revenue W7 rolling", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "Rolling_W7_Prepay_Data_Revenue", "source_client": "omantel"}
+{"condition": "total og idd payg call mou for two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "total og idd payg call mou for M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "total og idd payg call mou 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "total og idd payg call mou during the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "the total og idd payg call mou 2 months back", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_PAYG_CALL_MOU", "source_client": "omantel"}
+{"condition": "subscriber's overall og roam gcc call count last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_ROAM_GCC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "customer's og roam gcc call count the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_ROAM_GCC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "og roam gcc call count last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_ROAM_GCC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "og roam gcc call count M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_ROAM_GCC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "subscriber's total og roam gcc call count last month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_ROAM_GCC_CALL_COUNT", "source_client": "omantel"}
+{"condition": "sum of prepaid gift revenue for so far this month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Gft_Revenue", "source_client": "omantel"}
+{"condition": "prepaid gift revenue current month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Gft_Revenue", "source_client": "omantel"}
+{"condition": "overall prepaid gift revenue for current month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Gft_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's total gift revenue MTD", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Gft_Revenue", "source_client": "omantel"}
+{"condition": "sum of prepaid gift revenue for month to date", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "MTD_Prepay_Gft_Revenue", "source_client": "omantel"}
+{"condition": "customer's roaming call revenue M1", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Roam_Call_Revenue", "source_client": "omantel"}
+{"condition": "subscriber's sum of outgoing roaming call revenue previous month", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Roam_Call_Revenue", "source_client": "omantel"}
+{"condition": "average outgoing roaming call revenue during the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Roam_Call_Revenue", "source_client": "omantel"}
+{"condition": "roaming call revenue the month before this", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Roam_Call_Revenue", "source_client": "omantel"}
+{"condition": "OG roam call revenue one month ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M1_OG_Roam_Call_Revenue", "source_client": "omantel"}
+{"condition": "overall outgoing IDD call revenue for the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_Call_Revenue", "source_client": "omantel"}
+{"condition": "outgoing IDD call revenue the month before last", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_Call_Revenue", "source_client": "omantel"}
+{"condition": "outgoing IDD call revenue two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_Call_Revenue", "source_client": "omantel"}
+{"condition": "IDD call revenue two months ago", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_Call_Revenue", "source_client": "omantel"}
+{"condition": "customer's outgoing IDD call revenue M2", "track": 1, "track_label": "TIME_SERIES", "source_vp_name": "M2_OG_IDD_Call_Revenue", "source_client": "omantel"}
+{"condition": "bonus received in the last X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "L_BONUS_SENT", "source_client": "airtel"}
+{"condition": "subscriber got a bonus during the configurable window", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "L_BONUS_SENT", "source_client": "airtel"}
+{"condition": "bonus delivered in the past X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "L_BONUS_SENT", "source_client": "airtel"}
+{"condition": "bonus sent in the last X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "L_BONUS_SENT", "source_client": "airtel"}
+{"condition": "the customer was bonused in the last specified days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "L_BONUS_SENT", "source_client": "airtel"}
+{"condition": "metric over the last X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "LC_NONDELIVERED_ACTION_KEY_LAST_${X}_DAYS", "source_client": "omantel"}
+{"condition": "value during a configurable day window", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "LC_NONDELIVERED_ACTION_KEY_LAST_${X}_DAYS", "source_client": "omantel"}
+{"condition": "the KPI in the past X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "LC_NONDELIVERED_ACTION_KEY_LAST_${X}_DAYS", "source_client": "omantel"}
+{"condition": "the metric over a runtime time window", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "LC_NONDELIVERED_ACTION_KEY_LAST_${X}_DAYS", "source_client": "omantel"}
+{"condition": "subscriber's value in the last X days", "track": 5, "track_label": "PARAMETERIZED", "source_vp_name": "LC_NONDELIVERED_ACTION_KEY_LAST_${X}_DAYS", "source_client": "omantel"}
+{"condition": "subscriber was detected in a region in the last 30 days", "track": 3, "track_label": "SNAPSHOT", "source_vp_name": "GEO_LOCATION_30_DAYS", "source_client": "omantel"}
+{"condition": "customer's region in the past 30 days", "track": 3, "track_label": "SNAPSHOT", "source_vp_name": "GEO_LOCATION_30_DAYS", "source_client": "omantel"}
+{"condition": "geographic presence within the last 30 days", "track": 3, "track_label": "SNAPSHOT", "source_vp_name": "GEO_LOCATION_30_DAYS", "source_client": "omantel"}
+{"condition": "region the customer was in over the last 30 days", "track": 3, "track_label": "SNAPSHOT", "source_vp_name": "GEO_LOCATION_30_DAYS", "source_client": "omantel"}
+{"condition": "the subscriber appeared in a location during the last 30 days", "track": 3, "track_label": "SNAPSHOT", "source_vp_name": "GEO_LOCATION_30_DAYS", "source_client": "omantel"}
+{"condition": "percentage drop in voice revenue between two months", "track": 4, "track_label": "COMPARATIVE", "source_vp_name": "M3_VOICE_REV_M2_VOICE_REV_PCT_DROP", "source_client": "omantel"}
+{"condition": "month-over-month decline in voice revenue", "track": 4, "track_label": "COMPARATIVE", "source_vp_name": "M3_VOICE_REV_M2_VOICE_REV_PCT_DROP", "source_client": "omantel"}
+{"condition": "voice revenue drop comparing two consecutive months", "track": 4, "track_label": "COMPARATIVE", "source_vp_name": "M3_VOICE_REV_M2_VOICE_REV_PCT_DROP", "source_client": "omantel"}
+{"condition": "voice revenue fell by some percentage between months", "track": 4, "track_label": "COMPARATIVE", "source_vp_name": "M3_VOICE_REV_M2_VOICE_REV_PCT_DROP", "source_client": "omantel"}
+{"condition": "% decrease in voice revenue from one month to the next", "track": 4, "track_label": "COMPARATIVE", "source_vp_name": "M3_VOICE_REV_M2_VOICE_REV_PCT_DROP", "source_client": "omantel"}
+{"condition": "action key was not sent with offnet MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "DEFAULTCHECK_OFF", "source_client": "airtel"}
+{"condition": "subscriber did not receive the action key with offnet MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "DEFAULTCHECK_OFF", "source_client": "airtel"}
+{"condition": "no action key delivered with offnet MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "DEFAULTCHECK_OFF", "source_client": "airtel"}
+{"condition": "absent action key with offnet MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "DEFAULTCHECK_OFF", "source_client": "airtel"}
+{"condition": "action key count is zero with offnet MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "DEFAULTCHECK_OFF", "source_client": "airtel"}
+{"condition": "action key was not sent via RE_REFILL_ID", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "EXCL_EXPIRY_DAYS", "source_client": "airtel"}
+{"condition": "subscriber did not receive the action key via RE_REFILL_ID", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "EXCL_EXPIRY_DAYS", "source_client": "airtel"}
+{"condition": "no action key delivered via RE_REFILL_ID", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "EXCL_EXPIRY_DAYS", "source_client": "airtel"}
+{"condition": "absent action key via RE_REFILL_ID", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "EXCL_EXPIRY_DAYS", "source_client": "airtel"}
+{"condition": "action key count is zero via RE_REFILL_ID", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "EXCL_EXPIRY_DAYS", "source_client": "airtel"}
+{"condition": "action key was sent via OM_MSISDN in the last 364 days", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "12WEEKCHECK_GRT", "source_client": "airtel"}
+{"condition": "customer received an action key via OM_MSISDN in the past 364 days", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "12WEEKCHECK_GRT", "source_client": "airtel"}
+{"condition": "action key delivered via OM_MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "12WEEKCHECK_GRT", "source_client": "airtel"}
+{"condition": "action key present via OM_MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "12WEEKCHECK_GRT", "source_client": "airtel"}
+{"condition": "action key count is greater than zero via OM_MSISDN", "track": 6, "track_label": "JOIN_CHECK", "source_vp_name": "12WEEKCHECK_GRT", "source_client": "airtel"}

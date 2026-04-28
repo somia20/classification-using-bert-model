@@ -1,0 +1,4026 @@
+input,output
+was zero or null on the most recent date in the last 39 days,3
+combined data usage and outgoing call MOU over last 16 weeks,1
+not subscribed to product in last 40 days,2
+combined account balance and og call revenue over last 12 weeks,1
+customers who activated HBB add-on yesterday,3
+customers detected in South at least once in the last 70 days,3
+purchased specified product in the last 9 months,5
+account balance growth over the last 38 weeks,4
+revenue greater than given value,5
+customers who activated HBB add-on yesterday,3
+customers detected in Region X at least once in the last 2 months,3
+total outgoing call MOU in the last 4 days,1
+combined data usage and account balance over last 73 weeks,1
+Last X days account balance,5
+data usage greater than given value,5
+count of action keys sent in the last 5 days,2
+difference in data volume and data usage from yesterday,4
+customers whose outgoing call MOU on event date >= 31,3
+Promo sent for campaign responses in last X days,5
+average data usage over last 90 weeks,1
+next best offer exists,2
+customers whose campaign responses count in the last 9 months >= 1,1
+customers who received a bonus for purchases in the last N days,5
+combined data volume and revenue over last 86 weeks,1
+average data volume over last 78 weeks,1
+outgoing call MOU growth over the last 49 days,4
+customers whose purchases count in the last 54 weeks >= 23,1
+Last X days outgoing call MOU,5
+customer VALUE_SEGMENT_OVERALL > 55,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+tariff plan is available,2
+average outgoing call MOU over last NoOfDays days,5
+Promo sent for billing events in last X days,5
+percentage increase in revenue compared to 32 months ago,4
+combined data usage and outgoing call MOU over last 2 weeks,1
+customers detected in Northoman at least once in the last 2 months,3
+customer network age > 88,2
+Last X days outgoing call MOU,5
+customers who activated prepaid best plan yesterday,3
+network age = 54,2
+account balance drop of more than 70% compared to last month,4
+incoming call MOU drop of more than 29% compared to last month,4
+percentage increase in data volume compared to 19 months ago,4
+percentage increase in data volume compared to 24 months ago,4
+og call revenue growth over the last 57 months,4
+no active M138,2
+customers who received a bonus for purchases in the last N days,5
+count of billing events sent in the last 76 days,2
+was zero or null on the most recent date in the last 43 days,3
+was zero or null on the most recent date in the last 26 days,3
+sum of og call revenue and incoming call MOU in the last 30 days,1
+incoming call MOU greater than given value,5
+combined incoming call MOU and revenue over last 15 months,1
+average incoming call MOU over last 44 months,1
+average revenue over last NoOfDays days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+total recharge amount for MD03,1
+next best offer exists,2
+no active M138,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customers who received a bonus for campaign responses in the last N days,5
+customers detected in Region X at least once in the last 2 months,3
+incoming call MOU greater than given value,5
+average data usage over last 27 weeks,1
+count of billing events sent in the last 92 days,2
+outgoing call MOU last month,1
+difference in incoming call MOU and data volume from yesterday,4
+count of billing events in the last 50 days,1
+total data volume in the last 80 months,1
+customers whose current location is Region X,3
+outgoing call MOU greater than given value,5
+outgoing call MOU drop of more than 55% compared to last month,4
+customers who received a bonus for campaign responses in the last N days,5
+average weekly outgoing call MOU,1
+VALUE_SEGMENT_OVERALL = 71,2
+average outgoing call MOU over last NoOfDays days,5
+customers whose account balance on event date >= 50,3
+customer network age > 10,2
+count of purchases in the last 57 months,1
+account balance drop of more than 30% compared to last month,4
+customers who received a bonus for bonuses in the last N days,5
+purchased specified product in the last 8 months,5
+was zero or null on the most recent date in the last 60 days,3
+Promo sent for promotions in last X days,5
+og call revenue greater than given value,5
+customers detected in South at least once in the last 25 days,3
+subscribed at most 55 times in the last 30 days,2
+customers who activated prepaid best plan yesterday,3
+customers who have a valid ID and MAX(ID) <> NULL,3
+count of purchases sent in the last 30 days,2
+average data usage over last NoOfDays days,5
+customer network age > 38,2
+network age is available,2
+percentage increase in outgoing call MOU compared to 79 months ago,4
+count of action keys per device,2
+average account balance over last NoOfDays days,5
+customers whose current location is North,3
+customer network age > 87,2
+total data volume for HBB add-on,1
+average weekly incoming call MOU,1
+subscribed at most 22 times in the last 30 days,2
+average weekly data volume,1
+count of billing events per device,2
+recharge amount ratio between this month and last month,4
+count of purchases per device,2
+percentage increase in outgoing call MOU compared to 73 months ago,4
+subscribed at most 68 times in the last 30 days,2
+Last X days incoming call MOU,5
+outgoing call MOU drop of more than 38% compared to last month,4
+revenue ratio between this month and last month,4
+count of purchases in the last 46 days,1
+customers whose bonuses count in the last 19 months >= 78,1
+customers who received a bonus for billing events in the last N days,5
+percentage increase in outgoing call MOU compared to 17 months ago,4
+percentage increase in incoming call MOU compared to 89 months ago,4
+combined data volume and data usage over last 70 months,1
+average recharge amount over last NoOfDays days,5
+percentage increase in account balance compared to 5 months ago,4
+subscribed to prepaid best plan in last X days,5
+total recharge amount in the last 12 months,1
+sum of revenue and recharge amount in the last 30 days,1
+difference in recharge amount and og call revenue from yesterday,4
+count of campaign responses per device,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customer is not subscribed to MD03 in the last 16 days,2
+customers whose data volume on event date >= 10,3
+percentage increase in account balance compared to 26 months ago,4
+count of billing events per product,2
+average data volume over last 47 weeks,1
+customers detected in North at least once in the last 68 days,3
+difference in recharge amount and data usage from yesterday,4
+purchased specified product in the last 8 months,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+difference in og call revenue and account balance from yesterday,4
+data usage ratio between this month and last month,4
+customers whose data usage on event date >= 41,3
+data volume growth over the last 23 weeks,4
+customers detected in North at least once in the last 23 days,3
+customers detected in South at least once in the last 2 months,3
+customers whose current location is Region X,3
+difference in account balance and recharge amount from yesterday,4
+average account balance over last NoOfDays days,5
+VALUE_SEGMENT_OVERALL is available,2
+average data usage over last NoOfDays days,5
+customers whose current location is North,3
+account balance ratio between this month and last month,4
+account balance growth over the last 64 days,4
+no active MD03,2
+count of campaign responses per MSISDN,2
+purchased specified product in the last 9 months,5
+difference in og call revenue and revenue from yesterday,4
+Last X days recharge amount,5
+data volume drop of more than 71% compared to last month,4
+combined outgoing call MOU and incoming call MOU over last 49 months,1
+customer is not subscribed to M138 in the last 96 days,2
+Promo sent for purchases in last X days,5
+Promo sent for purchases in last X days,5
+subscribed to prepaid best plan in last X days,5
+customers who activated M138 yesterday,3
+customers whose current location is Region X,3
+total revenue for HBB add-on,1
+next best offer exists,2
+customers who received a bonus for purchases in the last N days,5
+not subscribed to product in last 40 days,2
+customers whose current location is North,3
+data usage ratio between this month and last month,4
+customers detected in Northoman at least once in the last 2 months,3
+Promo sent for purchases in last X days,5
+count of campaign responses grouped by product,2
+subscribed to prepaid best plan in last X days,5
+Last X days account balance,5
+customer is not subscribed to prepaid best plan in the last 24 days,2
+customers detected in North at least once in the last 2 months,3
+og call revenue ratio between this month and last month,4
+difference in recharge amount and account balance from yesterday,4
+total outgoing call MOU in the last 57 weeks,1
+combined account balance and outgoing call MOU over last 46 days,1
+not subscribed to product in last 40 days,2
+account balance ratio between this month and last month,4
+next best offer exists,2
+revenue greater than given value,5
+count of campaign responses per device,2
+customers detected in Region X at least once in the last 65 days,3
+Promo sent for promotions in last X days,5
+difference in revenue and outgoing call MOU from yesterday,4
+tariff plan is available,2
+customers detected in North at least once in the last 2 months,3
+count of bonuses in the last 12 days,1
+average revenue over last NoOfDays days,5
+customers whose promotions count in the last 33 months >= 73,1
+percentage increase in recharge amount compared to 66 months ago,4
+customer is not subscribed to MD03 in the last 68 days,2
+customers detected in North at least once in the last 42 days,3
+customers who activated product id 500 yesterday,3
+customers detected in North at least once in the last 68 days,3
+subscribed to HBB add-on in last X days,5
+percentage increase in data usage compared to 71 months ago,4
+recharge amount drop of more than 67% compared to last month,4
+subscribed at most 94 times in the last 30 days,2
+account balance ratio between this month and last month,4
+percentage increase in outgoing call MOU compared to 72 months ago,4
+count of action keys per MSISDN,2
+customers detected in Northoman at least once in the last 30 days,3
+count of action keys per subscriber,2
+account balance growth over the last 81 days,4
+difference in account balance and revenue from yesterday,4
+customers detected in North at least once in the last 2 months,3
+average incoming call MOU over last NoOfDays days,5
+customers detected in South at least once in the last 2 months,3
+average data volume over last 57 weeks,1
+was zero or null on the most recent date in the last 73 days,3
+was zero or null on the most recent date in the last 20 days,3
+customers detected in North at least once in the last 24 days,3
+combined revenue and recharge amount over last 62 months,1
+not subscribed to product in last 40 days,2
+customers detected in Northoman at least once in the last 40 days,3
+count of campaign responses per subscriber,2
+percentage increase in account balance compared to 12 months ago,4
+average outgoing call MOU over last 78 months,1
+average weekly revenue,1
+subscribed at most 4 times in the last 30 days,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customer is not subscribed to product id 500 in the last 77 days,2
+data usage growth over the last 45 months,4
+customers who received a bonus for action keys in the last N days,5
+combined data volume and recharge amount over last 65 months,1
+total data usage for M138,1
+network age = 100,2
+customers who have a valid ID and MAX(ID) <> NULL,3
+customers whose revenue on event date >= 79,3
+data volume ratio between this month and last month,4
+outgoing call MOU growth over the last 71 months,4
+customers detected in North at least once in the last 2 months,3
+sum of revenue and og call revenue in the last 30 days,1
+count of bonuses sent in the last 46 days,2
+average incoming call MOU over last NoOfDays days,5
+revenue drop of more than 37% compared to last month,4
+next best offer exists,2
+count of promotions in the last 86 months,1
+count of purchases in the last 4 weeks,1
+outgoing call MOU greater than given value,5
+not subscribed to product in last 40 days,2
+customers whose current location is South,3
+subscribed to M138 in last X days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+combined revenue and recharge amount over last 74 days,1
+customers detected in North at least once in the last 2 months,3
+og call revenue growth over the last 19 days,4
+customers who activated MD03 yesterday,3
+customers who activated product id 500 yesterday,3
+customers who received a bonus for bonuses in the last N days,5
+purchased specified product in the last 5 months,5
+average recharge amount over last 84 months,1
+revenue drop of more than 12% compared to last month,4
+not subscribed to product in last 40 days,2
+total data volume in the last 69 months,1
+recharge amount greater than given value,5
+subscribed at most 25 times in the last 30 days,2
+customers whose current location is Northoman,3
+difference in outgoing call MOU and revenue from yesterday,4
+customers who activated HBB add-on yesterday,3
+average weekly og call revenue,1
+data usage last month,1
+purchased specified product in the last 3 months,5
+Last X days outgoing call MOU,5
+average revenue over last 69 weeks,1
+customers who activated product id 500 yesterday,3
+customers whose incoming call MOU on event date >= 37,3
+customers detected in Region X at least once in the last 34 days,3
+no active product id 500,2
+percentage increase in revenue compared to 9 months ago,4
+customers whose purchases count in the last 27 days >= 67,1
+subscribed to M138 in last X days,5
+no active M138,2
+total incoming call MOU for MD03,1
+total incoming call MOU for M138,1
+customers whose incoming call MOU on event date >= 30,3
+customer is not subscribed to prepaid best plan in the last 25 days,2
+customers who received a bonus for action keys in the last N days,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+average weekly og call revenue,1
+account balance growth over the last 31 weeks,4
+sum of data usage and incoming call MOU in the last 30 days,1
+was zero or null on the most recent date in the last 84 days,3
+average weekly recharge amount,1
+total incoming call MOU for prepaid best plan,1
+count of purchases grouped by device,2
+total outgoing call MOU for prepaid best plan,1
+no active M138,2
+incoming call MOU last month,1
+difference in outgoing call MOU and data usage from yesterday,4
+purchased specified product in the last 3 months,5
+percentage increase in outgoing call MOU compared to 65 months ago,4
+customer audience segment > 64,2
+next best offer exists,2
+not subscribed to product in last 40 days,2
+was zero or null on the most recent date in the last 79 days,3
+subscribed to M138 in last X days,5
+data volume ratio between this month and last month,4
+data volume greater than given value,5
+customer is not subscribed to product id 500 in the last 23 days,2
+next best offer exists,2
+count of purchases in the last 90 weeks,1
+count of bonuses per subscriber,2
+Last X days outgoing call MOU,5
+difference in og call revenue and revenue from yesterday,4
+customer VALUE_SEGMENT_OVERALL > 31,2
+outgoing call MOU drop of more than 12% compared to last month,4
+customers who have a valid ID and MAX(ID) <> NULL,3
+total outgoing call MOU for product id 500,1
+count of purchases grouped by device,2
+was zero or null on the most recent date in the last 27 days,3
+customers who activated HBB add-on yesterday,3
+customers detected in Region X at least once in the last 66 days,3
+average weekly account balance,1
+incoming call MOU greater than given value,5
+customers detected in South at least once in the last 2 months,3
+og call revenue growth over the last 87 days,4
+total outgoing call MOU in the last 12 weeks,1
+customers whose billing events count in the last 71 days >= 17,1
+recharge amount growth over the last 77 days,4
+customers detected in North at least once in the last 2 months,3
+customers who have a valid ID and MAX(ID) <> NULL,3
+percentage increase in data volume compared to 6 months ago,4
+was zero or null on the most recent date in the last 26 days,3
+sum of data volume and og call revenue in the last 30 days,1
+recharge amount growth over the last 31 weeks,4
+incoming call MOU growth over the last 45 days,4
+customer VALUE_SEGMENT_OVERALL > 88,2
+subscribed to HBB add-on in last X days,5
+total data usage in the last 61 days,1
+subscribed to HBB add-on in last X days,5
+audience segment = 95,2
+average og call revenue over last 61 days,1
+average outgoing call MOU over last 33 weeks,1
+subscribed to HBB add-on in last X days,5
+customer network age > 98,2
+recharge amount greater than given value,5
+data volume drop of more than 83% compared to last month,4
+customers detected in North at least once in the last 2 months,3
+next best offer exists,2
+customers whose current location is Northoman,3
+was zero or null on the most recent date in the last 29 days,3
+count of promotions in the last 82 days,1
+percentage increase in revenue compared to 19 months ago,4
+subscribed at most 42 times in the last 30 days,2
+total data volume in the last 3 days,1
+Last X days revenue,5
+percentage increase in outgoing call MOU compared to 40 months ago,4
+customers who received a bonus for action keys in the last N days,5
+count of purchases grouped by MSISDN,2
+count of purchases grouped by device,2
+account balance drop of more than 64% compared to last month,4
+customers who activated prepaid best plan yesterday,3
+outgoing call MOU last month,1
+Last X days og call revenue,5
+data volume greater than given value,5
+count of billing events in the last 56 weeks,1
+percentage increase in recharge amount compared to 29 months ago,4
+count of bonuses grouped by product,2
+average recharge amount over last 86 weeks,1
+purchased specified product in the last 8 months,5
+average weekly data usage,1
+average revenue over last 71 days,1
+Last X days data volume,5
+outgoing call MOU growth over the last 15 weeks,4
+customer is not subscribed to M138 in the last 81 days,2
+Last X days recharge amount,5
+customers who have a valid ID and MAX(ID) <> NULL,3
+average weekly incoming call MOU,1
+subscribed to product id 500 in last X days,5
+not subscribed to product in last 40 days,2
+percentage increase in data usage compared to 32 months ago,4
+combined recharge amount and og call revenue over last 71 days,1
+outgoing call MOU ratio between this month and last month,4
+difference in incoming call MOU and account balance from yesterday,4
+customer is not subscribed to product id 500 in the last 67 days,2
+outgoing call MOU drop of more than 40% compared to last month,4
+difference in data usage and data volume from yesterday,4
+account balance greater than given value,5
+count of campaign responses per MSISDN,2
+account balance growth over the last 58 days,4
+og call revenue greater than given value,5
+difference in incoming call MOU and revenue from yesterday,4
+purchased specified product in the last 8 months,5
+revenue growth over the last 13 months,4
+combined account balance and account balance over last 22 days,1
+average og call revenue over last NoOfDays days,5
+average revenue over last NoOfDays days,5
+customers whose current location is Northoman,3
+was zero or null on the most recent date in the last 46 days,3
+incoming call MOU greater than given value,5
+difference in og call revenue and data volume from yesterday,4
+difference in data volume and og call revenue from yesterday,4
+subscribed to M138 in last X days,5
+count of bonuses in the last 49 days,1
+customers detected in South at least once in the last 58 days,3
+customer is not subscribed to product id 500 in the last 76 days,2
+account balance drop of more than 43% compared to last month,4
+total outgoing call MOU for product id 500,1
+subscribed at most 53 times in the last 30 days,2
+count of promotions sent in the last 37 days,2
+count of campaign responses in the last 46 days,1
+difference in revenue and revenue from yesterday,4
+data usage ratio between this month and last month,4
+customers who activated M138 yesterday,3
+data volume growth over the last 56 months,4
+average data volume over last NoOfDays days,5
+count of promotions in the last 12 weeks,1
+no active product id 500,2
+account balance greater than given value,5
+data usage greater than given value,5
+customers detected in South at least once in the last 67 days,3
+customers detected in North at least once in the last 26 days,3
+revenue last month,1
+Last X days outgoing call MOU,5
+no active product id 500,2
+Promo sent for action keys in last X days,5
+average weekly data volume,1
+recharge amount drop of more than 52% compared to last month,4
+network age = 100,2
+next best offer exists,2
+combined og call revenue and revenue over last 20 months,1
+percentage increase in data usage compared to 55 months ago,4
+customers who activated prepaid best plan yesterday,3
+total revenue fell by some percentage between months,4
+overall roaming call revenue this month,1
+no subscription on the account in the last specified number of days,5
+promotion in the last X days,5
+YouTube usage as a percentage of total streaming,4
+total incoming call minutes two months ago,1
+HBB record check by IMEI,6
+the most recent record,3
+subscriber is not subscribed to a product over the last X days,5
+customer's complimentary data volume one month ago,1
+subscriber is not subscribed to a product over the last X days,5
+value during a configurable day window,5
+OG roam call revenue eighth rolling week,1
+category check via OM_MSISDN,6
+common og idd payg call revenue is present,2
+subscriber's overall product revenue the last 7 days rolling,1
+no bonus delivered to customer in the last 180 days,2
+subscriber's total data usage last month the last 1 completed months,1
+the customer has cust 360 nbo productid,2
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+subscriber's sum of 10 days total rev within the last 10 days,1
+percentage drop in data revenue between two months,4
+YouTube usage as a percentage of total streaming,4
+action key was sent via OM_MSISDN in the last 84 days,6
+month-over-month decline in total revenue,4
+latest snapshot of the value,3
+bonus received in the last X days,5
+highest value of the field,3
+HBB device IMEI lookup with no match,6
+ratio of YouTube to total data usage,4
+total bill paid in the last X days,5
+the overall og idd vf call mou the month before this,1
+% decrease in data revenue from one month to the next,4
+max HBB ID lookup,3
+rej msisdn is present,2
+action key was sent with offnet MSISDN,6
+customer's OMIP revenue within the last 15 days,1
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+customer count grouped check in the last 30 days,2
+average OG SMS revenue for one month ago,1
+percentage drop in total revenue between two months,4
+the latest record's inactivation date for this HBB,3
+two months ago OG roam call revenue,1
+total revenue fell by some percentage between months,4
+action key delivered with offnet MSISDN,6
+HBB device IMEI lookup with no match,6
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+cust 360 nbo productid exists for the customer,2
+latest HBB ID for the customer,3
+the customer is whitelisted,2
+subscription is absent over the past X days,5
+YouTube as % of streaming volume,4
+YouTube usage as a percentage of total streaming,4
+action key was not sent with offnet MSISDN in the last 84 days,6
+the most recent record,3
+re trans dt value is set,2
+sum of total prepaid revenue during previous month,1
+the customer matched by MSISDN with the category check,6
+HBB record found by IMEI with action key sent,6
+action key count is zero where MSISDN matches OM_MSISDN,6
+peak voice revenue record,3
+customer count grouped check today,2
+YouTube as % of total data this month,4
+the latest record's inactivation date for this HBB,3
+snapshot of HBB add-on inactivation,3
+YouTube percentage of total monthly data,4
+total revenue fell by some percentage between months,4
+the customer has common og idd call revenue,2
+where the subscriber is currently located,3
+category lookup joined on the offnet MSISDN,6
+% decrease in data revenue from one month to the next,4
+subscriber category match joined on MSISDN,6
+action key count is greater than zero via OM_MSISDN,6
+YouTube percentage of total monthly data,4
+voice revenue drop comparing two consecutive months,4
+action key was not sent where MSISDN matches OM_MSISDN in the last 350 days,6
+customer count grouped check in the last 180 days,2
+customer count condition,2
+the largest voice revenue event,3
+YouTube usage as a percentage of total streaming,4
+YouTube as % of total data this month,4
+YouTube usage as a percentage of total data,4
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+value during a configurable day window,5
+% decrease in total revenue from one month to the next,4
+customer count grouped check,2
+maximum prepaid voice revenue event for the customer,3
+verify SDC counter against device ID,6
+the latest record's inactivation date for this HBB,3
+sum of OMIP revenue M1,1
+subscriber's average og bundle call mou three months ago,1
+ratio of YouTube to total streaming,4
+total revenue over the last X days,5
+the customer has service type,2
+the customer has subscriptions product id,2
+the average outgoing call duration one month ago,1
+voice revenue fell by some percentage between months,4
+customer's total prepaid revenue ten months ago,1
+the customer has created date,2
+month-over-month decline in voice revenue,4
+action key was sent joined on MSISDN in the last 364 days,6
+the customer was bonused in the last specified days,5
+promo confirmed in the last specified days,5
+customer's og roam free sms count M3,1
+the customer added the HBB addon yesterday,3
+OG SMS revenue W6 rolling,1
+og idd ibp call mou last month,1
+action key was sent where MSISDN matches OM_CHECK_MSISDN,6
+total revenue fell by some percentage between months,4
+number of bill events over the last specified days,5
+percentage drop in voice revenue between two months,4
+no action key delivered where MSISDN matches OM_MSISDN,6
+subscriptions product id is present,2
+data revenue fell by some percentage between months,4
+promotion was not delivered to the subscriber in the last 30 days,2
+hbb addon comp id is not null,2
+HBB IMEI presence check,6
+the KPI in the past X days,5
+re trans dt value is set,2
+sum of outgoing SMS revenue during last month to date,1
+max recorded value,3
+value during a configurable day window,5
+total revenue fell by some percentage between months,4
+the customer matched by MSISDN with the category check,6
+subscriber's value in the last X days,5
+customer's current location,3
+max voice revenue for the subscriber,3
+redemption activity over the last specified days,5
+no action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+the overall outgoing voice revenue M1,1
+subscriber's overall og roam bundle call count M3,1
+overall VAS revenue for month to date,1
+the maximum value of the metric,3
+YouTube usage as a percentage of total data,4
+points redeemed during the configurable window,5
+the count satisfies the threshold,2
+month-over-month decline in total revenue,4
+no promo received by the customer in the last 45 days,2
+category check joined on the offnet MSISDN,6
+no active subscription on the account in the last 30 days,2
+count of bill events during the configurable window,5
+total revenue fell by some percentage between months,4
+promo was sent during a configurable window,5
+latest HBB ID for the customer,3
+voice revenue drop comparing two consecutive months,4
+subscriber is not subscribed to a product over the last X days,5
+subscriber's total OMIP revenue first rolling week,1
+HBB addon was activated yesterday with no active fixed line,3
+count check on the customer in the last 30 days,2
+sum of messaging revenue during last month to date,1
+latest HBB ID for the customer,3
+promotion was not delivered to the subscriber in the last 30 days,2
+recent activation in the last specified hours,5
+count check on the customer,2
+subscriber's sum of overall prepaid revenue seven months ago,1
+audience segment membership check,2
+the maximum value of the metric,3
+promotion was not delivered to the subscriber in the last 180 days,2
+voice revenue drop comparing two consecutive months,4
+recharge revenue accumulated over the last X days,5
+total email volume during one month ago,1
+category check where MSISDN matches OM_MSISDN,6
+l action key exists for the customer,2
+data revenue drop comparing two consecutive months,4
+the latest record's inactivation date for this HBB,3
+action key count is zero joined on MSISDN,6
+no promo received by the customer in the last 30 days,2
+promotion was delivered to the subscriber in the last 4 days,2
+no active subscription on the account,2
+IDD call count in the last X days,5
+promotion absent for this customer in the last 180 days,2
+subscriber's average og local onnet call mou three months ago,1
+the most recent record,3
+max recorded value,3
+% decrease in total revenue from one month to the next,4
+subscriber category match where MSISDN matches OM_MSISDN,6
+the most recent record,3
+two months ago og roam gcc call count,1
+customer has not subscribed in the last X days,5
+the metric over a runtime time window,5
+mr fct month exists for the customer,2
+sum of gift revenue during same period last month,1
+action key delivered with offnet MSISDN,6
+month-over-month decline in voice revenue,4
+as segment id is present,2
+verify category for the joined record joined on the offnet MSISDN,6
+subscriber category match with offnet MSISDN,6
+YouTube usage as a percentage of total streaming,4
+ratio of YouTube to total streaming,4
+bonus sent in the last X days,5
+action key was not sent joined on MSISDN in the last 350 days,6
+subscriber attribute is greater than the threshold,2
+category check where MSISDN matches OM_MSISDN,6
+customer received a promotion in the past X days,5
+re trans dt is not null,2
+subscriber's current geographical location,3
+month-over-month decline in total revenue,4
+voice revenue fell by some percentage between months,4
+customer activated HBB addon yesterday and has no fixed line,3
+highest voice revenue ever recorded,3
+customer count grouped check,2
+subscriber's overall total voice usage M3,1
+category check joined on MSISDN,6
+customer has subscribed during the last specified days,5
+the overall og idd gcc call count the month before last,1
+verify category for the joined record joined on the offnet MSISDN,6
+count check on the customer,2
+total prepaid SMS revenue during rolling week 4,1
+sum of OG roam call revenue for W6 rolling,1
+no promo received by the customer in the last 180 days,2
+customer received an action key via OM_MSISDN in the past 182 days,6
+promo confirmed in the last specified days,5
+subscriber received the action key,2
+action key count is greater than zero joined on MSISDN,6
+bonus delivered in the past X days,5
+number of bill events over the last specified days,5
+the latest record's inactivation date for this HBB,3
+HBB add-on inactivation date check by HBB ID,3
+promotion absent for this customer in the last 1 days,2
+subscriber activated the HBB addon one day ago,3
+HBB record check by IMEI,6
+redemption activity over the last specified days,5
+action key count is greater than zero with offnet MSISDN,6
+prepaid MT revenue rolling week 1,1
+ratio of YouTube to total streaming,4
+action key present via OM_MSISDN,6
+% decrease in voice revenue from one month to the next,4
+percentage drop in data revenue between two months,4
+social media volume over a configurable window,5
+re trans dt exists for the customer,2
+subscriber's current geographical location,3
+number of international calls over the past X days,5
+recharge revenue accumulated over the last X days,5
+percentage drop in data revenue between two months,4
+percentage drop in voice revenue between two months,4
+past 30 days voice call revenue,1
+customer has subscribed during the last specified days,5
+max voice revenue for the subscriber,3
+sum of outgoing SMS revenue during LMTD,1
+action key was sent via OM_MSISDN in the last 182 days,6
+ratio of YouTube to total data usage,4
+current inactivation date for the HBB ID,3
+metric over the last X days,5
+value during a configurable day window,5
+where the subscriber is currently located,3
+YouTube share within streaming usage,4
+overall SMS revenue during one month ago,1
+subscriber's sum of og idd bundle call count 2 months back,1
+the latest record's inactivation date for this HBB,3
+promo was not sent in the last 7 days,2
+sum of prepaid gift revenue W7 rolling,1
+the largest voice revenue event,3
+subscriber activated the HBB addon one day ago,3
+action key present where MSISDN matches OM_MSISDN,6
+two months ago email volume,1
+action key was not sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+promotion delivered in the last X days,5
+the total og roam payg sms count M3,1
+the customer matched by MSISDN with the category check,6
+highest voice revenue ever recorded,3
+YouTube percentage of total monthly data,4
+created date value is set,2
+bill event count for the last X days,5
+customer's prepaid voice revenue second rolling week,1
+subscriber's overall prepaid voice revenue previous month to date,1
+most recent HBB ID match,3
+same period last month total prepay revenue,1
+most recent HBB ID match,3
+the sum of data roam bundle volume one month ago,1
+SDC counter present for this device,6
+HBB IMEI received the action key,6
+subscription is present over the past X days,5
+subscriber activated the HBB addon one day ago,3
+max recorded value,3
+action key count is zero where MSISDN matches OM_MSISDN,6
+overall gift revenue two months ago,1
+subscriber is subscribed to a product over the last X days,5
+count check on the customer in the last 30 days,2
+subscriber count check today,2
+subscriptions event date is present,2
+action key delivered where MSISDN matches OM_MSISDN,6
+HBB addon was activated yesterday with no active fixed line,3
+most recent HBB ID match,3
+total redeem points in the last X days,5
+billing events in the last X days,5
+subscriber's sum of post cmb 30d incl d1 in the last 31 days,1
+data revenue drop comparing two consecutive months,4
+data revenue fell by some percentage between months,4
+overall data billing revenue during W5 rolling,1
+the metric over a runtime time window,5
+subscriber category match joined on the offnet MSISDN,6
+action key delivered via OM_MSISDN,6
+promo was sent during a configurable window,5
+promotion was not delivered to the subscriber in the last 4 days,2
+the latest record's inactivation date for this HBB,3
+re trans dt value is set,2
+audience segment membership check,2
+customer's og roam vf call mou the month before this,1
+YouTube percentage of total monthly data,4
+action key was sent joined on MSISDN in the last 364 days,6
+current geo location of the customer,3
+no promo received by the customer in the last 7 days,2
+action key count is greater than zero with offnet MSISDN,6
+count check on the customer,2
+current inactivation date for the HBB ID,3
+voice revenue drop comparing two consecutive months,4
+data revenue drop comparing two consecutive months,4
+total outgoing call revenue the last 7 days rolling,1
+the metric over a runtime time window,5
+prepaid migration next best plan internal exists for the customer,2
+dpi stream usage last month over the last 30 days,1
+metric over the last X days,5
+count check on the customer,2
+total revenue drop comparing two consecutive months,4
+YouTube usage as a percentage of total data,4
+action key present joined on MSISDN,6
+no HBB action key for this IMEI,6
+value during a configurable day window,5
+HBB IMEI not found or no action key recorded,6
+the KPI in the past X days,5
+current HBB ID record,3
+total og peak voice usage the month before last,1
+month-over-month decline in voice revenue,4
+percentage drop in voice revenue between two months,4
+amount of bills paid over the last X days,5
+IDD calling activity during the configurable window,5
+the total outgoing roaming call revenue in the last 30 days,1
+% decrease in data revenue from one month to the next,4
+the sum of total data usage last month,1
+customer count grouped check in the last 180 days,2
+metric over the last X days,5
+2 months back og roam free sms count,1
+value during a configurable day window,5
+category check where MSISDN matches OM_MSISDN,6
+category lookup joined on MSISDN,6
+overall total prepay revenue twelve months ago,1
+the maximum value of the metric,3
+total revenue drop comparing two consecutive months,4
+count check on the customer,2
+max recorded value,3
+month-over-month decline in voice revenue,4
+recharge denomination is present,2
+month-over-month decline in total revenue,4
+data revenue drop comparing two consecutive months,4
+subscriber's overall prepay voice revenue MTD,1
+amount recharged in the last X days,5
+action key was not sent where MSISDN matches OM_MSISDN in the last 90 days,6
+the customer's present geographic region,3
+subscriber's value in the last X days,5
+sum of og roam bundle call count during one month ago,1
+subscription is present over the past X days,5
+HBB IMEI not found or no action key recorded,6
+subscriber is not subscribed to a product over the last X days,5
+current HBB ID record,3
+customer received an action key with offnet MSISDN,6
+month-over-month decline in voice revenue,4
+value during a configurable day window,5
+number of international calls over the past X days,5
+% decrease in data revenue from one month to the next,4
+the sum of OG call revenue rolling week 5,1
+the customer subscribed in the last X days,5
+the customer has l action key,2
+current inactivation date for the HBB ID,3
+number of bill events over the last specified days,5
+billing events in the last X days,5
+action key count is zero,2
+max HBB ID lookup,3
+social media volume over a configurable window,5
+sum of revenue over the last X days,5
+YouTube percentage of total monthly data,4
+latest snapshot of the value,3
+subscriber got a bonus during the configurable window,5
+category check with offnet MSISDN,6
+voice revenue drop comparing two consecutive months,4
+re trans dt exists for the customer,2
+re trans dt is present,2
+subscriber's value in the last X days,5
+percentage drop in total revenue between two months,4
+the count satisfies the threshold in the last 30 days,2
+subscriber's sum of dpi yt usage streaming for that period,1
+gex revenue is present,2
+count of bill events during the configurable window,5
+outgoing voice revenue third rolling week,1
+customer received an action key joined on MSISDN in the past 364 days,6
+overall outgoing call revenue for rolling week 1,1
+subscriber got a promo in the last 4 days,2
+category check via OM_MSISDN,6
+three months ago email volume,1
+subscriber's value in the last X days,5
+most recent HBB ID match,3
+no action key delivered joined on MSISDN,6
+customer received an action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+amount of bills paid over the last X days,5
+count check on the customer today,2
+total outgoing SMS revenue rolling week 4,1
+no action key recorded,2
+the KPI in the past X days,5
+month-over-month decline in data revenue,4
+voice revenue fell by some percentage between months,4
+snapshot of HBB add-on inactivation,3
+percentage drop in total revenue between two months,4
+percentage drop in total revenue between two months,4
+action key present joined on the offnet MSISDN,6
+% decrease in data revenue from one month to the next,4
+total revenue fell by some percentage between months,4
+l action key value is set,2
+data revenue drop comparing two consecutive months,4
+subscriber's current geographical location,3
+customer count condition in the last 180 days,2
+total recharge in the last X days,5
+voice revenue fell by some percentage between months,4
+data revenue fell by some percentage between months,4
+action key was not sent joined on MSISDN in the last 350 days,6
+customer received a promotion in the past X days,5
+count check on the customer in the last 30 days,2
+loyalty points redeemed in the past X days,5
+category lookup with offnet MSISDN,6
+total revenue fell by some percentage between months,4
+subscriber's total prepay voice revenue third rolling week,1
+total prepaid VAS revenue during W2 rolling,1
+the customer matched by MSISDN with the category check,6
+total revenue drop comparing two consecutive months,4
+subscriber's total revenue during the configurable window,5
+HBB add-on inactivation date check by HBB ID,3
+latest HBB add-on inactivation date for a specific HBB ID,3
+subscriber got a bonus during the configurable window,5
+subscriber's total og idd gcc call mou 3 months back,1
+customer count condition today,2
+percentage drop in data revenue between two months,4
+category check with offnet MSISDN,6
+percentage drop in data revenue between two months,4
+sum of og day voice usage for three months ago,1
+subscriber's average OG roam call revenue seventh rolling week,1
+data revenue fell by some percentage between months,4
+total revenue fell by some percentage between months,4
+current geo location of the customer,3
+subscriber's sum of og roam gcc call count the month before last,1
+action key was not sent joined on MSISDN in the last 350 days,6
+the count satisfies the threshold,2
+promotion was not delivered to the subscriber in the last 15 days,2
+HBB IMEI received the action key,6
+the KPI in the past X days,5
+value added services revenue 3 months back,1
+no promo received by the customer in the last 3 days,2
+customer's og idd vf call count one month ago,1
+yesterday's HBB addon activation without fixed line,3
+the customer matched by MSISDN with the category check,6
+data revenue drop comparing two consecutive months,4
+action key was not sent where MSISDN matches OM_MSISDN in the last 90 days,6
+metric over the last X days,5
+highest voice revenue ever recorded,3
+promo confirmed in the last specified days,5
+the customer activated in the last X hours,5
+action key present where MSISDN matches OM_MSISDN,6
+the largest voice revenue event,3
+category check joined on MSISDN,6
+subscriber did not receive a promotion in the last 4 days,2
+average outgoing roaming call revenue during 3 months prior,1
+total revenue fell by some percentage between months,4
+rec service type exists for the customer,2
+total OG call revenue during the last 30 days,1
+percentage drop in data revenue between two months,4
+% decrease in voice revenue from one month to the next,4
+customer's og idd ibp call mou 2 months back,1
+subscriber's sum of total revenue M11,1
+percentage drop in data revenue between two months,4
+voice revenue fell by some percentage between months,4
+total redeem points in the last X days,5
+max recorded value,3
+promo was not sent in the last 30 days,2
+no action key delivered joined on MSISDN,6
+the metric over a runtime time window,5
+action key present via OM_MSISDN,6
+the customer was bonused in the last specified days,5
+category lookup joined on the offnet MSISDN,6
+the count satisfies the threshold today,2
+percentage drop in voice revenue between two months,4
+customer's mobile data revenue LMTD,1
+average prepaid MT revenue MTD,1
+no HBB action key for this IMEI,6
+no promo received by the customer in the last 1 days,2
+% decrease in total revenue from one month to the next,4
+gex revenue exists for the customer,2
+subscriber's total prepaid OMIP revenue this month,1
+% decrease in voice revenue from one month to the next,4
+voice revenue drop comparing two consecutive months,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+the sum of international call revenue W4 rolling,1
+subscriber's total data usage last month in the last 1 months,1
+the largest voice revenue event,3
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the count satisfies the threshold in the last 180 days,2
+ratio of YouTube to total data usage,4
+percentage drop in data revenue between two months,4
+month-over-month decline in data revenue,4
+the average OMIP revenue W2 rolling,1
+WhatsApp Facebook TikTok Instagram total in last X days,5
+the KPI in the past X days,5
+no subscription on the account in the last specified number of days,5
+subscriber count check in the last 30 days,2
+promotion was not delivered to the subscriber in the last 5 days,2
+the customer was not subscribed during the last X days,5
+subscriber's value in the last X days,5
+whitelist entry exists for this subscriber,2
+the customer's most recent HBB identifier,3
+promotion in the last X days,5
+value during a configurable day window,5
+YouTube portion of streaming,4
+overall billpaid 120 days during within the last 120 days,1
+customer has not been bonused in the last 180 days,2
+attribute check passes,2
+YouTube usage as a percentage of total data,4
+the metric over a runtime time window,5
+overall gift revenue for during the last 15 days,1
+og idd bundle call count M3,1
+metric over the last X days,5
+rej msisdn exists for the customer,2
+subscriber did not receive a promotion in the last 7 days,2
+the count satisfies the threshold in the last 30 days,2
+subscription is absent over the past X days,5
+highest value of the field,3
+HBB record check by IMEI,6
+HBB add-on inactivation date check by HBB ID,3
+verify category for the joined record joined on the offnet MSISDN,6
+current inactivation date for the HBB ID,3
+bonus received in the last X days,5
+activation occurred within X hours,5
+subscriber's value in the last X days,5
+subscriber activated within the last X hours,5
+the customer matched by MSISDN with the category check,6
+subscriber activated within the last X hours,5
+the latest record's inactivation date for this HBB,3
+the total PayG data volume M2,1
+og local bundle offnet call mou three months ago,1
+total revenue drop comparing two consecutive months,4
+percentage drop in data revenue between two months,4
+the customer's most recent HBB identifier,3
+subscriber's overall voice call revenue last month to date,1
+the customer's most recent HBB identifier,3
+action key present joined on the offnet MSISDN,6
+the customer got the action key,2
+action key present joined on MSISDN,6
+total revenue fell by some percentage between months,4
+subscriber category match where MSISDN matches OM_MSISDN,6
+snapshot of HBB add-on inactivation,3
+subscriber category match joined on MSISDN,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+IDD call count in the last X days,5
+max voice revenue for the subscriber,3
+% decrease in voice revenue from one month to the next,4
+action key was not sent where MSISDN matches OM_MSISDN in the last 182 days,6
+% decrease in total revenue from one month to the next,4
+share of total data used by YouTube,4
+snapshot of HBB add-on inactivation,3
+amount recharged in the last X days,5
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+bill payment amount over the last X days,5
+data revenue drop comparing two consecutive months,4
+billing events in the last X days,5
+category lookup where MSISDN matches OM_MSISDN,6
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 350 days,6
+count of bill events during the configurable window,5
+re trans dt exists for the customer,2
+promotion delivered in the last X days,5
+promotion was not delivered to the subscriber in the last 30 days,2
+the sum of OG SMS revenue M3,1
+the customer's most recent HBB identifier,3
+average overall revenue for 3 months prior,1
+latest HBB ID for the customer,3
+the most recent record,3
+promo was sent during a configurable window,5
+number of international calls over the past X days,5
+action key count is greater than zero with offnet MSISDN,6
+the metric over a runtime time window,5
+the customer has bh birthday,2
+maximum prepaid voice revenue event for the customer,3
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+action key present where MSISDN matches OM_MSISDN,6
+month-over-month decline in total revenue,4
+sum of og roam gcc call mou three months ago,1
+mr fct month value is set,2
+maximum prepaid voice revenue event for the customer,3
+subscriber count check in the last 30 days,2
+gift revenue seventh rolling week,1
+promotion delivered in the last X days,5
+subscriber did not receive a promotion in the last 30 days,2
+activation within a configurable hour window,5
+total revenue drop comparing two consecutive months,4
+category lookup where MSISDN matches OM_MSISDN,6
+customer received an action key via OM_MSISDN in the past 182 days,6
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 182 days,6
+total og roam free sms count one month ago,1
+subscriber did not receive a promotion in the last 3 days,2
+% decrease in total revenue from one month to the next,4
+data roam payg volume M3,1
+the customer activated in the last X hours,5
+active subscription found in the last X days,5
+overall og roam bundle call count for two months ago,1
+number of international calls over the past X days,5
+data revenue fell by some percentage between months,4
+bh birthday exists for the customer,2
+data revenue drop comparing two consecutive months,4
+overall og idd bundle call mou for two months ago,1
+data revenue drop comparing two consecutive months,4
+no subscription on the account in the last specified number of days,5
+category check joined on the offnet MSISDN,6
+average data volume for rolling week 3,1
+action key exists for this subscriber,2
+latest HBB ID for the customer,3
+subscriber activated within the last X hours,5
+data revenue fell by some percentage between months,4
+common og roam payg call revenue is present,2
+the HBB IMEI exists and got an action key,6
+the customer's most recent HBB identifier,3
+bill event count for the last X days,5
+current inactivation date for the HBB ID,3
+category lookup with offnet MSISDN,6
+overall data billing revenue two months ago,1
+category check where MSISDN matches OM_MSISDN,6
+the KPI in the past X days,5
+YouTube as % of total data this month,4
+subscriber activated the HBB addon one day ago,3
+the count satisfies the threshold in the last 30 days,2
+rec service type is not null,2
+subscriber is not subscribed to a product over the last X days,5
+maximum prepaid voice revenue event for the customer,3
+HBB IMEI not found or no action key recorded,6
+subscriber did not receive a promotion in the last 20 days,2
+the KPI in the past X days,5
+% decrease in data revenue from one month to the next,4
+sum of revenue over the last X days,5
+metric over the last X days,5
+HBB add-on inactivation date check by HBB ID,3
+action key delivered via OM_MSISDN,6
+maximum prepaid voice revenue event for the customer,3
+the count satisfies the threshold,2
+metric over the last X days,5
+recharge value during the last specified days,5
+the most recent record,3
+total revenue fell by some percentage between months,4
+customer received a promotion in the past X days,5
+verify category for the joined record with offnet MSISDN,6
+no subscription on the account in the last specified number of days,5
+no HBB action key for this IMEI,6
+the maximum value of the metric,3
+the customer's most recent HBB identifier,3
+max HBB ID lookup,3
+action key was sent via OM_MSISDN in the last 182 days,6
+points redeemed during the configurable window,5
+the KPI in the past X days,5
+category lookup joined on the offnet MSISDN,6
+action key present joined on MSISDN,6
+3 months prior web browsing volume,1
+customer has not subscribed in the last X days,5
+YouTube share within streaming usage,4
+the customer's most recent HBB identifier,3
+customer's og idd gcc call count the month before last,1
+% decrease in total revenue from one month to the next,4
+action key was sent joined on the offnet MSISDN in the last 84 days,6
+the count satisfies the threshold today,2
+customer's current location,3
+most recent HBB ID match,3
+action key was sent at least once,2
+subscriber's total roaming call revenue sixth rolling week,1
+YouTube percentage of total monthly data,4
+sum of Instagram data volume M3,1
+most recent HBB ID match,3
+data revenue fell by some percentage between months,4
+the latest record's inactivation date for this HBB,3
+the maximum value of the metric,3
+VAS revenue so far this month,1
+subscriber's total revenue during the configurable window,5
+verify category for the joined record via OM_MSISDN,6
+YouTube as % of total data this month,4
+combined social media data in the past X days,5
+subscriber category match where MSISDN matches OM_MSISDN,6
+YouTube as % of total data this month,4
+bonus sent in the last X days,5
+total recharge in the last X days,5
+subscriber's average game session count two months ago,1
+HBB IMEI received the action key,6
+most recent HBB ID match,3
+device bonus counter check by device ID,6
+total revenue drop comparing two consecutive months,4
+action key delivered via OM_MSISDN,6
+value during a configurable day window,5
+ratio of YouTube to total streaming,4
+% decrease in total revenue from one month to the next,4
+ratio of YouTube to total streaming,4
+international call count in the last X days,5
+recharge amount over a configurable day window,5
+action key was sent where MSISDN matches OM_MSISDN in the last 90 days,6
+average data usage revenue for rolling week 3,1
+month-over-month decline in data revenue,4
+voice revenue drop comparing two consecutive months,4
+absent action key where MSISDN matches OM_CHECK_MSISDN,6
+second rolling week mobile termination revenue,1
+total 1 days recharge rev for in the last 1 days,1
+action key count is zero where MSISDN matches OM_MSISDN,6
+recharge value during the last specified days,5
+action key count is zero where MSISDN matches OM_MSISDN,6
+the customer was not subscribed during the last X days,5
+customer's og local bundle onnet call mou three months ago,1
+latest HBB add-on inactivation date for a specific HBB ID,3
+highest voice revenue ever recorded,3
+billing events in the last X days,5
+customer has not subscribed in the last X days,5
+data revenue fell by some percentage between months,4
+customer received an action key where MSISDN matches OM_MSISDN in the past 90 days,6
+% decrease in data revenue from one month to the next,4
+current HBB ID record,3
+action key was not sent where MSISDN matches OM_MSISDN in the last 350 days,6
+id exists for the customer,2
+overall outgoing voice revenue during rolling week 1,1
+action key count is zero with offnet MSISDN,6
+HBB add-on inactivation date check by HBB ID,3
+total revenue drop comparing two consecutive months,4
+total bill paid in the last X days,5
+the customer's present geographic region,3
+month-over-month decline in total revenue,4
+total number of streaming sessions during two months ago,1
+M3 OG call MOU,1
+total email volume during the month before last,1
+customer count condition,2
+percentage drop in voice revenue between two months,4
+prepay voice revenue rolling week 4,1
+no action key recorded,2
+data revenue fell by some percentage between months,4
+no action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+the customer added the HBB addon yesterday,3
+current geo location of the customer,3
+customer's current location,3
+the KPI in the past X days,5
+total revenue fell by some percentage between months,4
+highest value of the field,3
+customer count condition,2
+action key count is zero,2
+yesterday's HBB addon activation without fixed line,3
+count check on the customer,2
+promo was not sent in the last 1 days,2
+month-over-month decline in voice revenue,4
+customer count condition today,2
+percentage drop in total revenue between two months,4
+rolling week 4 OG SMS revenue,1
+YouTube usage as a percentage of total data,4
+action key count is greater than zero via OM_MSISDN,6
+subscriber got a promo in the last 7 days,2
+overall og idd bundle call mou for 3 months prior,1
+subscriber's average data roam bundle volume M3,1
+subscriber received the action key,2
+HBB IMEI presence check,6
+subscriber's average messaging revenue last month,1
+action key count is greater than zero joined on MSISDN,6
+billing events in the last X days,5
+action key count is zero joined on MSISDN,6
+the most recent record,3
+number of bill events over the last specified days,5
+HBB device matches the IMEI and has the action key,6
+amount recharged in the last X days,5
+l action key is not null,2
+recharge amount over a configurable day window,5
+bonus sent in the last X days,5
+customer count condition,2
+maximum prepaid voice revenue event for the customer,3
+total prepay revenue one month ago,1
+ratio of YouTube to total streaming,4
+subscriber category match joined on the offnet MSISDN,6
+latest HBB ID for the customer,3
+% decrease in total revenue from one month to the next,4
+customer's dpi yt usage month over the period,1
+number of international calls over the past X days,5
+data revenue fell by some percentage between months,4
+promotion was not delivered to the subscriber in the last 30 days,2
+month-over-month decline in data revenue,4
+bonus delivered in the past X days,5
+the largest voice revenue event,3
+promotion was not delivered to the subscriber in the last 1 days,2
+subscriber's sum of product revenue past 30 days,1
+% decrease in data revenue from one month to the next,4
+customer count grouped check today,2
+month-over-month decline in total revenue,4
+latest HBB ID for the customer,3
+current inactivation date for the HBB ID,3
+customer count grouped check,2
+recharge value during the last specified days,5
+absent action key joined on MSISDN,6
+category lookup joined on the offnet MSISDN,6
+max voice revenue for the subscriber,3
+max recorded value,3
+total revenue drop comparing two consecutive months,4
+subscription is absent over the past X days,5
+category lookup with offnet MSISDN,6
+no action key delivered where MSISDN matches OM_MSISDN,6
+action key present via OM_MSISDN,6
+subscriber's value in the last X days,5
+percentage drop in voice revenue between two months,4
+subscriber's average og roam gcc call mou one month ago,1
+YouTube share within streaming usage,4
+sum of streaming session count during the month before this,1
+% decrease in voice revenue from one month to the next,4
+maximum prepaid voice revenue event for the customer,3
+promotion was not delivered to the subscriber in the last 7 days,2
+total email session count during previous month,1
+total number of outgoing calls 2 months back,1
+the count satisfies the threshold in the last 30 days,2
+attribute check passes,2
+HBB device IMEI lookup with no match,6
+the customer's present geographic region,3
+total og roam vf call count during previous month,1
+sum of og bundle call count 3 months prior,1
+sum of number of streaming sessions during three months ago,1
+peak voice revenue record,3
+the customer subscribed in the last X days,5
+count of bill events during the configurable window,5
+latest HBB ID for the customer,3
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+% decrease in data revenue from one month to the next,4
+promotion in the last X days,5
+YouTube portion of streaming,4
+the customer has native action key,2
+og night voice usage two months ago,1
+most recent HBB ID match,3
+the total product revenue rolling week 3,1
+the customer was bonused in the last specified days,5
+promotion delivered in the last X days,5
+max HBB ID lookup,3
+total revenue fell by some percentage between months,4
+category check joined on MSISDN,6
+amount of bills paid over the last X days,5
+promotion delivered successfully in the last 3 days,2
+customer activated HBB addon yesterday and has no fixed line,3
+percentage drop in voice revenue between two months,4
+YouTube percentage of total monthly data,4
+the customer added the HBB addon yesterday,3
+social app data sum during the configurable window,5
+promotion absent for this customer in the last 7 days,2
+customer has subscribed during the last specified days,5
+average prepaid MT revenue during the month before last,1
+max recorded value,3
+month-over-month decline in data revenue,4
+average data roam payg volume during M3,1
+absent action key joined on MSISDN,6
+verify category for the joined record joined on the offnet MSISDN,6
+subscriber count check,2
+amount recharged in the last X days,5
+the customer has imei action key,2
+the customer's present geographic region,3
+IDD call count in the last X days,5
+action key has been triggered,2
+id is present,2
+native action key is not null,2
+data volume first rolling week,1
+sum of og day voice usage during three months ago,1
+metric over the last X days,5
+two months ago og local offnet call mou,1
+the customer's present geographic region,3
+total recharge in the last X days,5
+customer received a promotion in the past X days,5
+action key present joined on the offnet MSISDN,6
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+total revenue drop comparing two consecutive months,4
+the HBB IMEI exists and got an action key,6
+action key was not sent with offnet MSISDN in the last 84 days,6
+highest voice revenue ever recorded,3
+bill payment sum over a configurable day window,5
+customer's current location,3
+HBB add-on inactivation date check by HBB ID,3
+created date is present,2
+international call count in the last X days,5
+the customer has recharge revenue,2
+total revenue drop comparing two consecutive months,4
+month-over-month decline in voice revenue,4
+count check on the customer in the last 180 days,2
+HBB IMEI not found or no action key recorded,6
+bill payment sum over a configurable day window,5
+peak voice revenue record,3
+the customer has as segment id,2
+total data consumed 3 months prior,1
+promo confirmed in the last specified days,5
+latest snapshot of the value,3
+no action key delivered with offnet MSISDN,6
+% decrease in total revenue from one month to the next,4
+month-over-month decline in data revenue,4
+promotion was delivered to the subscriber in the last 2 days,2
+maximum prepaid voice revenue event for the customer,3
+subscriber did not receive a promotion in the last 15 days,2
+% decrease in voice revenue from one month to the next,4
+absent action key with offnet MSISDN,6
+M2 og roam free sms count,1
+month-over-month decline in total revenue,4
+yesterday's HBB addon activation without fixed line,3
+total revenue over the last X days,5
+max HBB ID lookup,3
+month-over-month decline in data revenue,4
+% decrease in voice revenue from one month to the next,4
+total PayG data volume M1,1
+subscription is absent over the past X days,5
+overall og idd vf call mou for the month before last,1
+category lookup where MSISDN matches OM_MSISDN,6
+average IDD call revenue last month to date,1
+the customer's present geographic region,3
+no subscription on the account in the last specified number of days,5
+prepaid product revenue previous month to date,1
+the overall og roam free sms count the month before last,1
+percentage drop in voice revenue between two months,4
+IDD calling activity during the configurable window,5
+subscriber's average data usage volume M3,1
+max recorded value,3
+promotion delivered in the last X days,5
+YouTube percentage of total monthly data,4
+voice revenue drop comparing two consecutive months,4
+customer's incoming MOU three months ago,1
+percentage drop in total revenue between two months,4
+rec service type is not null,2
+combined social media data in the past X days,5
+month-over-month decline in total revenue,4
+bill payment amount over the last X days,5
+action key count is zero,2
+total redeem points in the last X days,5
+snapshot of HBB add-on inactivation,3
+subscriber count check in the last 30 days,2
+the KPI in the past X days,5
+current geo location of the customer,3
+recharge value during the last specified days,5
+promotion delivered successfully in the last 7 days,2
+category check where MSISDN matches OM_MSISDN,6
+aggregate revenue in the last specified days,5
+og night voice usage last month,1
+customer's current location,3
+max HBB ID lookup,3
+action key was sent joined on the offnet MSISDN in the last 84 days,6
+month to date voice revenue,1
+current HBB ID record,3
+total total data consumed during same period last month,1
+re trans dt value is set,2
+SDC bonus counter for the specific device,6
+action key delivered via OM_MSISDN,6
+month-over-month decline in total revenue,4
+social app data sum during the configurable window,5
+latest HBB add-on inactivation date for a specific HBB ID,3
+subscriber's sum of WhatsApp data volume 2 months back,1
+the overall gift revenue the month before this,1
+HBB addon was activated yesterday with no active fixed line,3
+HBB add-on inactivation date check by HBB ID,3
+month-over-month decline in voice revenue,4
+bill paid amount during the last specified days,5
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+M2 og roam ibp call mou,1
+the customer got the action key,2
+sum of og roam ibp call mou during last month,1
+promo confirmed in the last specified days,5
+the customer was not subscribed during the last X days,5
+total og idd gcc call count for previous month,1
+sum of bundle data volume for two months ago,1
+action key was sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+action key was sent via OM_MSISDN in the last 84 days,6
+the latest record's inactivation date for this HBB,3
+total recharge in the last X days,5
+max recorded value,3
+the customer was not subscribed during the last X days,5
+month-over-month decline in total revenue,4
+social media volume over the last X days,5
+% decrease in total revenue from one month to the next,4
+no action key delivered where MSISDN matches OM_MSISDN,6
+the sum of email volume M1,1
+points redeemed during the configurable window,5
+current HBB ID record,3
+promo was sent during a configurable window,5
+customer received a promotion in the last 7 days,2
+overall total voice usage during 3 months prior,1
+snapshot of HBB add-on inactivation,3
+subscriber bill events over the past X days,5
+percentage drop in total revenue between two months,4
+subscriber's average outgoing SMS revenue rolling week 5,1
+action key was sent joined on the offnet MSISDN in the last 84 days,6
+month-over-month decline in total revenue,4
+latest snapshot of the value,3
+customer's og roam bundle sms count previous month,1
+action key count is zero where MSISDN matches OM_MSISDN,6
+sum of og roam bundle call mou for the month before last,1
+the count satisfies the threshold,2
+re trans dt is not null,2
+the KPI in the past X days,5
+average outgoing roaming call revenue for sixth rolling week,1
+HBB record check by IMEI,6
+total revenue fell by some percentage between months,4
+action key count is greater than zero via OM_MSISDN,6
+M2 complimentary data volume,1
+subscriber's total og idd payg sms count the month before this,1
+data revenue fell by some percentage between months,4
+overall OG SMS revenue 3 months back,1
+month-over-month decline in data revenue,4
+social media volume over the last X days,5
+subscriber count check,2
+category lookup where MSISDN matches OM_MSISDN,6
+category lookup where MSISDN matches OM_MSISDN,6
+number of international calls over the past X days,5
+voice revenue drop comparing two consecutive months,4
+month-over-month decline in data revenue,4
+verify category for the joined record via OM_MSISDN,6
+category check where MSISDN matches OM_MSISDN,6
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+og idd payg call count previous month,1
+count check on the customer,2
+action key was sent with offnet MSISDN,6
+max HBB ID lookup,3
+data revenue drop comparing two consecutive months,4
+customer has not subscribed in the last X days,5
+IDD call count in the last X days,5
+subscriber's value in the last X days,5
+IDD call frequency for the last X days,5
+subscriber's overall Instagram data volume previous month,1
+action key was not sent joined on MSISDN in the last 350 days,6
+action key was sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+the count satisfies the threshold,2
+promotion was not delivered to the subscriber in the last 10 days,2
+ratio of YouTube to total data usage,4
+the sum of mobile data volume seventh rolling week,1
+voice revenue drop comparing two consecutive months,4
+action key was sent where MSISDN matches OM_MSISDN in the last 90 days,6
+customer count grouped check,2
+customer count grouped check today,2
+YouTube usage as a percentage of total streaming,4
+promotion in the last X days,5
+customer received an action key joined on the offnet MSISDN in the past 84 days,6
+within the last 15 days VAS revenue,1
+subscriber's total post dat 30d incl d1 over the last 31 days,1
+current HBB ID record,3
+month-over-month decline in data revenue,4
+common og idd payg call revenue exists for the customer,2
+promotion absent for this customer in the last 10 days,2
+voice revenue drop comparing two consecutive months,4
+no action key delivered joined on MSISDN,6
+the latest record's inactivation date for this HBB,3
+the metric over a runtime time window,5
+yesterday's HBB addon activation without fixed line,3
+category check joined on the offnet MSISDN,6
+no subscription on the account in the last specified number of days,5
+percentage drop in data revenue between two months,4
+recharge value during the last specified days,5
+average data volume for M1,1
+customer's OG call revenue MTD,1
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 182 days,6
+percentage drop in data revenue between two months,4
+action key has been triggered,2
+common og local payg call revenue value is set,2
+no promo received by the customer in the last 3 days,2
+action key present joined on the offnet MSISDN,6
+month-over-month decline in data revenue,4
+% decrease in total revenue from one month to the next,4
+action key count is greater than zero via OM_MSISDN,6
+the most recent record,3
+subscriber did not receive a promotion in the last 10 days,2
+customer's recharge value during the last 3 months,1
+outgoing SMS revenue over the last 30 days,1
+category lookup where MSISDN matches OM_MSISDN,6
+YouTube percentage of total monthly data,4
+YouTube as % of streaming volume,4
+customer activated HBB addon yesterday and has no fixed line,3
+3 months prior og peak voice usage,1
+total outgoing voice revenue during the month before last,1
+month-over-month decline in data revenue,4
+messaging revenue rolling week 3,1
+customer's billpaid 0 days past 0 days,1
+overall recharge rev for within the last 20 days,1
+subscriber count check,2
+verify category for the joined record with offnet MSISDN,6
+YouTube share within streaming usage,4
+overall data usage during past 7 days,1
+subscriber has not received the action key,2
+action key was not sent where MSISDN matches OM_MSISDN in the last 350 days,6
+latest snapshot of the value,3
+most recent HBB ID match,3
+action key present with offnet MSISDN,6
+HBB record check by IMEI,6
+subscriber's sum of IDD call revenue month to date,1
+data revenue fell by some percentage between months,4
+promotion in the last X days,5
+HBB add-on inactivation date check by HBB ID,3
+total revenue fell by some percentage between months,4
+one month ago streaming data usage,1
+action key count is zero where MSISDN matches OM_MSISDN,6
+category check joined on the offnet MSISDN,6
+% decrease in voice revenue from one month to the next,4
+total og roam bundle call mou for two months ago,1
+current HBB ID record,3
+month-over-month decline in total revenue,4
+the latest record's inactivation date for this HBB,3
+subscriber's current geographical location,3
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+the latest record's inactivation date for this HBB,3
+current geo location of the customer,3
+subscriber did not receive a promotion in the last 7 days,2
+promo was sent to the subscriber in the last 30 days,2
+total revenue drop comparing two consecutive months,4
+overall prepaid VAS revenue rolling week 2,1
+HBB add-on inactivation date check by HBB ID,3
+count check on the customer in the last 30 days,2
+bonus delivered in the past X days,5
+created date exists for the customer,2
+% decrease in data revenue from one month to the next,4
+M1 og free sms count,1
+the total OG roam call revenue 3 months prior,1
+re trans dt is not null,2
+category lookup where MSISDN matches OM_MSISDN,6
+share of total data used by YouTube,4
+ratio of YouTube to total streaming,4
+customer count condition in the last 30 days,2
+latest HBB ID for the customer,3
+% decrease in data revenue from one month to the next,4
+OMIP revenue three months ago,1
+max HBB ID lookup,3
+highest value of the field,3
+subscriber had a bill event in the last 3 days,2
+customer's post dat 7d incl d1 past 8 days,1
+YouTube portion of streaming,4
+customer count condition,2
+sum of outgoing SMS revenue rolling week 5,1
+snapshot of HBB add-on inactivation,3
+subscriber category match where MSISDN matches OM_MSISDN,6
+count check on the customer,2
+WhatsApp Facebook TikTok Instagram total in last X days,5
+current geo location of the customer,3
+aggregate revenue in the last specified days,5
+the metric over a runtime time window,5
+customer received an action key where MSISDN matches OM_MSISDN in the past 90 days,6
+total og idd bundle call count for three months ago,1
+verify SDC counter against device ID,6
+voice revenue fell by some percentage between months,4
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+loyalty points redeemed in the past X days,5
+subscriber category match where MSISDN matches OM_MSISDN,6
+no subscription on the account in the last specified number of days,5
+current HBB ID record,3
+the customer's most recent HBB identifier,3
+average og payg sms count during the month before last,1
+action key was sent where MSISDN matches OM_CHECK_MSISDN,6
+yesterday's HBB addon activation without fixed line,3
+sum of voice call revenue for same period last month,1
+the customer's most recent HBB identifier,3
+% decrease in data revenue from one month to the next,4
+data revenue drop comparing two consecutive months,4
+month-over-month decline in total revenue,4
+subscriber got a bonus during the configurable window,5
+current HBB ID record,3
+absent action key where MSISDN matches OM_MSISDN,6
+subscriber count check,2
+customer received an action key joined on MSISDN in the past 364 days,6
+YouTube as % of streaming volume,4
+common og local payg call revenue is not null,2
+the customer is whitelisted,2
+most recent HBB ID match,3
+percentage drop in data revenue between two months,4
+imei action key is not null,2
+mobile data volume last month,1
+customer has subscribed during the last specified days,5
+currently subscribed to a product,2
+the customer has prepaid migration next best plan internal,2
+action key was not sent joined on MSISDN in the last 350 days,6
+prepaid VAS revenue M3,1
+no action key delivered joined on MSISDN,6
+current inactivation date for the HBB ID,3
+HBB addon was activated yesterday with no active fixed line,3
+subscriber's sum of total prepay revenue ten months ago,1
+subscriber's value in the last X days,5
+total total revenue for in the last 30 days,1
+promo confirmed in the last specified days,5
+subscriber's overall overall prepaid revenue M7,1
+email volume 3 months prior,1
+id is not null,2
+the customer matched by MSISDN with the category check,6
+percentage drop in total revenue between two months,4
+verify category for the joined record joined on the offnet MSISDN,6
+YouTube as % of streaming volume,4
+the customer has id,2
+social media volume over the last X days,5
+value during a configurable day window,5
+month-over-month decline in voice revenue,4
+promo was not sent in the last 4 days,2
+action key count is greater than zero joined on the offnet MSISDN,6
+sum of value added services revenue for so far this month,1
+subscriber count check,2
+the customer matched by MSISDN with the category check,6
+YouTube percentage of total monthly data,4
+metric over the last X days,5
+HBB add-on inactivation date check by HBB ID,3
+current inactivation date for the HBB ID,3
+YouTube as % of total data this month,4
+customer count condition today,2
+absent action key where MSISDN matches OM_MSISDN,6
+% decrease in total revenue from one month to the next,4
+bill payment amount over the last X days,5
+subscriber did not receive a promotion in the last 1 days,2
+percentage drop in data revenue between two months,4
+bill payment sum over a configurable day window,5
+bill event count for the last X days,5
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+sum of overall prepaid revenue for one month ago,1
+snapshot of HBB add-on inactivation,3
+recharge value during the last specified days,5
+customer's og idd ibp call mou M2,1
+the customer's present geographic region,3
+value during a configurable day window,5
+data revenue drop comparing two consecutive months,4
+total revenue drop comparing two consecutive months,4
+the total og roam gcc call count M2,1
+% decrease in total revenue from one month to the next,4
+bh birthday is not null,2
+the customer matched by MSISDN with the category check,6
+the count satisfies the threshold,2
+bill paid amount during the last specified days,5
+no action key delivered where MSISDN matches OM_MSISDN,6
+absent action key joined on MSISDN,6
+action key was sent with offnet MSISDN,6
+YouTube share within streaming usage,4
+the customer has re trans dt,2
+promotion delivered successfully in the last 4 days,2
+the maximum value of the metric,3
+customer's prepaid OMIP revenue two months ago,1
+month-over-month decline in data revenue,4
+max HBB ID lookup,3
+subscriber's current geographical location,3
+3 months back email session count,1
+YouTube portion of streaming,4
+service type exists for the customer,2
+no action key delivered where MSISDN matches OM_MSISDN,6
+sum of og bundle call mou the month before this,1
+category lookup with offnet MSISDN,6
+highest value of the field,3
+overall prepaid gift revenue W3 rolling,1
+customer count condition,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+the customer matched by MSISDN with the category check,6
+no HBB action key for this IMEI,6
+percentage drop in total revenue between two months,4
+current inactivation date for the HBB ID,3
+total revenue drop comparing two consecutive months,4
+og local bundle onnet call mou last month,1
+total revenue fell by some percentage between months,4
+current inactivation date for the HBB ID,3
+subscriber did not receive a promotion in the last 5 days,2
+action key delivered joined on MSISDN,6
+absent action key with offnet MSISDN,6
+recharge revenue accumulated over the last X days,5
+action key was not sent with offnet MSISDN in the last 84 days,6
+the customer's most recent HBB identifier,3
+HBB add-on inactivation date check by HBB ID,3
+the customer got the action key,2
+subscriber category match via OM_MSISDN,6
+most recent HBB ID match,3
+loyalty points redeemed in the past X days,5
+the metric over a runtime time window,5
+subscriber is a bill payer,2
+the latest record's inactivation date for this HBB,3
+month-over-month decline in total revenue,4
+the count satisfies the threshold,2
+recharge value during the last specified days,5
+action key was sent at least once,2
+social media volume over a configurable window,5
+month-over-month decline in total revenue,4
+customer count grouped check,2
+promotion absent for this customer in the last 4 days,2
+action key count is greater than zero joined on the offnet MSISDN,6
+month-over-month decline in data revenue,4
+fourth rolling week prepaid MT revenue,1
+HBB add-on inactivation date check by HBB ID,3
+M3 prepaid voice revenue,1
+percentage drop in total revenue between two months,4
+data revenue drop comparing two consecutive months,4
+redeemed loyalty points over the last X days,5
+overall og idd bundle call mou during 3 months prior,1
+IDD call frequency for the last X days,5
+HBB device matches the IMEI and has the action key,6
+promo was not sent in the last 4 days,2
+action key count is greater than zero joined on MSISDN,6
+total og idd payg call count during the month before last,1
+subscriber got a bonus during the configurable window,5
+average data usage revenue for previous month,1
+action key delivered with offnet MSISDN,6
+month-over-month decline in data revenue,4
+max HBB ID lookup,3
+the KPI in the past X days,5
+total og roam vf call mou three months ago,1
+the most recent record,3
+the overall 3 days redeem points over the last 3 days,1
+latest HBB ID for the customer,3
+sum(common total revenue) exists for the customer,2
+redemption activity over the last specified days,5
+HBB record check by IMEI,6
+IDD calling activity during the configurable window,5
+promo confirmed in the last specified days,5
+action key was not sent where MSISDN matches OM_MSISDN in the last 182 days,6
+current geo location of the customer,3
+count check on the customer,2
+action key was sent for the HBB device,6
+total revenue drop comparing two consecutive months,4
+percentage drop in voice revenue between two months,4
+the count satisfies the threshold today,2
+count of bill events during the configurable window,5
+over the last 1 days 1 days recharge rev,1
+second rolling week messaging revenue,1
+HBB add-on inactivation date check by HBB ID,3
+month-over-month decline in data revenue,4
+the total outgoing call count one month ago,1
+the largest voice revenue event,3
+subscriber did not receive the action key joined on MSISDN in the past 350 days,6
+international call count in the last X days,5
+share of total data used by YouTube,4
+latest HBB ID for the customer,3
+latest HBB ID for the customer,3
+total revenue drop comparing two consecutive months,4
+overall dpi yt usage month during for that period,1
+redeemed loyalty points over the last X days,5
+value during a configurable day window,5
+subscriber's sum of mobile data volume one month ago,1
+rec service type exists for the customer,2
+HBB device IMEI lookup with no match,6
+% decrease in data revenue from one month to the next,4
+max voice revenue for the subscriber,3
+subscriber's overall prepaid OMIP revenue rolling week 4,1
+latest HBB add-on inactivation date for a specific HBB ID,3
+subscriber did not receive a promotion in the last 7 days,2
+the customer matched by MSISDN with the category check,6
+total bill paid in the last X days,5
+subscriber category match joined on the offnet MSISDN,6
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+the customer was not subscribed during the last X days,5
+HBB device IMEI lookup with no match,6
+total og idd free sms count for 3 months back,1
+snapshot of HBB add-on inactivation,3
+rolling week 4 data billing revenue,1
+3 months prior voice revenue,1
+subscriber category match where MSISDN matches OM_MSISDN,6
+number of international calls over the past X days,5
+no action key delivered where MSISDN matches OM_MSISDN,6
+3 months prior ic sms count,1
+percentage drop in total revenue between two months,4
+category check with offnet MSISDN,6
+the customer activated in the last X hours,5
+metric over the last X days,5
+promo was not sent in the last 7 days,2
+YouTube usage as a percentage of total streaming,4
+combined social media data in the past X days,5
+subscriber's total 15 days recharge rev past 15 days,1
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the customer has mr fct month,2
+the customer's most recent HBB identifier,3
+no promo received by the customer in the last 4 days,2
+the average data revenue seventh rolling week,1
+current HBB ID record,3
+the customer was bonused in the last specified days,5
+the overall VAS revenue over the last 30 days,1
+snapshot of HBB add-on inactivation,3
+rolling week 2 IDD call revenue,1
+IDD call frequency for the last X days,5
+within the last 180 days 180 days recharge rev,1
+recharge revenue accumulated over the last X days,5
+subscriber count check today,2
+where the subscriber is currently located,3
+promo was sent to the subscriber in the last 4 days,2
+% decrease in data revenue from one month to the next,4
+action key was sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+action key was sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+verify category for the joined record via OM_MSISDN,6
+subscriber category match joined on the offnet MSISDN,6
+the customer has re trans dt,2
+action key has been triggered,2
+the count satisfies the threshold in the last 30 days,2
+common og local payg call revenue exists for the customer,2
+subscriber did not receive a promotion in the last 30 days,2
+subscriber's overall og free call count three months ago,1
+subscriber did not receive a promotion in the last 7 days,2
+subscriber count check today,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+native action key value is set,2
+the overall mobile termination revenue W5 rolling,1
+max voice revenue for the subscriber,3
+customer's SMS revenue M3,1
+customer has not subscribed in the last X days,5
+the KPI in the past X days,5
+the subscriber has paid bills,2
+average messaging revenue for rolling week 4,1
+the overall og idd bundle call count 2 months back,1
+total prepay voice revenue 3 months prior,1
+data revenue drop comparing two consecutive months,4
+verify category for the joined record with offnet MSISDN,6
+subscriber received the action key,2
+the customer's most recent HBB identifier,3
+max voice revenue for the subscriber,3
+subscriber's value in the last X days,5
+subscriptions product id exists for the customer,2
+total outgoing IDD call revenue for rolling week 1,1
+common og roam payg call revenue value is set,2
+subscriber activated the HBB addon one day ago,3
+total bill paid in the last X days,5
+the sum of ic sms count M3,1
+latest HBB ID for the customer,3
+total revenue fell by some percentage between months,4
+latest HBB ID for the customer,3
+latest HBB add-on inactivation date for a specific HBB ID,3
+verify category for the joined record joined on the offnet MSISDN,6
+the customer activated in the last X hours,5
+the customer matched by MSISDN with the category check,6
+peak voice revenue record,3
+category lookup via OM_MSISDN,6
+active subscription found in the last X days,5
+action key delivered via OM_MSISDN,6
+current HBB ID record,3
+subscriber category match joined on the offnet MSISDN,6
+social app data sum during the configurable window,5
+total OMIP revenue for same period last month,1
+the customer's most recent HBB identifier,3
+snapshot of HBB add-on inactivation,3
+subscriber is subscribed to a product over the last X days,5
+HBB record found by IMEI with action key sent,6
+absent action key where MSISDN matches OM_MSISDN,6
+absent action key where MSISDN matches OM_MSISDN,6
+month-over-month decline in total revenue,4
+redemption activity over the last specified days,5
+action key exists for this subscriber,2
+combined social media data in the past X days,5
+current inactivation date for the HBB ID,3
+customer activated HBB addon yesterday and has no fixed line,3
+the largest voice revenue event,3
+the count satisfies the threshold,2
+recharge amount over a configurable day window,5
+latest HBB add-on inactivation date for a specific HBB ID,3
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+subscriber activated the HBB addon one day ago,3
+highest value of the field,3
+category check where MSISDN matches OM_MSISDN,6
+no action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+current geo location of the customer,3
+HBB add-on inactivation date check by HBB ID,3
+action key delivered with offnet MSISDN,6
+month-over-month decline in total revenue,4
+subscriber is not subscribed to a product over the last X days,5
+percentage drop in total revenue between two months,4
+YouTube share within streaming usage,4
+category lookup joined on the offnet MSISDN,6
+subscriber's overall OG SMS revenue the month before this,1
+action key was never sent to the subscriber,2
+aggregate revenue in the last specified days,5
+average roaming call revenue during within the last 15 days,1
+action key was not sent where MSISDN matches OM_MSISDN in the last 350 days,6
+the customer matched by MSISDN with the category check,6
+promotion in the last X days,5
+the customer matched by MSISDN with the category check,6
+peak voice revenue record,3
+subscriber activated the HBB addon one day ago,3
+category lookup via OM_MSISDN,6
+month-over-month decline in voice revenue,4
+share of total data used by YouTube,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+as segment id exists for the customer,2
+subscriber attribute is greater than the threshold,2
+yesterday's HBB addon activation without fixed line,3
+month-over-month decline in total revenue,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+overall aggregate revenue over the last 15 days,1
+absent action key where MSISDN matches OM_CHECK_MSISDN,6
+recharge revenue accumulated over the last X days,5
+action key present with offnet MSISDN,6
+sum of outgoing SMS revenue for 2 months back,1
+subscriber did not receive the action key joined on MSISDN in the past 350 days,6
+customer's og idd payg sms count one month ago,1
+action key is absent,2
+month-over-month decline in total revenue,4
+current geo location of the customer,3
+prepaid SMS revenue M3,1
+action key count is zero where MSISDN matches OM_CHECK_MSISDN,6
+ratio of YouTube to total streaming,4
+the customer has re trans dt,2
+max HBB ID lookup,3
+percentage drop in total revenue between two months,4
+customer received an action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+metric over the last X days,5
+latest HBB add-on inactivation date for a specific HBB ID,3
+most recent HBB ID match,3
+one month ago og idd bundle call count,1
+customer received a promotion,2
+subscriber's total web browsing volume the month before this,1
+customer's total voice usage 3 months prior,1
+promotion absent for this customer in the last 7 days,2
+bonus delivered in the past X days,5
+two months ago streaming session count,1
+number of bill events over the last specified days,5
+promotion absent for this customer in the last 365 days,2
+sum of total voice usage 2 months back,1
+subscriptions product id exists for the customer,2
+recent activation in the last specified hours,5
+ratio of YouTube to total data usage,4
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+percentage drop in total revenue between two months,4
+the count satisfies the threshold,2
+most recent HBB ID match,3
+bonus delivered in the past X days,5
+YouTube as % of total data this month,4
+promotion in the last X days,5
+YouTube usage as a percentage of total streaming,4
+subscriber count check,2
+no action key delivered with offnet MSISDN,6
+the metric over a runtime time window,5
+W2 rolling prepaid MT revenue,1
+customer's recharge rev past 20 days,1
+YouTube as % of streaming volume,4
+latest HBB ID for the customer,3
+activation occurred within X hours,5
+snapshot of HBB add-on inactivation,3
+the average post voi 30d incl d1 past 31 days,1
+the metric over a runtime time window,5
+month-over-month decline in total revenue,4
+highest value of the field,3
+IDD call frequency for the last X days,5
+the customer matched by MSISDN with the category check,6
+percentage drop in total revenue between two months,4
+HBB IMEI presence check,6
+sum of prepaid VAS revenue during M2,1
+HBB add-on inactivation date check by HBB ID,3
+customer attribute meets the threshold,2
+recharge revenue is present,2
+promo was not sent in the last 4 days,2
+average og idd bundle sms count for previous month,1
+the customer has subscriptions event date,2
+% decrease in voice revenue from one month to the next,4
+% decrease in voice revenue from one month to the next,4
+HBB add-on inactivation date check by HBB ID,3
+number of incoming calls the month before this,1
+recharge amount over a configurable day window,5
+promotion was delivered to the subscriber in the last 30 days,2
+metric over the last X days,5
+subscription is absent over the past X days,5
+customer's prepaid OMIP revenue the month before this,1
+customer count condition,2
+subscriber category match joined on the offnet MSISDN,6
+maximum prepaid voice revenue event for the customer,3
+customer has not subscribed in the last X days,5
+sixth rolling week prepaid MT revenue,1
+customer has not subscribed in the last X days,5
+verify SDC counter against device ID,6
+the metric over a runtime time window,5
+metric over the last X days,5
+bonus delivered in the past X days,5
+snapshot of HBB add-on inactivation,3
+no subscription on the account in the last specified number of days,5
+re trans dt exists for the customer,2
+% decrease in voice revenue from one month to the next,4
+action key count is zero where MSISDN matches OM_MSISDN,6
+aggregate revenue in the last specified days,5
+bonus delivered in the past X days,5
+action key was sent joined on MSISDN in the last 364 days,6
+customer received a promotion in the past X days,5
+the latest record's inactivation date for this HBB,3
+action key was sent via OM_MSISDN in the last 84 days,6
+month-over-month decline in total revenue,4
+highest voice revenue ever recorded,3
+percentage drop in data revenue between two months,4
+customer received an action key via OM_MSISDN in the past 84 days,6
+subscriber received the action key,2
+VAS revenue W4 rolling,1
+subscriber got a promo in the last 30 days,2
+category check where MSISDN matches OM_MSISDN,6
+average gift revenue for during the last 30 days,1
+customer's outgoing IDD call revenue W8 rolling,1
+action key was sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+recharge revenue accumulated over the last X days,5
+latest HBB add-on inactivation date for a specific HBB ID,3
+max HBB ID lookup,3
+bonus sent in the last X days,5
+amount recharged in the last X days,5
+action key was sent for the HBB device,6
+absent action key where MSISDN matches OM_CHECK_MSISDN,6
+action key delivered joined on the offnet MSISDN,6
+% decrease in data revenue from one month to the next,4
+snapshot of HBB add-on inactivation,3
+verify category for the joined record with offnet MSISDN,6
+subscriber bill events over the past X days,5
+total redeem points in the last X days,5
+percentage drop in data revenue between two months,4
+re trans dt is present,2
+the customer has rec service type,2
+promotion delivered in the last X days,5
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 90 days,6
+data revenue drop comparing two consecutive months,4
+the customer matched by MSISDN with the category check,6
+category check joined on MSISDN,6
+current inactivation date for the HBB ID,3
+subscriber category match joined on MSISDN,6
+the customer has re trans dt,2
+promotion absent for this customer in the last 4 days,2
+the customer got the action key,2
+absent action key where MSISDN matches OM_MSISDN,6
+percentage drop in voice revenue between two months,4
+value during a configurable day window,5
+subscriber's value in the last X days,5
+category check where MSISDN matches OM_MSISDN,6
+subscriptions product id is not null,2
+HBB addon was activated yesterday with no active fixed line,3
+subscriber activated the HBB addon one day ago,3
+% decrease in data revenue from one month to the next,4
+action key exists for this subscriber,2
+service type value is set,2
+subscriber's overall data roam bundle volume 3 months prior,1
+customer count grouped check,2
+yesterday's HBB addon activation without fixed line,3
+category lookup where MSISDN matches OM_MSISDN,6
+total outgoing voice revenue for past 30 days,1
+YouTube usage as a percentage of total data,4
+the customer has re trans dt,2
+same period last month SMS revenue,1
+action key count is zero with offnet MSISDN,6
+total revenue over the last X days,5
+action key delivered joined on MSISDN,6
+subscriber's value in the last X days,5
+action key count is zero joined on MSISDN,6
+latest snapshot of the value,3
+yesterday's HBB addon activation without fixed line,3
+the customer's present geographic region,3
+month-over-month decline in total revenue,4
+M2 total data consumed,1
+percentage drop in total revenue between two months,4
+customer activated HBB addon yesterday and has no fixed line,3
+the customer was not subscribed during the last X days,5
+subscriber did not receive a promotion in the last 30 days,2
+YouTube as % of total data this month,4
+average Instagram data volume the month before this,1
+action key was sent via OM_MSISDN in the last 182 days,6
+action key present joined on MSISDN,6
+bonus received in the last X days,5
+customer's PayG data volume two months ago,1
+the customer matched by MSISDN with the category check,6
+subscription is absent,2
+sum of billpaid 60 days during past 60 days,1
+max voice revenue for the subscriber,3
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+action key delivered where MSISDN matches OM_MSISDN,6
+SDC bonus counter for the specific device,6
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 90 days,6
+id is not null,2
+sum of og idd ibp call mou for 3 months back,1
+bill event recorded in the last 3 days,2
+HBB IMEI not found or no action key recorded,6
+ratio of YouTube to total streaming,4
+subscriber category match where MSISDN matches OM_MSISDN,6
+bonus sent in the last X days,5
+the latest record's inactivation date for this HBB,3
+maximum prepaid voice revenue event for the customer,3
+customer received an action key joined on MSISDN in the past 364 days,6
+YouTube usage as a percentage of total data,4
+percentage drop in total revenue between two months,4
+overall WhatsApp usage for 3 months prior,1
+subscriber's total og roam payg call count three months ago,1
+YouTube portion of streaming,4
+% decrease in voice revenue from one month to the next,4
+subscriber category match with offnet MSISDN,6
+YouTube as % of total data this month,4
+aggregate revenue in the last specified days,5
+promotion absent for this customer in the last 3 days,2
+overall prepaid gift revenue during sixth rolling week,1
+promotion in the last X days,5
+HBB device IMEI lookup with no match,6
+maximum prepaid voice revenue event for the customer,3
+subscriber's current geographical location,3
+subscriber received the action key,2
+highest value of the field,3
+the metric over a runtime time window,5
+promo was not sent in the last 3 days,2
+average og roam bundle call count M3,1
+sum of og roam gcc call mou two months ago,1
+subscriber's total og bundle call count the month before last,1
+subscriber's value in the last X days,5
+action key count is greater than zero where MSISDN matches OM_MSISDN,6
+subscriber's total data revenue previous month,1
+sum(common total revenue) is not null,2
+data usage revenue rolling week 3,1
+the KPI in the past X days,5
+subscriber's current geographical location,3
+the KPI in the past X days,5
+sum of OG SMS revenue for two months ago,1
+customer has not subscribed in the last X days,5
+YouTube as % of total data this month,4
+max HBB ID lookup,3
+the total outgoing IDD call revenue rolling week 4,1
+action key delivered joined on the offnet MSISDN,6
+percentage drop in total revenue between two months,4
+subscriber category match with offnet MSISDN,6
+sum of og sms count last month,1
+customer received a promotion in the past X days,5
+the overall web browsing volume the month before this,1
+verify category for the joined record with offnet MSISDN,6
+action key is absent,2
+promotion was not delivered to the subscriber in the last 7 days,2
+the metric over a runtime time window,5
+action key was not sent with offnet MSISDN in the last 84 days,6
+% decrease in data revenue from one month to the next,4
+customer's 2 days recharge rev over the last 2 days,1
+metric over the last X days,5
+data revenue drop comparing two consecutive months,4
+subscriber activated the HBB addon one day ago,3
+action key was sent via OM_MSISDN in the last 182 days,6
+absent action key where MSISDN matches OM_MSISDN,6
+the latest record's inactivation date for this HBB,3
+% decrease in total revenue from one month to the next,4
+% decrease in total revenue from one month to the next,4
+action key was never sent to the subscriber,2
+action key count is greater than zero joined on MSISDN,6
+the customer matched by MSISDN with the category check,6
+average og free call count during last month,1
+category check joined on MSISDN,6
+current HBB ID record,3
+the customer matched by MSISDN with the category check,6
+current HBB ID record,3
+customer received an action key where MSISDN matches OM_CHECK_MSISDN,6
+post voi 30d incl d1 past 31 days,1
+customer count condition,2
+customer has not subscribed in the last X days,5
+customer count grouped check in the last 30 days,2
+customer received a promotion in the past X days,5
+the KPI in the past X days,5
+re trans dt is present,2
+sum of overall revenue for two months ago,1
+data revenue fell by some percentage between months,4
+voice revenue drop comparing two consecutive months,4
+the most recent record,3
+% decrease in data revenue from one month to the next,4
+HBB add-on inactivation date check by HBB ID,3
+number of bill events over the last specified days,5
+total prepaid revenue accumulated in the past X days,5
+subscriber's current geographical location,3
+promotion absent for this customer in the last 30 days,2
+most recent HBB ID match,3
+customer count grouped check,2
+data revenue drop comparing two consecutive months,4
+bonus received in the last X days,5
+percentage drop in voice revenue between two months,4
+metric over the last X days,5
+month-over-month decline in data revenue,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+customer's og local bundle offnet call mou one month ago,1
+subscriber received the action key,2
+social app data sum during the configurable window,5
+subscriber's value in the last X days,5
+post dat 7d incl d1 over the last 8 days,1
+percentage drop in data revenue between two months,4
+category check with offnet MSISDN,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+action key was not sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+total data usage volume sixth rolling week,1
+HBB IMEI not found or no action key recorded,6
+the customer's most recent HBB identifier,3
+data revenue fell by some percentage between months,4
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+subscriber is not subscribed to a product over the last X days,5
+customer's WhatsApp usage 3 months prior,1
+month-over-month decline in total revenue,4
+promotion delivered in the last X days,5
+customer received an action key with offnet MSISDN,6
+WhatsApp Facebook TikTok Instagram total in last X days,5
+subscriber's total revenue during the configurable window,5
+over the last 8 days post dat 7d incl d1,1
+the KPI in the past X days,5
+total revenue drop comparing two consecutive months,4
+customer count grouped check,2
+YouTube portion of streaming,4
+customer's og roam gcc call count 3 months back,1
+no HBB action key for this IMEI,6
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+no subscription on the account in the last specified number of days,5
+sum of mobile data revenue three months ago,1
+promotion absent for this customer in the last 7 days,2
+subscriber did not receive the action key joined on MSISDN in the past 350 days,6
+data revenue fell by some percentage between months,4
+customer activated HBB addon yesterday and has no fixed line,3
+YouTube as % of streaming volume,4
+overall og payg sms count during previous month,1
+latest HBB add-on inactivation date for a specific HBB ID,3
+most recent HBB ID match,3
+action key has been triggered,2
+current inactivation date for the HBB ID,3
+the customer was not subscribed during the last X days,5
+HBB add-on inactivation date check by HBB ID,3
+the most recent record,3
+promo was not sent in the last 1 days,2
+average prepay voice revenue during three months ago,1
+sum of og idd bundle call mou during one month ago,1
+where the subscriber is currently located,3
+HBB addon was activated yesterday with no active fixed line,3
+latest snapshot of the value,3
+the customer matched by MSISDN with the category check,6
+subscription is absent,2
+current geo location of the customer,3
+voice revenue fell by some percentage between months,4
+average og free sms count for 3 months back,1
+percentage drop in voice revenue between two months,4
+YouTube share within streaming usage,4
+HBB add-on inactivation date check by HBB ID,3
+the overall OG call revenue seventh rolling week,1
+verify SDC counter against device ID,6
+re trans dt is present,2
+latest HBB add-on inactivation date for a specific HBB ID,3
+re trans dt value is set,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+month-over-month decline in data revenue,4
+absent action key where MSISDN matches OM_MSISDN,6
+l action key is present,2
+subscriber is not subscribed to a product,2
+prepaid MT revenue eighth rolling week,1
+recharge amount over a configurable day window,5
+ratio of YouTube to total streaming,4
+status is not currently active,2
+subscriber's overall og idd bundle sms count M3,1
+the customer's present geographic region,3
+the largest voice revenue event,3
+max HBB ID lookup,3
+percentage drop in data revenue between two months,4
+maximum prepaid voice revenue event for the customer,3
+latest HBB add-on inactivation date for a specific HBB ID,3
+average roaming call revenue during sixth rolling week,1
+the most recent record,3
+category check where MSISDN matches OM_MSISDN,6
+customer activated HBB addon yesterday and has no fixed line,3
+og day voice usage last month,1
+the maximum value of the metric,3
+most recent HBB ID match,3
+average post dat 30d incl d1 during in the last 31 days,1
+YouTube usage as a percentage of total streaming,4
+highest voice revenue ever recorded,3
+l action key is not null,2
+promotion absent for this customer in the last 30 days,2
+verify category for the joined record joined on MSISDN,6
+category lookup where MSISDN matches OM_MSISDN,6
+customer's prepaid product revenue during the last 15 days,1
+subscriber did not receive a promotion in the last 1 days,2
+HBB add-on inactivation date check by HBB ID,3
+overall data usage revenue W5 rolling,1
+promo was not sent in the last 3 days,2
+category lookup where MSISDN matches OM_MSISDN,6
+total data billing revenue LMTD,1
+month-over-month decline in total revenue,4
+bill event count for the last X days,5
+percentage drop in data revenue between two months,4
+ratio of YouTube to total data usage,4
+subscriber's current geographical location,3
+subscriber's overall prepaid MT revenue W6 rolling,1
+action key present via OM_MSISDN,6
+subscriber category match where MSISDN matches OM_MSISDN,6
+id value is set,2
+customer received an action key via OM_MSISDN in the past 182 days,6
+subscriptions product id is present,2
+total revenue fell by some percentage between months,4
+subscriber got a bonus during the configurable window,5
+customer has paid bills,2
+the customer subscribed in the last X days,5
+promotion was not delivered to the subscriber in the last 20 days,2
+total recharge in the last X days,5
+the KPI in the past X days,5
+customer received an action key joined on MSISDN in the past 364 days,6
+action key count is zero where MSISDN matches OM_CHECK_MSISDN,6
+peak voice revenue record,3
+action key count is greater than zero via OM_MSISDN,6
+snapshot of HBB add-on inactivation,3
+count of bill events during the configurable window,5
+subscriber did not receive a promotion in the last 180 days,2
+average OMIP revenue last month,1
+% decrease in total revenue from one month to the next,4
+percentage drop in total revenue between two months,4
+dpi yt usage streaming for that period,1
+the customer matched by MSISDN with the category check,6
+total og roam bundle sms count during M3,1
+bonus received in the last X days,5
+HBB add-on inactivation date check by HBB ID,3
+no promo received by the customer in the last 30 days,2
+latest HBB ID for the customer,3
+peak voice revenue record,3
+ratio of YouTube to total data usage,4
+customer's og idd bundle call count M2,1
+subscriber category match via OM_MSISDN,6
+customer's total revenue W2 rolling,1
+the average dpi stream usage last month during the last 30 days,1
+month-over-month decline in voice revenue,4
+customer received an action key via OM_MSISDN in the past 84 days,6
+average mobile data revenue during W8 rolling,1
+month-over-month decline in total revenue,4
+highest value of the field,3
+recharge amount over a configurable day window,5
+max HBB ID lookup,3
+YouTube as % of streaming volume,4
+id value is set,2
+data revenue drop comparing two consecutive months,4
+action key present with offnet MSISDN,6
+activation within a configurable hour window,5
+month-over-month decline in data revenue,4
+current HBB ID record,3
+customer count grouped check in the last 30 days,2
+total prepaid voice revenue in the last 30 days,1
+promotion absent for this customer in the last 20 days,2
+customer's data volume one month ago,1
+HBB add-on inactivation date check by HBB ID,3
+customer's current location,3
+two months ago og idd ibp call count,1
+the latest record's inactivation date for this HBB,3
+YouTube as % of total data this month,4
+the customer has gex revenue,2
+category lookup with offnet MSISDN,6
+promo was sent to the subscriber in the last 7 days,2
+action key was not sent where MSISDN matches OM_MSISDN in the last 350 days,6
+percentage drop in data revenue between two months,4
+og free call count M3,1
+customer count grouped check,2
+data usage revenue over the last 30 days,1
+YouTube as % of total data this month,4
+the metric over a runtime time window,5
+the latest record's inactivation date for this HBB,3
+promo was not sent in the last 365 days,2
+the latest record's inactivation date for this HBB,3
+customer's lms expiry status points s during the last 1 months,1
+total revenue fell by some percentage between months,4
+customer has not subscribed in the last X days,5
+the customer got the action key,2
+customer received a promotion in the past X days,5
+the customer was not subscribed during the last X days,5
+customer's og bundle sms count two months ago,1
+promotion was not delivered to the subscriber in the last 3 days,2
+total revenue fell by some percentage between months,4
+absent action key with offnet MSISDN,6
+three months ago og idd free sms count,1
+customer count condition,2
+YouTube usage as a percentage of total data,4
+action key delivered via OM_MSISDN,6
+no action key delivered where MSISDN matches OM_MSISDN,6
+month-over-month decline in data revenue,4
+action key count is zero with offnet MSISDN,6
+metric over the last X days,5
+total og roam payg call mou during M1,1
+customer activated HBB addon yesterday and has no fixed line,3
+gex revenue is not null,2
+overall dpi total usage month for that period,1
+max voice revenue for the subscriber,3
+og payg call mou M2,1
+snapshot of HBB add-on inactivation,3
+subscriber is not subscribed to a product over the last X days,5
+value during a configurable day window,5
+created date value is set,2
+subscriber's value in the last X days,5
+ratio of YouTube to total data usage,4
+subscriber count check in the last 30 days,2
+subscriber bill events over the past X days,5
+amount recharged in the last X days,5
+promotion delivered in the last X days,5
+most recent HBB ID match,3
+customer count grouped check in the last 30 days,2
+sum of og idd payg sms count for two months ago,1
+YouTube portion of streaming,4
+HBB addon was activated yesterday with no active fixed line,3
+action key was sent where MSISDN matches OM_CHECK_MSISDN,6
+data revenue drop comparing two consecutive months,4
+promotion was not delivered to the subscriber in the last 7 days,2
+% decrease in total revenue from one month to the next,4
+the latest record's inactivation date for this HBB,3
+bonus delivered in the past X days,5
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+recharge revenue exists for the customer,2
+HBB device matches the IMEI and has the action key,6
+total og roam vf call mou for two months ago,1
+customer received an action key via OM_MSISDN in the past 84 days,6
+% decrease in total revenue from one month to the next,4
+the average og roam payg sms count previous month,1
+action key exists for this subscriber,2
+total revenue over the last X days,5
+active subscription found in the last X days,5
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 350 days,6
+action key was sent for the HBB device,6
+total revenue fell by some percentage between months,4
+HBB add-on inactivation date check by HBB ID,3
+no promo received by the customer in the last 7 days,2
+customer's current location,3
+highest voice revenue ever recorded,3
+subscriber has not received the action key,2
+share of total data used by YouTube,4
+the customer was not subscribed during the last X days,5
+voice revenue drop comparing two consecutive months,4
+YouTube usage as a percentage of total data,4
+promotion absent for this customer in the last 7 days,2
+yesterday's HBB addon activation without fixed line,3
+YouTube usage as a percentage of total data,4
+category lookup joined on the offnet MSISDN,6
+max recorded value,3
+the customer was bonused in the last specified days,5
+billing events in the last X days,5
+promotion in the last X days,5
+latest snapshot of the value,3
+sum of prepaid MT revenue for rolling week 4,1
+category lookup via OM_MSISDN,6
+HBB addon was activated yesterday with no active fixed line,3
+category check where MSISDN matches OM_MSISDN,6
+total og night voice usage for 2 months back,1
+international call count in the last X days,5
+action key exists for this subscriber,2
+subscriber's overall total voice usage M1,1
+latest HBB ID for the customer,3
+data revenue drop comparing two consecutive months,4
+bill event count for the last X days,5
+promotion delivered in the last X days,5
+redeemed loyalty points over the last X days,5
+no HBB action key for this IMEI,6
+customer's current location,3
+snapshot of HBB add-on inactivation,3
+subscriber did not receive a promotion in the last 0 days,2
+highest voice revenue ever recorded,3
+device bonus counter check by device ID,6
+average SMS revenue previous month,1
+action key count is greater than zero joined on the offnet MSISDN,6
+MSISDN exists in the whitelist,2
+common og local payg call revenue is present,2
+latest HBB ID for the customer,3
+recharge denomination value is set,2
+metric over the last X days,5
+promotion was not delivered to the subscriber in the last 5 days,2
+current HBB ID record,3
+subscriber's overall prepaid gift revenue three months ago,1
+verify category for the joined record joined on MSISDN,6
+the customer was not subscribed during the last X days,5
+recent activation in the last specified hours,5
+streaming volume M1,1
+ratio of YouTube to total data usage,4
+the count satisfies the threshold,2
+month-over-month decline in data revenue,4
+bonus sent in the last X days,5
+current inactivation date for the HBB ID,3
+percentage drop in voice revenue between two months,4
+customer count grouped check,2
+sum(common total revenue) is present,2
+subscriber category match joined on MSISDN,6
+the maximum value of the metric,3
+percentage drop in data revenue between two months,4
+overall og free sms count for previous month,1
+YouTube percentage of total monthly data,4
+bill paid amount during the last specified days,5
+HBB record check by IMEI,6
+data revenue fell by some percentage between months,4
+no action key delivered where MSISDN matches OM_MSISDN,6
+the metric over a runtime time window,5
+total recharge in the last X days,5
+the customer has recharge denomination,2
+prepaid migration next best plan internal value is set,2
+action key present via OM_MSISDN,6
+data revenue fell by some percentage between months,4
+re trans dt is not null,2
+total revenue fell by some percentage between months,4
+ratio of YouTube to total data usage,4
+maximum prepaid voice revenue event for the customer,3
+one month ago og local bundle onnet call mou,1
+no promo received by the customer in the last 15 days,2
+total revenue drop comparing two consecutive months,4
+number of bill events over the last specified days,5
+the customer matched by MSISDN with the category check,6
+promotion in the last X days,5
+promotion was not delivered to the subscriber in the last 365 days,2
+number of billing events in the last 4 days,2
+the customer matched by MSISDN with the category check,6
+subscriber bill events over the past X days,5
+value during a configurable day window,5
+YouTube as % of streaming volume,4
+the customer's most recent HBB identifier,3
+subscriber got a bonus during the configurable window,5
+subscriber category match via OM_MSISDN,6
+no promo received by the customer in the last 1 days,2
+value added services revenue rolling week 1,1
+customer received an action key where MSISDN matches OM_CHECK_MSISDN,6
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 182 days,6
+customer's 1 days recharge rev over the last 1 days,1
+total bill paid in the last X days,5
+latest HBB ID for the customer,3
+VAS revenue M3,1
+the average og bundle call count 3 months prior,1
+customer count grouped check today,2
+data revenue fell by some percentage between months,4
+total recharge in the last X days,5
+as segment id value is set,2
+recharge value during the last specified days,5
+HBB device IMEI lookup with no match,6
+current HBB ID record,3
+promotion in the last X days,5
+customer's current location,3
+current HBB ID record,3
+action key count is zero where MSISDN matches OM_MSISDN,6
+customer received a promotion in the past X days,5
+customer received a promotion in the past X days,5
+snapshot of HBB add-on inactivation,3
+W6 rolling OG SMS revenue,1
+% decrease in data revenue from one month to the next,4
+the customer's present geographic region,3
+customer count grouped check in the last 30 days,2
+peak voice revenue record,3
+HBB addon was activated yesterday with no active fixed line,3
+total revenue fell by some percentage between months,4
+subscriber's sum of lms expiry status points s the last 1 completed months,1
+current inactivation date for the HBB ID,3
+most recent HBB ID match,3
+total post dat 7d excl d1 during over the last 7 days,1
+percentage drop in voice revenue between two months,4
+id exists for the customer,2
+the count satisfies the threshold,2
+promotion in the last X days,5
+action key count is greater than zero where MSISDN matches OM_MSISDN,6
+voice revenue drop comparing two consecutive months,4
+subscriber did not receive the action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+current HBB ID record,3
+total value added services revenue within the last 30 days,1
+most recent HBB ID match,3
+YouTube share within streaming usage,4
+snapshot of HBB add-on inactivation,3
+YouTube portion of streaming,4
+the maximum value of the metric,3
+subscriptions product id is not null,2
+data revenue drop comparing two consecutive months,4
+promo was sent during a configurable window,5
+subscriber category match where MSISDN matches OM_MSISDN,6
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+social media volume over a configurable window,5
+where the subscriber is currently located,3
+social app data sum during the configurable window,5
+subscriber count check in the last 180 days,2
+subscriber did not receive the action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+subscriber's average OG call revenue M3,1
+subscriber did not receive a promotion in the last 3 days,2
+hbb addon comp id is present,2
+voice revenue fell by some percentage between months,4
+peak voice revenue record,3
+action key was sent joined on the offnet MSISDN in the last 84 days,6
+absent action key where MSISDN matches OM_MSISDN,6
+international call count in the last X days,5
+subscriber's value in the last X days,5
+customer's prepaid gift revenue W8 rolling,1
+customer's og payg call mou M2,1
+total OMIP revenue for over the last 15 days,1
+total revenue drop comparing two consecutive months,4
+current geo location of the customer,3
+total revenue drop comparing two consecutive months,4
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+category check where MSISDN matches OM_MSISDN,6
+action key was not sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+promo was sent during a configurable window,5
+% decrease in total revenue from one month to the next,4
+YouTube portion of streaming,4
+category check via OM_MSISDN,6
+max voice revenue for the subscriber,3
+action key was sent joined on the offnet MSISDN in the last 84 days,6
+combined social media data in the past X days,5
+action key was sent with offnet MSISDN,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+subscriber count check,2
+recharge value during the last specified days,5
+no subscription on the account in the last specified number of days,5
+customer has no product subscription,2
+the customer's most recent HBB identifier,3
+YouTube share within streaming usage,4
+action key was sent at least once,2
+the latest record's inactivation date for this HBB,3
+snapshot of HBB add-on inactivation,3
+peak voice revenue record,3
+recharge value during the last specified days,5
+voice revenue drop comparing two consecutive months,4
+data revenue drop comparing two consecutive months,4
+share of total data used by YouTube,4
+loyalty points redeemed in the past X days,5
+no promo received by the customer in the last 365 days,2
+l action key is not null,2
+customer activated HBB addon yesterday and has no fixed line,3
+ratio of YouTube to total streaming,4
+device counter check joined on LT_DEVICE_ID,6
+subscriber count check,2
+customer count condition,2
+subscriber's average og idd ibp call mou three months ago,1
+promotion was not delivered to the subscriber in the last 0 days,2
+subscriber bill events over the past X days,5
+PDC status is not active,2
+re trans dt value is set,2
+ratio of YouTube to total streaming,4
+subscriber category match where MSISDN matches OM_MSISDN,6
+average dpi yt usage streaming over the period,1
+YouTube percentage of total monthly data,4
+percentage drop in data revenue between two months,4
+promotion delivered in the last X days,5
+YouTube percentage of total monthly data,4
+current inactivation date for the HBB ID,3
+action key count is zero where MSISDN matches OM_MSISDN,6
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the metric over a runtime time window,5
+customer count condition today,2
+M3 overall prepaid revenue,1
+common og idd payg call revenue value is set,2
+bh birthday value is set,2
+customer count grouped check,2
+cust 360 nbo productid value is set,2
+subscriber activated the HBB addon one day ago,3
+category check where MSISDN matches OM_MSISDN,6
+most recent HBB ID match,3
+voice revenue fell by some percentage between months,4
+latest snapshot of the value,3
+IDD call frequency for the last X days,5
+action key was sent via OM_MSISDN in the last 182 days,6
+percentage drop in total revenue between two months,4
+YouTube usage as a percentage of total streaming,4
+promotion was not delivered to the subscriber in the last 4 days,2
+promo confirmed in the last specified days,5
+promotion was not delivered to the subscriber in the last 7 days,2
+og idd bundle call mou one month ago,1
+the count satisfies the threshold,2
+action key was sent via OM_MSISDN in the last 84 days,6
+most recent HBB ID match,3
+HBB IMEI received the action key,6
+fifth rolling week data revenue,1
+international call count in the last X days,5
+category check where MSISDN matches OM_MSISDN,6
+subscriber activated the HBB addon one day ago,3
+subscription is present over the past X days,5
+the sum of data billing revenue 3 months prior,1
+customer received an action key joined on MSISDN in the past 364 days,6
+promo was not sent in the last 30 days,2
+overall data usage revenue for second rolling week,1
+sum of gift revenue second rolling week,1
+yesterday's HBB addon activation without fixed line,3
+total prepaid revenue accumulated in the past X days,5
+promotion absent for this customer in the last 4 days,2
+WhatsApp Facebook TikTok Instagram total in last X days,5
+subscriber received the action key,2
+subscriber count check,2
+subscription is absent over the past X days,5
+percentage drop in total revenue between two months,4
+subscriber's overall prepaid SMS revenue W2 rolling,1
+current inactivation date for the HBB ID,3
+no active subscription on the account,2
+subscriber count check,2
+subscriber activated within the last X hours,5
+month-over-month decline in data revenue,4
+value during a configurable day window,5
+the customer's most recent HBB identifier,3
+subscription is absent over the past X days,5
+subscriber's value in the last X days,5
+customer received a promotion in the past X days,5
+share of total data used by YouTube,4
+promo was not sent in the last 45 days,2
+action key was never sent to the subscriber,2
+action key was not sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+action key was not sent where MSISDN matches OM_CHECK_MSISDN in the last 350 days,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+ratio of YouTube to total data usage,4
+subscriber category match joined on the offnet MSISDN,6
+subscriber is not subscribed to a product over the last X days,5
+customer received an action key where MSISDN matches OM_MSISDN in the past 90 days,6
+action key present via OM_MSISDN,6
+subscriber did not receive a promotion in the last 4 days,2
+the customer matched by MSISDN with the category check,6
+max HBB ID lookup,3
+average og idd vf call mou the month before this,1
+data revenue fell by some percentage between months,4
+% decrease in total revenue from one month to the next,4
+the total dpi stream usage current month over the period,1
+subscriber got a bonus during the configurable window,5
+the total messaging revenue previous month,1
+bill event count for the last X days,5
+category lookup via OM_MSISDN,6
+subscriber's average overall prepaid revenue LMTD,1
+promotion delivered in the last X days,5
+subscriber did not receive the action key with offnet MSISDN in the past 84 days,6
+category check via OM_MSISDN,6
+sum of Facebook data volume during M3,1
+bill event count for the last X days,5
+most recent HBB ID match,3
+subscriber did not receive a promotion in the last 4 days,2
+YouTube share within streaming usage,4
+the customer matched by MSISDN with the category check,6
+YouTube usage as a percentage of total streaming,4
+promotion absent for this customer in the last 45 days,2
+current geo location of the customer,3
+% decrease in data revenue from one month to the next,4
+count check on the customer in the last 180 days,2
+M1 outgoing call revenue,1
+subscriber category match where MSISDN matches OM_MSISDN,6
+sum of gift revenue for third rolling week,1
+the customer has re trans dt,2
+overall data roam payg volume for 3 months prior,1
+points redeemed during the configurable window,5
+i recharge amount exists for the customer,2
+percentage drop in data revenue between two months,4
+prepaid OMIP revenue rolling week 4,1
+promotion delivered successfully in the last 2 days,2
+action key was sent with offnet MSISDN,6
+the latest record's inactivation date for this HBB,3
+the largest voice revenue event,3
+fifth rolling week outgoing roaming call revenue,1
+HBB add-on inactivation date check by HBB ID,3
+imei action key value is set,2
+og payg call mou previous month,1
+promotion delivered in the last X days,5
+HBB IMEI presence check,6
+total data bundle volume during the month before last,1
+one month ago og idd gcc call count,1
+subscriber's value in the last X days,5
+promotion absent for this customer in the last 15 days,2
+subscriber's value in the last X days,5
+bill paid amount during the last specified days,5
+customer's 180 days recharge rev during the last 180 days,1
+overall pay-as-you-go data volume for M3,1
+the count satisfies the threshold,2
+action key count is zero where MSISDN matches OM_MSISDN,6
+customer received an action key via OM_MSISDN in the past 182 days,6
+subscriber has not received the action key,2
+customer count grouped check today,2
+native action key exists for the customer,2
+bill event count for the last X days,5
+value during a configurable day window,5
+average number of streaming sessions during one month ago,1
+data revenue drop comparing two consecutive months,4
+category lookup joined on MSISDN,6
+the customer has common og local payg call revenue,2
+the latest record's inactivation date for this HBB,3
+the KPI in the past X days,5
+percentage drop in data revenue between two months,4
+data revenue drop comparing two consecutive months,4
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+no promo received by the customer in the last 4 days,2
+current HBB ID record,3
+subscriber activated the HBB addon one day ago,3
+YouTube share within streaming usage,4
+voice revenue fell by some percentage between months,4
+loyalty points redeemed in the past X days,5
+data revenue 3 months prior,1
+the customer's most recent HBB identifier,3
+recharge amount over a configurable day window,5
+activation within a configurable hour window,5
+no promo received by the customer in the last 15 days,2
+% decrease in total revenue from one month to the next,4
+mr fct month is present,2
+the maximum value of the metric,3
+subscriber category match with offnet MSISDN,6
+current HBB ID record,3
+snapshot of HBB add-on inactivation,3
+no promo received by the customer in the last 7 days,2
+latest snapshot of the value,3
+the maximum value of the metric,3
+subscriptions event date exists for the customer,2
+subscriber activated within the last X hours,5
+YouTube as % of total data this month,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+the customer was not subscribed during the last X days,5
+ratio of YouTube to total data usage,4
+action key count is zero where MSISDN matches OM_MSISDN,6
+action key count is greater than zero with offnet MSISDN,6
+latest snapshot of the value,3
+no action key delivered with offnet MSISDN,6
+YouTube usage as a percentage of total data,4
+max recorded value,3
+the largest voice revenue event,3
+the customer was not subscribed during the last X days,5
+share of total data used by YouTube,4
+count check on the customer,2
+% decrease in total revenue from one month to the next,4
+data revenue drop comparing two consecutive months,4
+the most recent record,3
+total revenue fell by some percentage between months,4
+the customer's present geographic region,3
+% decrease in data revenue from one month to the next,4
+YouTube as % of streaming volume,4
+service type is present,2
+the customer subscribed in the last X days,5
+customer count condition in the last 30 days,2
+value during a configurable day window,5
+absent action key where MSISDN matches OM_MSISDN,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+the metric over a runtime time window,5
+subscriber's value in the last X days,5
+international call count in the last X days,5
+customer's og local bundle offnet call mou M3,1
+the latest record's inactivation date for this HBB,3
+HBB add-on inactivation date check by HBB ID,3
+absent action key where MSISDN matches OM_MSISDN,6
+promo was not sent in the last 30 days,2
+customer count grouped check,2
+the count satisfies the threshold,2
+promotion in the last X days,5
+YouTube usage as a percentage of total streaming,4
+max HBB ID lookup,3
+no subscription on the account in the last specified number of days,5
+snapshot of HBB add-on inactivation,3
+average value of recharge revenue in the last 90 days,1
+YouTube share within streaming usage,4
+% decrease in data revenue from one month to the next,4
+percentage drop in data revenue between two months,4
+HBB add-on inactivation date check by HBB ID,3
+average prepaid VAS revenue W3 rolling,1
+bonus sent in the last X days,5
+sum of og free call mou one month ago,1
+% decrease in data revenue from one month to the next,4
+HBB addon was activated yesterday with no active fixed line,3
+the customer has subscriptions product id,2
+common og local payg call revenue is not null,2
+total revenue drop comparing two consecutive months,4
+YouTube as % of streaming volume,4
+subscription is absent over the past X days,5
+value during a configurable day window,5
+subscriber's sum of international call revenue second rolling week,1
+the customer matched by MSISDN with the category check,6
+the maximum value of the metric,3
+the month before last product revenue,1
+data revenue drop comparing two consecutive months,4
+subscriber is not subscribed to a product,2
+overall Instagram data volume during two months ago,1
+% decrease in total revenue from one month to the next,4
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+recharge revenue accumulated over the last X days,5
+% decrease in data revenue from one month to the next,4
+verify category for the joined record joined on the offnet MSISDN,6
+the customer has re trans dt,2
+max voice revenue for the subscriber,3
+verify category for the joined record via OM_MSISDN,6
+category lookup where MSISDN matches OM_MSISDN,6
+customer received an action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+action key delivered via OM_MSISDN,6
+customer received an action key where MSISDN matches OM_CHECK_MSISDN,6
+subscriber did not receive any bonus in the last 30 days,2
+total game session count M2,1
+customer received an action key via OM_MSISDN in the past 84 days,6
+sum of OG call MOU the month before last,1
+customer's current location,3
+category lookup joined on MSISDN,6
+promo was sent to the subscriber in the last 7 days,2
+peak voice revenue record,3
+average OG call revenue during rolling week 2,1
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+total recharge in the last X days,5
+subscriber count check today,2
+HBB record found by IMEI with action key sent,6
+subscriber count check,2
+total prepaid VAS revenue for M2,1
+the maximum value of the metric,3
+promo was sent during a configurable window,5
+share of total data used by YouTube,4
+MSISDN exists in the whitelist,2
+international call count in the last X days,5
+share of total data used by YouTube,4
+action key count is greater than zero joined on MSISDN,6
+the month before this data usage volume,1
+HBB record found by IMEI with action key sent,6
+number of international calls over the past X days,5
+action key count is zero where MSISDN matches OM_CHECK_MSISDN,6
+highest value of the field,3
+value during a configurable day window,5
+action key was sent joined on MSISDN in the last 364 days,6
+the sum of bundle data volume 3 months prior,1
+the customer added the HBB addon yesterday,3
+created date exists for the customer,2
+yesterday's HBB addon activation without fixed line,3
+percentage drop in total revenue between two months,4
+cust 360 nbo productid is present,2
+where the subscriber is currently located,3
+percentage drop in voice revenue between two months,4
+customer count condition in the last 30 days,2
+latest HBB add-on inactivation date for a specific HBB ID,3
+customer's og payg sms count the month before this,1
+where the subscriber is currently located,3
+customer count grouped check,2
+snapshot of HBB add-on inactivation,3
+ratio of YouTube to total data usage,4
+subscriber's average game volume M2,1
+promotion delivered successfully in the last 7 days,2
+customer's email session count previous month,1
+month-over-month decline in data revenue,4
+max HBB ID lookup,3
+promotion absent for this customer in the last 0 days,2
+total og idd bundle call count for M1,1
+social media volume over the last X days,5
+IDD call frequency for the last X days,5
+the customer added the HBB addon yesterday,3
+percentage drop in data revenue between two months,4
+the customer matches the segment,2
+month-over-month decline in voice revenue,4
+sum of prepaid voice revenue during 2 months back,1
+SDC bonus counter for the specific device,6
+promo was sent during a configurable window,5
+rej msisdn is not null,2
+the customer added the HBB addon yesterday,3
+action key delivered where MSISDN matches OM_MSISDN,6
+average game session count M1,1
+number of bill events over the last specified days,5
+imei action key exists for the customer,2
+latest snapshot of the value,3
+no action key delivered where MSISDN matches OM_MSISDN,6
+max HBB ID lookup,3
+% decrease in voice revenue from one month to the next,4
+promo was sent during a configurable window,5
+W1 rolling prepaid OMIP revenue,1
+customer count condition today,2
+category lookup with offnet MSISDN,6
+action key count is zero where MSISDN matches OM_MSISDN,6
+common data roam payg revenue value is set,2
+180 days recharge rev within the last 180 days,1
+no subscription on the account in the last specified number of days,5
+prepaid gift revenue M3,1
+the customer was not subscribed during the last X days,5
+promo was sent during a configurable window,5
+category check via OM_MSISDN,6
+the customer's most recent HBB identifier,3
+the metric over a runtime time window,5
+HBB addon was activated yesterday with no active fixed line,3
+voice revenue fell by some percentage between months,4
+amount recharged in the last X days,5
+% decrease in total revenue from one month to the next,4
+customer count condition in the last 30 days,2
+total overall prepaid revenue during rolling week 3,1
+bonus has not been sent in the last 30 days,2
+promo was not sent in the last 5 days,2
+gift revenue fourth rolling week,1
+subscriber bill events over the past X days,5
+promo was sent to the subscriber in the last 3 days,2
+voice revenue fell by some percentage between months,4
+data revenue drop comparing two consecutive months,4
+IDD call count in the last X days,5
+sum of og idd payg sms count for 3 months prior,1
+share of total data used by YouTube,4
+overall og roam vf call mou the month before last,1
+total Instagram usage 3 months back,1
+action key was sent where MSISDN matches OM_MSISDN in the last 90 days,6
+bill payment amount over the last X days,5
+category lookup where MSISDN matches OM_MSISDN,6
+action key was sent for the HBB device,6
+no action key recorded,2
+HBB device IMEI lookup with no match,6
+action key delivered joined on the offnet MSISDN,6
+action key present where MSISDN matches OM_MSISDN,6
+subscriber got a promo in the last 2 days,2
+subscriber count check,2
+promo confirmed in the last specified days,5
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+% decrease in total revenue from one month to the next,4
+ratio of YouTube to total data usage,4
+% decrease in total revenue from one month to the next,4
+total revenue fell by some percentage between months,4
+customer activated HBB addon yesterday and has no fixed line,3
+promotion was not delivered to the subscriber in the last 3 days,2
+subscriber's sum of og payg sms count 3 months prior,1
+subscriber's current geographical location,3
+no bonus delivered to customer in the last 30 days,2
+snapshot of HBB add-on inactivation,3
+common data roam payg revenue is not null,2
+the metric over a runtime time window,5
+subscriber's overall prepaid product revenue last month to date,1
+metric over the last X days,5
+subscriber activated the HBB addon one day ago,3
+current inactivation date for the HBB ID,3
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 350 days,6
+promo was not sent in the last 1 days,2
+subscriber's sum of IDD call revenue W1 rolling,1
+sum of og local bundle offnet call mou for M1,1
+snapshot of HBB add-on inactivation,3
+recharge revenue is not null,2
+customer count condition,2
+sum of billpaid 60 days over the last 60 days,1
+promotion was not delivered to the subscriber in the last 1 days,2
+no HBB action key for this IMEI,6
+category check with offnet MSISDN,6
+customer appears in the whitelist,2
+snapshot of HBB add-on inactivation,3
+no promo received by the customer in the last 30 days,2
+promotion absent for this customer in the last 15 days,2
+subscriber did not receive a promotion in the last 1 days,2
+share of total data used by YouTube,4
+og idd ibp call mou 3 months prior,1
+data revenue fell by some percentage between months,4
+month-over-month decline in data revenue,4
+as segment id is not null,2
+action key exists for this subscriber,2
+social media volume over the last X days,5
+category lookup where MSISDN matches OM_MSISDN,6
+promo was not sent in the last 15 days,2
+latest HBB add-on inactivation date for a specific HBB ID,3
+maximum prepaid voice revenue event for the customer,3
+customer's total revenue last month,1
+category lookup where MSISDN matches OM_MSISDN,6
+prepaid migration next best plan internal is not null,2
+action key delivered where MSISDN matches OM_MSISDN,6
+the metric over a runtime time window,5
+subscriber is subscribed to a product over the last X days,5
+share of total data used by YouTube,4
+category check where MSISDN matches OM_MSISDN,6
+SDC counter present for this device,6
+% decrease in data revenue from one month to the next,4
+customer's aggregate revenue the month before last,1
+subscriber count check today,2
+roaming call revenue fourth rolling week,1
+verify category for the joined record joined on the offnet MSISDN,6
+customer's current location,3
+% decrease in voice revenue from one month to the next,4
+absent action key where MSISDN matches OM_MSISDN,6
+M2 OG call revenue,1
+action key delivered joined on MSISDN,6
+the maximum value of the metric,3
+active subscription found in the last X days,5
+ratio of YouTube to total data usage,4
+the sum of og local onnet call mou 3 months prior,1
+YouTube share within streaming usage,4
+subscriber did not receive the action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+latest HBB ID for the customer,3
+value during a configurable day window,5
+IDD call count in the last X days,5
+customer has not subscribed in the last X days,5
+subscriber did not receive a promotion in the last 15 days,2
+data revenue fell by some percentage between months,4
+customer received an action key with offnet MSISDN,6
+no promo received by the customer in the last 180 days,2
+the customer's most recent HBB identifier,3
+highest voice revenue ever recorded,3
+voice revenue fell by some percentage between months,4
+common og local payg call revenue exists for the customer,2
+percentage drop in data revenue between two months,4
+the customer has sum(common total revenue),2
+customer activated HBB addon yesterday and has no fixed line,3
+no action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+data revenue fell by some percentage between months,4
+category check joined on the offnet MSISDN,6
+highest voice revenue ever recorded,3
+the customer matched by MSISDN with the category check,6
+overall SMS revenue M2,1
+action key count is greater than zero via OM_MSISDN,6
+subscriber's total revenue during the configurable window,5
+latest snapshot of the value,3
+subscriber's total outgoing roaming call revenue 3 months back,1
+the maximum value of the metric,3
+bill paid amount during the last specified days,5
+max voice revenue for the subscriber,3
+customer's VAS revenue MTD,1
+percentage drop in total revenue between two months,4
+re trans dt is not null,2
+customer's number of incoming calls previous month,1
+month-over-month decline in total revenue,4
+number of bill events over the last specified days,5
+YouTube share within streaming usage,4
+subscriptions product id value is set,2
+YouTube portion of streaming,4
+M3 og roam payg call count,1
+subscriber got a promo,2
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+the HBB IMEI exists and got an action key,6
+amount recharged in the last X days,5
+HBB record found by IMEI with action key sent,6
+action key was sent where MSISDN matches OM_CHECK_MSISDN,6
+subscription is absent over the past X days,5
+IDD calling activity during the configurable window,5
+billing events in the last X days,5
+action key was not sent where MSISDN matches OM_MSISDN in the last 90 days,6
+common og idd call revenue exists for the customer,2
+action key count is greater than zero where MSISDN matches OM_MSISDN,6
+billing event count in the last 3 days,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+action key count is zero where MSISDN matches OM_CHECK_MSISDN,6
+outgoing call revenue same period last month,1
+the KPI in the past X days,5
+subscriber category match where MSISDN matches OM_MSISDN,6
+% decrease in data revenue from one month to the next,4
+customer's og bundle call count the month before this,1
+total revenue drop comparing two consecutive months,4
+bonus has not been sent in the last 180 days,2
+subscriber's current geographical location,3
+YouTube portion of streaming,4
+no promo received by the customer in the last 30 days,2
+month-over-month decline in total revenue,4
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 350 days,6
+total revenue drop comparing two consecutive months,4
+overall og idd payg call count 3 months prior,1
+customer count condition,2
+percentage drop in total revenue between two months,4
+most recent HBB ID match,3
+subscriber got a promo in the last 3 days,2
+action key has been triggered,2
+action key was sent at least once,2
+category check where MSISDN matches OM_MSISDN,6
+subscriber got a bonus during the configurable window,5
+re trans dt value is set,2
+recharge denomination exists for the customer,2
+customer had a billing event in the last 4 days,2
+month-over-month decline in data revenue,4
+promotion was not delivered to the subscriber in the last 1 days,2
+the month before last OG SMS revenue,1
+total product revenue this month,1
+latest HBB add-on inactivation date for a specific HBB ID,3
+subscriber's sum of data usage revenue W4 rolling,1
+percentage drop in total revenue between two months,4
+promo was not sent in the last 3 days,2
+the most recent record,3
+action key present with offnet MSISDN,6
+action key is absent,2
+subscriber's average og night voice usage 2 months back,1
+month-over-month decline in total revenue,4
+data revenue drop comparing two consecutive months,4
+overall data billing revenue for rolling week 3,1
+no action key delivered with offnet MSISDN,6
+data revenue drop comparing two consecutive months,4
+snapshot of HBB add-on inactivation,3
+subscriber's total prepaid MT revenue previous month,1
+the sum of og idd payg call count M3,1
+YouTube portion of streaming,4
+common data roam payg revenue is present,2
+customer received an action key via OM_MSISDN in the past 84 days,6
+count check on the customer today,2
+customer has a product subscription,2
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 90 days,6
+voice call revenue MTD,1
+voice revenue drop comparing two consecutive months,4
+percentage drop in data revenue between two months,4
+current HBB ID record,3
+activation occurred within X hours,5
+subscriber did not receive the action key joined on MSISDN in the past 350 days,6
+promotion absent for this customer in the last 5 days,2
+the customer has re trans dt,2
+data revenue drop comparing two consecutive months,4
+hbb addon comp id value is set,2
+within the last 30 days data revenue,1
+month-over-month decline in data revenue,4
+peak voice revenue record,3
+sum of mobile data revenue for in the last 30 days,1
+SDC counter present for this device,6
+the customer's most recent HBB identifier,3
+no action key delivered joined on MSISDN,6
+metric over the last X days,5
+% decrease in total revenue from one month to the next,4
+total revenue drop comparing two consecutive months,4
+subscriber is not subscribed to a product over the last X days,5
+% decrease in data revenue from one month to the next,4
+customer had a billing event in the last 3 days,2
+action key present with offnet MSISDN,6
+dpi total usage month over the period,1
+HBB add-on inactivation date check by HBB ID,3
+YouTube usage as a percentage of total streaming,4
+action key count is zero joined on MSISDN,6
+bill payment exists for the subscriber,2
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the sum of outgoing voice revenue past 15 days,1
+created date is present,2
+the customer's present geographic region,3
+average data usage revenue fifth rolling week,1
+customer received an action key with offnet MSISDN,6
+category lookup where MSISDN matches OM_MSISDN,6
+the KPI in the past X days,5
+the customer's most recent HBB identifier,3
+percentage drop in data revenue between two months,4
+action key count is zero where MSISDN matches OM_MSISDN,6
+action key was not sent where MSISDN matches OM_MSISDN in the last 182 days,6
+action key delivered where MSISDN matches OM_CHECK_MSISDN,6
+subscriber's sum of SMS revenue 3 months back,1
+sum of og free sms count M3,1
+og roam gcc call mou the month before last,1
+data revenue fell by some percentage between months,4
+billing events in the last X days,5
+the metric over a runtime time window,5
+the count satisfies the threshold in the last 180 days,2
+common og idd payg call revenue is not null,2
+customer's og idd bundle sms count 3 months back,1
+customer received a promotion in the last 3 days,2
+subscriber did not receive a promotion in the last 30 days,2
+YouTube as % of total data this month,4
+mobile data revenue rolling week 4,1
+the latest record's inactivation date for this HBB,3
+bh birthday is present,2
+percentage drop in data revenue between two months,4
+subscription is absent over the past X days,5
+no promo received by the customer in the last 0 days,2
+count of bill events during the configurable window,5
+ratio of YouTube to total streaming,4
+the customer got the action key,2
+subscriber's average outgoing voice revenue rolling week 5,1
+the customer matched by MSISDN with the category check,6
+SDC counter present for this device,6
+HBB addon was activated yesterday with no active fixed line,3
+action key was never sent to the subscriber,2
+bill event recorded in the last 4 days,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+max voice revenue for the subscriber,3
+percentage drop in total revenue between two months,4
+month-over-month decline in data revenue,4
+promo was sent during a configurable window,5
+no subscription on the account in the last specified number of days,5
+share of total data used by YouTube,4
+the overall og bundle sms count the month before this,1
+YouTube usage as a percentage of total data,4
+verify SDC counter against device ID,6
+the largest voice revenue event,3
+the customer subscribed in the last X days,5
+subscriber is in the whitelist,2
+current inactivation date for the HBB ID,3
+customer's data usage volume two months ago,1
+common og idd call revenue value is set,2
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+percentage drop in data revenue between two months,4
+activation within a configurable hour window,5
+verify category for the joined record joined on MSISDN,6
+og idd gcc call mou one month ago,1
+the customer's most recent HBB identifier,3
+month-over-month decline in data revenue,4
+action key exists for this subscriber,2
+month-over-month decline in total revenue,4
+subscriber's overall og idd payg call count the month before this,1
+activation occurred within X hours,5
+% decrease in voice revenue from one month to the next,4
+prepay voice revenue the month before last,1
+subscriber's current geographical location,3
+two months ago data usage volume,1
+the KPI in the past X days,5
+customer received an action key where MSISDN matches OM_CHECK_MSISDN,6
+customer activated HBB addon yesterday and has no fixed line,3
+subscriber activated the HBB addon one day ago,3
+subscriber's overall og roam gcc call mou two months ago,1
+imei action key is present,2
+promotion was not delivered to the subscriber in the last 3 days,2
+action key count is greater than zero via OM_MSISDN,6
+value during a configurable day window,5
+the customer added the HBB addon yesterday,3
+percentage drop in voice revenue between two months,4
+data revenue drop comparing two consecutive months,4
+no promo received by the customer in the last 20 days,2
+sum of data billing revenue for seventh rolling week,1
+sum of revenue over the last X days,5
+max HBB ID lookup,3
+sum of og bundle call mou for three months ago,1
+points redeemed during the configurable window,5
+data revenue fell by some percentage between months,4
+data revenue fell by some percentage between months,4
+peak voice revenue record,3
+YouTube as % of streaming volume,4
+subscriber received the action key,2
+customer's PayG data volume 3 months back,1
+the KPI in the past X days,5
+bonus sent in the last X days,5
+subscriber's total og idd ibp call mou last month,1
+metric over the last X days,5
+the latest record's inactivation date for this HBB,3
+total revenue fell by some percentage between months,4
+latest snapshot of the value,3
+ratio of YouTube to total streaming,4
+the customer got the action key,2
+max HBB ID lookup,3
+l action key value is set,2
+sum of prepaid voice revenue during two months ago,1
+YouTube as % of total data this month,4
+subscriber's average prepaid SMS revenue in the last 30 days,1
+the customer matches the segment,2
+redemption activity over the last specified days,5
+latest HBB ID for the customer,3
+category lookup with offnet MSISDN,6
+YouTube as % of total data this month,4
+billpaid 90 days in the last 90 days,1
+sum of og roam payg call mou during the month before last,1
+re trans dt is present,2
+latest snapshot of the value,3
+the customer's most recent HBB identifier,3
+percentage drop in total revenue between two months,4
+average game volume M3,1
+subscriber's current geographical location,3
+total revenue drop comparing two consecutive months,4
+total revenue drop comparing two consecutive months,4
+customer has not been bonused in the last 30 days,2
+share of total data used by YouTube,4
+the customer has common og idd payg call revenue,2
+latest HBB ID for the customer,3
+verify category for the joined record joined on the offnet MSISDN,6
+value during a configurable day window,5
+the latest record's inactivation date for this HBB,3
+subscriber bill events over the past X days,5
+HBB add-on inactivation date check by HBB ID,3
+common og local payg call revenue value is set,2
+data revenue drop comparing two consecutive months,4
+count check on the customer,2
+outgoing roaming call revenue W3 rolling,1
+total prepaid revenue accumulated in the past X days,5
+subscriber has not received the action key,2
+customer has not subscribed in the last X days,5
+% decrease in data revenue from one month to the next,4
+latest HBB ID for the customer,3
+absent action key joined on MSISDN,6
+current geo location of the customer,3
+the average prepaid product revenue second rolling week,1
+latest HBB ID for the customer,3
+percentage drop in total revenue between two months,4
+customer count grouped check,2
+the customer matched by MSISDN with the category check,6
+category lookup via OM_MSISDN,6
+the customer has rej msisdn,2
+current geo location of the customer,3
+most recent HBB ID match,3
+percentage drop in total revenue between two months,4
+og local onnet call mou previous month,1
+rec service type is present,2
+the KPI in the past X days,5
+recharge amount over a configurable day window,5
+no action key delivered where MSISDN matches OM_MSISDN,6
+action key was sent at least once,2
+billing events in the last X days,5
+YouTube usage as a percentage of total streaming,4
+month-over-month decline in total revenue,4
+the customer matched by MSISDN with the category check,6
+action key has been triggered,2
+no action key delivered with offnet MSISDN,6
+verify category for the joined record joined on MSISDN,6
+the average post voi 30d incl d1 in the last 31 days,1
+data revenue drop comparing two consecutive months,4
+month-over-month decline in data revenue,4
+the sum of SMS revenue previous month,1
+count check on the customer,2
+month-over-month decline in total revenue,4
+two months ago total voice usage,1
+W4 rolling outgoing IDD call revenue,1
+month-over-month decline in voice revenue,4
+streaming volume 2 months back,1
+most recent HBB ID match,3
+outgoing SMS revenue W3 rolling,1
+subscriber's total gift revenue fifth rolling week,1
+YouTube as % of streaming volume,4
+data revenue fell by some percentage between months,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+customer count grouped check,2
+current geo location of the customer,3
+category check where MSISDN matches OM_MSISDN,6
+id is present,2
+max voice revenue for the subscriber,3
+customer count condition today,2
+overall OMIP revenue during 3 months back,1
+the largest voice revenue event,3
+rej msisdn value is set,2
+bill paid customer flag,2
+month-over-month decline in total revenue,4
+subscription is absent over the past X days,5
+subscriber's value in the last X days,5
+subscriber did not receive the action key with offnet MSISDN in the past 84 days,6
+amount of bills paid over the last X days,5
+subscriber's current geographical location,3
+action key count is zero with offnet MSISDN,6
+customer has subscribed during the last specified days,5
+the customer added the HBB addon yesterday,3
+the customer added the HBB addon yesterday,3
+the customer was not subscribed during the last X days,5
+YouTube usage as a percentage of total streaming,4
+the customer matched by MSISDN with the category check,6
+share of total data used by YouTube,4
+customer's current location,3
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+re trans dt value is set,2
+overall international call revenue for second rolling week,1
+subscriber did not receive the action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+max recorded value,3
+data revenue fell by some percentage between months,4
+month-over-month decline in total revenue,4
+overall og roam payg sms count last month,1
+ratio of YouTube to total data usage,4
+action key delivered joined on the offnet MSISDN,6
+og sms count 2 months back,1
+current inactivation date for the HBB ID,3
+yesterday's HBB addon activation without fixed line,3
+YouTube portion of streaming,4
+promotion absent for this customer in the last 3 days,2
+action key present where MSISDN matches OM_CHECK_MSISDN,6
+snapshot of HBB add-on inactivation,3
+sum of og bundle call mou M2,1
+the customer added the HBB addon yesterday,3
+voice revenue drop comparing two consecutive months,4
+% decrease in total revenue from one month to the next,4
+YouTube share within streaming usage,4
+common og idd call revenue is not null,2
+action key delivered where MSISDN matches OM_MSISDN,6
+highest voice revenue ever recorded,3
+ratio of YouTube to total streaming,4
+customer count grouped check,2
+subscriber category match with offnet MSISDN,6
+paybill hvc within the last 30 days,1
+customer activated HBB addon yesterday and has no fixed line,3
+customer's roaming call revenue third rolling week,1
+the total roaming call revenue three months ago,1
+subscriber's overall IDD call revenue three months ago,1
+YouTube as % of total data this month,4
+the customer added the HBB addon yesterday,3
+count check on the customer,2
+the customer's most recent HBB identifier,3
+value during a configurable day window,5
+promotion in the last X days,5
+promotion was not delivered to the subscriber in the last 15 days,2
+the customer's status is inactive,2
+metric over the last X days,5
+max HBB ID lookup,3
+re trans dt is not null,2
+metric over the last X days,5
+verify category for the joined record with offnet MSISDN,6
+voice revenue fell by some percentage between months,4
+count of bill events during the configurable window,5
+action key delivered joined on MSISDN,6
+metric over the last X days,5
+percentage drop in voice revenue between two months,4
+current HBB ID record,3
+average WhatsApp data volume for M2,1
+subscriber activated the HBB addon one day ago,3
+customer's mobile data revenue W6 rolling,1
+no action key recorded,2
+total incoming call count during 3 months back,1
+the customer has re trans dt,2
+HBB addon was activated yesterday with no active fixed line,3
+3 months prior og roam payg call mou,1
+og idd vf call count last month,1
+subscriber is subscribed to a product over the last X days,5
+subscriber's current geographical location,3
+customer received an action key where MSISDN matches OM_MSISDN in the past 90 days,6
+HBB device IMEI lookup with no match,6
+rolling week 3 outgoing call revenue,1
+action key count is greater than zero where MSISDN matches OM_MSISDN,6
+is not subscribed to a product,2
+overall data usage revenue for previous month,1
+total revenue drop comparing two consecutive months,4
+re trans dt is not null,2
+% decrease in total revenue from one month to the next,4
+the count satisfies the threshold today,2
+sum of prepaid gift revenue for three months ago,1
+category check with offnet MSISDN,6
+re trans dt exists for the customer,2
+voice revenue fell by some percentage between months,4
+IDD calling activity during the configurable window,5
+data roam payg volume the month before last,1
+IDD calling activity during the configurable window,5
+the metric over a runtime time window,5
+re trans dt exists for the customer,2
+promotion was delivered to the subscriber,2
+customer count condition,2
+audience segment is assigned,2
+action key present joined on MSISDN,6
+metric over the last X days,5
+sum of data volume for rolling week 1,1
+current geo location of the customer,3
+re trans dt value is set,2
+bonus is absent for this subscriber in the last 30 days,2
+the average post cmb 30d incl d1 in the last 31 days,1
+total revenue drop comparing two consecutive months,4
+sum of value added services revenue past 15 days,1
+customer's og free call mou three months ago,1
+current HBB ID record,3
+subscriber's sum of og day voice usage M2,1
+the most recent record,3
+snapshot of HBB add-on inactivation,3
+customer's prepaid gift revenue last month to date,1
+the HBB IMEI exists and got an action key,6
+customer's prepaid SMS revenue second rolling week,1
+latest HBB ID for the customer,3
+action key delivered via OM_MSISDN,6
+customer's og idd bundle call count M1,1
+customer has not subscribed in the last X days,5
+no action key delivered where MSISDN matches OM_MSISDN,6
+percentage drop in total revenue between two months,4
+the customer has common data roam payg revenue,2
+customer's product revenue second rolling week,1
+recharge revenue accumulated over the last X days,5
+the customer matched by MSISDN with the category check,6
+highest voice revenue ever recorded,3
+the overall outgoing MOU two months ago,1
+latest HBB ID for the customer,3
+subscriber is subscribed to a product over the last X days,5
+promo confirmed in the last specified days,5
+total revenue fell by some percentage between months,4
+where the subscriber is currently located,3
+sum of total revenue five months ago,1
+month-over-month decline in data revenue,4
+metric over the last X days,5
+customer activated HBB addon yesterday and has no fixed line,3
+action key count is greater than zero joined on the offnet MSISDN,6
+YouTube portion of streaming,4
+customer's current location,3
+% decrease in data revenue from one month to the next,4
+current inactivation date for the HBB ID,3
+bill payment amount over the last X days,5
+amount recharged in the last X days,5
+the largest voice revenue event,3
+average prepaid MT revenue this month,1
+% decrease in data revenue from one month to the next,4
+highest voice revenue ever recorded,3
+prepaid OMIP revenue month to date,1
+action key exists for this subscriber,2
+count check on the customer,2
+current HBB ID record,3
+mr fct month is not null,2
+previous month data usage volume,1
+promotion absent for this customer in the last 180 days,2
+highest value of the field,3
+total prepaid revenue accumulated in the past X days,5
+common og local payg call revenue is present,2
+total recharge in the last X days,5
+the attribute exceeds a specified value,2
+the overall outgoing call revenue rolling week 2,1
+sum of og local onnet call mou 3 months back,1
+device counter check joined on LT_DEVICE_ID,6
+total revenue drop comparing two consecutive months,4
+current inactivation date for the HBB ID,3
+HBB addon was activated yesterday with no active fixed line,3
+subscriber did not receive the action key with offnet MSISDN in the past 84 days,6
+the customer was bonused in the last specified days,5
+bonus received in the last X days,5
+promotion delivered in the last X days,5
+action key count is zero with offnet MSISDN,6
+ratio of YouTube to total data usage,4
+subscriber did not receive the action key with offnet MSISDN in the past 84 days,6
+native action key is present,2
+action key count is greater than zero via OM_MSISDN,6
+average og roam vf call mou for two months ago,1
+YouTube share within streaming usage,4
+action key was not sent where MSISDN matches OM_MSISDN in the last 90 days,6
+percentage drop in data revenue between two months,4
+overall voice call revenue during M2,1
+absent action key where MSISDN matches OM_CHECK_MSISDN,6
+max recorded value,3
+data revenue fell by some percentage between months,4
+subscriber count check,2
+voice revenue drop comparing two consecutive months,4
+average OMIP revenue W2 rolling,1
+% decrease in data revenue from one month to the next,4
+data revenue drop comparing two consecutive months,4
+the customer's attribute meets the criteria,2
+highest value of the field,3
+recharge amount over a configurable day window,5
+IDD call count in the last X days,5
+verify category for the joined record with offnet MSISDN,6
+IDD call count in the last X days,5
+the metric over a runtime time window,5
+the customer got the action key,2
+subscriber's overall post voi 30d incl d1 over the last 31 days,1
+service type is not null,2
+YouTube as % of streaming volume,4
+WhatsApp Facebook TikTok Instagram total in last X days,5
+subscriber's overall og roam free sms count 3 months prior,1
+YouTube as % of streaming volume,4
+international call count in the last X days,5
+YouTube usage as a percentage of total data,4
+gift revenue M2,1
+highest voice revenue ever recorded,3
+the total og roam ibp call count 2 months back,1
+HBB add-on inactivation date check by HBB ID,3
+three months ago og roam gcc call mou,1
+action key delivered with offnet MSISDN,6
+customer count condition today,2
+bonus received in the last X days,5
+customer's data volume fourth rolling week,1
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the KPI in the past X days,5
+% decrease in voice revenue from one month to the next,4
+customer's og day voice usage M2,1
+YouTube usage as a percentage of total data,4
+average og sms count for M2,1
+absent action key where MSISDN matches OM_MSISDN,6
+total revenue fell by some percentage between months,4
+percentage drop in total revenue between two months,4
+the customer activated in the last X hours,5
+% decrease in data revenue from one month to the next,4
+subscriber category match joined on the offnet MSISDN,6
+subscriptions event date is not null,2
+total revenue fell by some percentage between months,4
+the overall streaming volume the month before last,1
+billpaid 90 days during the last 90 days,1
+IDD calling activity during the configurable window,5
+promo was not sent in the last 15 days,2
+% decrease in total revenue from one month to the next,4
+latest HBB add-on inactivation date for a specific HBB ID,3
+common og roam payg call revenue exists for the customer,2
+latest HBB add-on inactivation date for a specific HBB ID,3
+max HBB ID lookup,3
+the customer has common og local payg call revenue,2
+subscriber's average web browsing volume the month before last,1
+total data usage revenue fourth rolling week,1
+IDD calling activity during the configurable window,5
+overall og local bundle offnet call mou for 3 months prior,1
+latest HBB ID for the customer,3
+where the subscriber is currently located,3
+YouTube usage as a percentage of total data,4
+HBB device matches the IMEI and has the action key,6
+recharge amount over a configurable day window,5
+subscriber did not receive a promotion in the last 180 days,2
+IDD call frequency for the last X days,5
+% decrease in data revenue from one month to the next,4
+customer's prepaid product revenue rolling week 1,1
+customer has no product subscription in the last 30 days,2
+data revenue fell by some percentage between months,4
+the customer was bonused in the last specified days,5
+absent action key where MSISDN matches OM_MSISDN,6
+device counter check joined on LT_DEVICE_ID,6
+IDD call count in the last X days,5
+subscriber category match with offnet MSISDN,6
+IDD calling activity during the configurable window,5
+the largest voice revenue event,3
+action key count is zero where MSISDN matches OM_CHECK_MSISDN,6
+billing event count in the last 4 days,2
+the customer added the HBB addon yesterday,3
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the KPI in the past X days,5
+overall dpi yt usage streaming for for that period,1
+no HBB action key for this IMEI,6
+sum of data billing revenue for current month,1
+the customer's most recent HBB identifier,3
+percentage drop in total revenue between two months,4
+IDD call frequency for the last X days,5
+HBB IMEI presence check,6
+share of total data used by YouTube,4
+customer received a promotion in the past X days,5
+average og free call count for 3 months back,1
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 90 days,6
+YouTube portion of streaming,4
+metric over the last X days,5
+HBB IMEI not found or no action key recorded,6
+action key count is zero where MSISDN matches OM_MSISDN,6
+subscriber did not receive a promotion in the last 45 days,2
+the month before last outgoing voice revenue,1
+% decrease in total revenue from one month to the next,4
+max recorded value,3
+promotion was not delivered to the subscriber in the last 45 days,2
+customer's og free sms count the month before last,1
+total product revenue for during the last 30 days,1
+category check with offnet MSISDN,6
+HBB device IMEI lookup with no match,6
+HBB IMEI not found or no action key recorded,6
+game session count three months ago,1
+international call count in the last X days,5
+subscriber got a bonus during the configurable window,5
+subscriber's value in the last X days,5
+month-over-month decline in voice revenue,4
+HBB record check by IMEI,6
+number of international calls over the past X days,5
+the month before this web browsing volume,1
+the count satisfies the threshold,2
+customer received an action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+total prepaid gift revenue during W4 rolling,1
+the customer matched by MSISDN with the category check,6
+promo was sent to the subscriber in the last 2 days,2
+subscriber category match where MSISDN matches OM_MSISDN,6
+overall SMS revenue sixth rolling week,1
+current inactivation date for the HBB ID,3
+YouTube usage as a percentage of total data,4
+recent activation in the last specified hours,5
+promotion delivered in the last X days,5
+the metric over a runtime time window,5
+overall og bundle call count for two months ago,1
+subscriber's average total revenue 5 months back,1
+data revenue drop comparing two consecutive months,4
+subscription is absent in the last 30 days,2
+subscriber's total prepaid VAS revenue W2 rolling,1
+the customer's present geographic region,3
+percentage drop in data revenue between two months,4
+the customer matched by MSISDN with the category check,6
+IDD calling activity during the configurable window,5
+HBB IMEI not found or no action key recorded,6
+customer's outgoing call count three months ago,1
+subscriber activated the HBB addon one day ago,3
+IDD call count in the last X days,5
+the total data volume rolling week 5,1
+category lookup joined on MSISDN,6
+subscriber did not receive any bonus in the last 180 days,2
+customer attribute meets the threshold,2
+value during a configurable day window,5
+subscriber's sum of outgoing call revenue past 15 days,1
+customer count grouped check,2
+action key was sent via OM_MSISDN in the last 84 days,6
+subscription is absent over the past X days,5
+promotion delivered successfully,2
+the customer's most recent HBB identifier,3
+where the subscriber is currently located,3
+the customer has common og roam payg call revenue,2
+subscriber's average data roam payg volume three months ago,1
+the count satisfies the threshold today,2
+M1 Instagram data volume,1
+the average roaming call revenue first rolling week,1
+subscriber's total outgoing SMS revenue within the last 30 days,1
+current inactivation date for the HBB ID,3
+overall WhatsApp data volume M2,1
+SDC counter present for this device,6
+re trans dt is present,2
+action key delivered joined on MSISDN,6
+the customer's most recent HBB identifier,3
+past 30 days OMIP revenue,1
+% decrease in total revenue from one month to the next,4
+current HBB ID record,3
+device bonus counter check by device ID,6
+count check on the customer today,2
+voice revenue fell by some percentage between months,4
+share of total data used by YouTube,4
+last month complimentary data volume,1
+value during a configurable day window,5
+whitelist entry exists for this subscriber,2
+YouTube usage as a percentage of total data,4
+% decrease in voice revenue from one month to the next,4
+rec service type value is set,2
+action key count is greater than zero via OM_MSISDN,6
+activation within a configurable hour window,5
+promo confirmed in the last specified days,5
+the latest record's inactivation date for this HBB,3
+hbb addon comp id exists for the customer,2
+latest HBB ID for the customer,3
+action key was sent at least once,2
+current HBB ID record,3
+bonus received in the last X days,5
+the sum of og local onnet call mou two months ago,1
+re trans dt is present,2
+total revenue fell by some percentage between months,4
+subscriber is not subscribed to a product in the last 30 days,2
+month-over-month decline in data revenue,4
+subscriber's average og idd ibp call mou two months ago,1
+customer received an action key with offnet MSISDN,6
+total revenue fell by some percentage between months,4
+subscriber count check,2
+the HBB IMEI exists and got an action key,6
+YouTube usage as a percentage of total streaming,4
+subscriber's value in the last X days,5
+subscriber's value in the last X days,5
+subscriber is not subscribed to a product over the last X days,5
+customer's 2 days recharge rev during the last 2 days,1
+2 months back OG SMS revenue,1
+absent action key where MSISDN matches OM_MSISDN,6
+action key was sent where MSISDN matches OM_MSISDN in the last 90 days,6
+promotion in the last X days,5
+customer count condition,2
+the customer matched by MSISDN with the category check,6
+customer count grouped check,2
+subscriber bill events over the past X days,5
+the metric over a runtime time window,5
+the latest record's inactivation date for this HBB,3
+average Facebook data volume M2,1
+customer count condition,2
+category lookup with offnet MSISDN,6
+total revenue drop comparing two consecutive months,4
+customer count condition in the last 30 days,2
+peak voice revenue record,3
+subscriber is in the whitelist,2
+the customer added the HBB addon yesterday,3
+customer received an action key where MSISDN matches OM_CHECK_MSISDN in the past 350 days,6
+verify category for the joined record via OM_MSISDN,6
+metric over the last X days,5
+no promo received by the customer in the last 10 days,2
+max HBB ID lookup,3
+subscriber category match with offnet MSISDN,6
+category lookup where MSISDN matches OM_MSISDN,6
+where the subscriber is currently located,3
+average dpi total usage month over the period,1
+the count satisfies the threshold,2
+the sum of prepaid gift revenue 2 months back,1
+created date is not null,2
+YouTube as % of streaming volume,4
+current inactivation date for the HBB ID,3
+verify category for the joined record joined on MSISDN,6
+customer received an action key joined on the offnet MSISDN in the past 84 days,6
+latest HBB add-on inactivation date for a specific HBB ID,3
+metric over the last X days,5
+highest value of the field,3
+absent action key with offnet MSISDN,6
+max HBB ID lookup,3
+promotion absent for this customer in the last 1 days,2
+HBB IMEI presence check,6
+no promo received by the customer in the last 5 days,2
+the customer's present geographic region,3
+promotion was delivered to the subscriber in the last 7 days,2
+average total revenue W3 rolling,1
+subscriber's total data volume M1,1
+most recent HBB ID match,3
+data revenue fell by some percentage between months,4
+total revenue fell by some percentage between months,4
+month-over-month decline in total revenue,4
+HBB add-on inactivation date check by HBB ID,3
+data revenue fell by some percentage between months,4
+subscriber category match via OM_MSISDN,6
+subscriber's sum of SMS revenue 3 months prior,1
+most recent HBB ID match,3
+the total OMIP revenue LMTD,1
+customer's data billing revenue during the last 15 days,1
+where the subscriber is currently located,3
+re trans dt value is set,2
+subscription is absent over the past X days,5
+subscriber's average outgoing call revenue M3,1
+percentage drop in data revenue between two months,4
+action key count is greater than zero with offnet MSISDN,6
+redeemed loyalty points over the last X days,5
+M2 og peak voice usage,1
+percentage drop in voice revenue between two months,4
+month-over-month decline in voice revenue,4
+most recent HBB ID match,3
+promo confirmed in the last specified days,5
+HBB record check by IMEI,6
+re trans dt is present,2
+total revenue drop comparing two consecutive months,4
+verify category for the joined record joined on the offnet MSISDN,6
+YouTube portion of streaming,4
+where the subscriber is currently located,3
+data revenue fell by some percentage between months,4
+bonus received in the last X days,5
+one month ago og idd bundle call mou,1
+is not subscribed to a product,2
+total prepay voice revenue 3 months back,1
+l action key value is set,2
+max HBB ID lookup,3
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+value during a configurable day window,5
+max HBB ID lookup,3
+latest HBB ID for the customer,3
+device counter check joined on LT_DEVICE_ID,6
+sum of revenue over the last X days,5
+current HBB ID record,3
+maximum prepaid voice revenue event for the customer,3
+month-over-month decline in data revenue,4
+total og local offnet call mou for 3 months prior,1
+YouTube percentage of total monthly data,4
+yesterday's HBB addon activation without fixed line,3
+PDC inactive flag,2
+bonus sent in the last X days,5
+YouTube usage as a percentage of total streaming,4
+device counter check joined on LT_DEVICE_ID,6
+the average og idd vf call count M2,1
+the customer was bonused in the last specified days,5
+the customer matched by MSISDN with the category check,6
+sum of data usage volume during last month,1
+the customer matched by MSISDN with the category check,6
+where the subscriber is currently located,3
+promo was not sent in the last 30 days,2
+bonus is absent for this subscriber in the last 180 days,2
+YouTube portion of streaming,4
+current HBB ID record,3
+total revenue drop comparing two consecutive months,4
+overall game volume for M2,1
+customer's current location,3
+YouTube percentage of total monthly data,4
+HBB add-on inactivation date check by HBB ID,3
+promotion absent for this customer in the last 30 days,2
+re trans dt is not null,2
+subscriber is subscribed to a product,2
+YouTube as % of streaming volume,4
+the most recent record,3
+no subscription on the account in the last specified number of days,5
+re trans dt is not null,2
+recharge revenue accumulated over the last X days,5
+category check joined on the offnet MSISDN,6
+category check with offnet MSISDN,6
+customer has not subscribed in the last X days,5
+total revenue fell by some percentage between months,4
+customer activated HBB addon yesterday and has no fixed line,3
+total data billing revenue the last 7 days rolling,1
+promo was not sent in the last 20 days,2
+max HBB ID lookup,3
+customer's og night voice usage 3 months prior,1
+metric over the last X days,5
+the sum of og roam ibp call mou one month ago,1
+og free sms count three months ago,1
+category lookup joined on MSISDN,6
+snapshot of HBB add-on inactivation,3
+latest HBB add-on inactivation date for a specific HBB ID,3
+amount recharged in the last X days,5
+rec service type value is set,2
+current inactivation date for the HBB ID,3
+percentage drop in data revenue between two months,4
+customer's voice revenue first rolling week,1
+subscriber count check,2
+subscriber is not subscribed to a product over the last X days,5
+most recent HBB ID match,3
+total mobile data revenue during M2,1
+subscriber's value in the last X days,5
+HBB addon was activated yesterday with no active fixed line,3
+latest HBB add-on inactivation date for a specific HBB ID,3
+promotion was not delivered to the subscriber in the last 180 days,2
+category check with offnet MSISDN,6
+bill payment sum over a configurable day window,5
+action key was sent for the HBB device,6
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 90 days,6
+action key was sent at least once,2
+subscriber's current geographical location,3
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+the latest record's inactivation date for this HBB,3
+the customer's most recent HBB identifier,3
+no action key delivered where MSISDN matches OM_MSISDN,6
+total revenue fell by some percentage between months,4
+the month before last og idd gcc call count,1
+snapshot of HBB add-on inactivation,3
+IDD call frequency for the last X days,5
+% decrease in data revenue from one month to the next,4
+action key was not sent where MSISDN matches OM_MSISDN in the last 182 days,6
+number of bill events over the last specified days,5
+the mean arpu over the past 3 months,1
+third rolling week IDD call revenue,1
+average VAS revenue during rolling week 1,1
+current HBB ID record,3
+sum of outgoing call revenue during W3 rolling,1
+where the subscriber is currently located,3
+activation occurred within X hours,5
+subscriber category match with offnet MSISDN,6
+YouTube portion of streaming,4
+sum of og idd vf call mou for 3 months back,1
+count check on the customer,2
+the count satisfies the threshold,2
+subscriber did not receive the action key where MSISDN matches OM_MSISDN in the past 182 days,6
+IDD call frequency for the last X days,5
+the average og bundle sms count M2,1
+subscriber's sum of overall prepaid revenue two months ago,1
+overall prepaid product revenue three months ago,1
+percentage drop in total revenue between two months,4
+total og day voice usage for the month before this,1
+month-over-month decline in data revenue,4
+subscriber count check,2
+percentage drop in data revenue between two months,4
+total og roam payg call mou the month before this,1
+sum of limit m over the period,1
+og free sms count M2,1
+subscriber's total total data consumed previous month to date,1
+yesterday's HBB addon activation without fixed line,3
+snapshot of HBB add-on inactivation,3
+common data roam payg revenue exists for the customer,2
+customer's data revenue third rolling week,1
+customer is in the audience segment,2
+subscriber got a promo in the last 7 days,2
+bonus delivered in the past X days,5
+total revenue fell by some percentage between months,4
+overall og free sms count M1,1
+M3 og idd vf call count,1
+subscriber's average billpaid 120 days during the last 120 days,1
+the largest voice revenue event,3
+the metric over a runtime time window,5
+the customer has re trans dt,2
+customer's total revenue M12,1
+% decrease in voice revenue from one month to the next,4
+current inactivation date for the HBB ID,3
+maximum prepaid voice revenue event for the customer,3
+subscription is absent over the past X days,5
+subscriber did not receive the action key with offnet MSISDN in the past 84 days,6
+the customer has created date,2
+the customer was bonused in the last specified days,5
+customer's og local bundle onnet call mou M3,1
+max HBB ID lookup,3
+bill event count for the last X days,5
+subscriber's average og idd gcc call mou two months ago,1
+data revenue fell by some percentage between months,4
+the overall og idd ibp call count M1,1
+max recorded value,3
+promo was sent during a configurable window,5
+data revenue drop comparing two consecutive months,4
+average game volume during two months ago,1
+voice revenue fell by some percentage between months,4
+absent action key joined on MSISDN,6
+average complimentary data volume for the month before this,1
+social media volume over a configurable window,5
+count check on the customer,2
+og idd gcc call count 3 months back,1
+customer's current location,3
+customer's PayG data volume 3 months prior,1
+subscriber's sum of data usage within the last 30 days,1
+data revenue fell by some percentage between months,4
+the latest record's inactivation date for this HBB,3
+subscriber received the action key,2
+recharge denomination is not null,2
+the customer's present geographic region,3
+current inactivation date for the HBB ID,3
+customer received a promotion in the last 2 days,2
+subscriber's value in the last X days,5
+peak voice revenue record,3
+the customer matched by MSISDN with the category check,6
+promotion absent for this customer in the last 5 days,2
+total revenue drop comparing two consecutive months,4
+subscriber's average OMIP revenue W2 rolling,1
+customer activated HBB addon yesterday and has no fixed line,3
+total redeem points in the last X days,5
+active product subscription exists,2
+month-over-month decline in data revenue,4
+average og roam bundle call count M1,1
+YouTube as % of total data this month,4
+latest HBB ID for the customer,3
+YouTube as % of streaming volume,4
+mobile data revenue rolling week 1,1
+the average OMIP revenue M3,1
+most recent HBB ID match,3
+the count satisfies the threshold today,2
+total total data usage M1,1
+promotion delivered successfully in the last 30 days,2
+the customer matched by MSISDN with the category check,6
+count of bill events during the configurable window,5
+percentage drop in total revenue between two months,4
+ratio of YouTube to total streaming,4
+subscriber count check,2
+promotion delivered in the last X days,5
+the average total revenue same period last month,1
+common og roam payg call revenue is not null,2
+YouTube usage as a percentage of total data,4
+total recharge in the last X days,5
+subscriber's average outgoing SMS revenue 2 months back,1
+percentage drop in total revenue between two months,4
+action key count is greater than zero where MSISDN matches OM_CHECK_MSISDN,6
+the customer was not subscribed during the last X days,5
+sum of outgoing IDD call revenue during this month,1
+verify category for the joined record where MSISDN matches OM_MSISDN,6
+total 60 days total rev during the last 60 days,1
+recharge revenue accumulated over the last X days,5
+subscriber's value in the last X days,5
+count check on the customer today,2
+total og free call mou M3,1
+total revenue drop comparing two consecutive months,4
+subscriber's total total data consumed M3,1
+subscriber's sum of complimentary data volume last month,1
+customer's og roam bundle call mou M2,1
+subscriber is not subscribed to a product over the last X days,5
+promotion was delivered to the subscriber in the last 7 days,2

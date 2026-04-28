@@ -1,0 +1,351 @@
+input,output
+count check on the customer,2
+customer count condition,2
+subscriber count check,2
+the count satisfies the threshold,2
+customer count grouped check,2
+promotion was not delivered to the subscriber in the last 2 days,2
+no promo received by the customer in the last 2 days,2
+subscriber did not receive a promotion in the last 2 days,2
+promotion absent for this customer in the last 2 days,2
+promo was not sent in the last 2 days,2
+created date exists for the customer,2
+created date is present,2
+the customer has created date,2
+created date value is set,2
+created date is not null,2
+sum(common total idd revenue) exists for the customer,2
+sum(common total idd revenue) is present,2
+the customer has sum(common total idd revenue),2
+sum(common total idd revenue) value is set,2
+sum(common total idd revenue) is not null,2
+count check on the customer today,2
+customer count condition today,2
+subscriber count check today,2
+the count satisfies the threshold today,2
+customer count grouped check today,2
+promotion was not delivered to the subscriber in the last 2 days,2
+no promo received by the customer in the last 2 days,2
+subscriber did not receive a promotion in the last 2 days,2
+promotion absent for this customer in the last 2 days,2
+promo was not sent in the last 2 days,2
+common data local payg revenue exists for the customer,2
+common data local payg revenue is present,2
+the customer has common data local payg revenue,2
+common data local payg revenue value is set,2
+common data local payg revenue is not null,2
+re trans dt exists for the customer,2
+re trans dt is present,2
+the customer has re trans dt,2
+re trans dt value is set,2
+re trans dt is not null,2
+hbb serviceclass exists for the customer,2
+hbb serviceclass is present,2
+the customer has hbb serviceclass,2
+hbb serviceclass value is set,2
+hbb serviceclass is not null,2
+makasb points exists for the customer,2
+makasb points is present,2
+the customer has makasb points,2
+makasb points value is set,2
+makasb points is not null,2
+tv event exists for the customer,2
+tv event is present,2
+the customer has tv event,2
+tv event value is set,2
+tv event is not null,2
+count check on the customer,2
+customer count condition,2
+subscriber count check,2
+the count satisfies the threshold,2
+customer count grouped check,2
+gex revenue exists for the customer,2
+gex revenue is present,2
+the customer has gex revenue,2
+gex revenue value is set,2
+gex revenue is not null,2
+common prepay voice revenue exists for the customer,2
+common prepay voice revenue is present,2
+the customer has common prepay voice revenue,2
+common prepay voice revenue value is set,2
+common prepay voice revenue is not null,2
+common ic call mou exists for the customer,2
+common ic call mou is present,2
+the customer has common ic call mou,2
+common ic call mou value is set,2
+common ic call mou is not null,2
+sum of data usage within the last 60 days,1
+subscriber's sum of data usage within the last 60 days,1
+over the last 60 days data usage,1
+subscriber's sum of data usage in the last 60 days,1
+subscriber's overall data usage within the last 60 days,1
+customer's TikTok data volume 3 months back,1
+the average TikTok usage three months ago,1
+overall TikTok usage for three months ago,1
+sum of TikTok usage during 3 months back,1
+TikTok data volume three months ago,1
+total limit paybill for for that period,1
+overall limit paybill for that period,1
+the overall limit paybill over the period,1
+limit paybill for that period,1
+overall limit paybill during over the period,1
+the month before this product revenue,1
+sum of prepaid product revenue last month,1
+M1 product revenue,1
+overall product revenue for previous month,1
+the average prepaid product revenue M1,1
+subscriber's average mobile data revenue W8 rolling,1
+average data billing revenue during eighth rolling week,1
+eighth rolling week data revenue,1
+sum of data usage revenue for W8 rolling,1
+customer's mobile data revenue W8 rolling,1
+overall outgoing SMS revenue so far this month,1
+total OG SMS revenue during current month,1
+customer's outgoing SMS revenue so far this month,1
+customer's SMS revenue month to date,1
+outgoing SMS revenue current month,1
+sum of SMS revenue the last 7 days rolling,1
+sum of prepaid SMS revenue W1 rolling,1
+the average prepaid SMS revenue first rolling week,1
+messaging revenue the last 7 days rolling,1
+total SMS revenue first rolling week,1
+sum of outgoing voice revenue for W8 rolling,1
+sum of OG call revenue for W8 rolling,1
+average OG call revenue eighth rolling week,1
+subscriber's sum of OG call revenue W8 rolling,1
+average OG call revenue during W8 rolling,1
+og idd free sms count two months ago,1
+og idd free sms count the month before last,1
+the average og idd free sms count 2 months back,1
+customer's og idd free sms count the month before last,1
+subscriber's sum of og idd free sms count 2 months back,1
+the overall og idd payg call mou M1,1
+customer's og idd payg call mou previous month,1
+sum of og idd payg call mou the month before this,1
+overall og idd payg call mou for one month ago,1
+sum of og idd payg call mou one month ago,1
+subscriber's total total data consumed two months ago,1
+the sum of data usage volume M2,1
+customer's total data consumed the month before last,1
+subscriber's average data volume the month before last,1
+average data volume 2 months back,1
+overall total prepay revenue during M8,1
+eight months ago total prepaid revenue,1
+overall total revenue eight months ago,1
+total total revenue during eight months ago,1
+average total revenue eight months ago,1
+overall WhatsApp usage previous month,1
+WhatsApp data volume previous month,1
+WhatsApp usage one month ago,1
+the sum of WhatsApp usage previous month,1
+average WhatsApp data volume for one month ago,1
+overall streaming data usage during three months ago,1
+the total streaming volume 3 months back,1
+sum of streaming volume during 3 months prior,1
+streaming volume three months ago,1
+3 months back streaming volume,1
+W4 rolling outgoing voice revenue,1
+customer's outgoing voice revenue rolling week 4,1
+W4 rolling OG call revenue,1
+fourth rolling week outgoing call revenue,1
+average outgoing call revenue W4 rolling,1
+the overall data usage volume 3 months prior,1
+three months ago data volume,1
+average total data consumed 3 months prior,1
+data volume three months ago,1
+sum of total data consumed during 3 months prior,1
+total data consumed M3,1
+total data volume for 3 months back,1
+average total data consumed for 3 months back,1
+M3 data usage volume,1
+average data volume for 3 months back,1
+total og roam payg call count for two months ago,1
+the overall og roam payg call count two months ago,1
+og roam payg call count two months ago,1
+subscriber's total og roam payg call count two months ago,1
+M2 og roam payg call count,1
+MTD prepaid SMS revenue,1
+messaging revenue current month,1
+overall SMS revenue during MTD,1
+customer's SMS revenue month to date,1
+overall SMS revenue MTD,1
+total outgoing SMS revenue for second rolling week,1
+rolling week 2 SMS revenue,1
+second rolling week OG SMS revenue,1
+customer's SMS revenue second rolling week,1
+subscriber's sum of outgoing SMS revenue rolling week 2,1
+the month before last voice revenue,1
+overall voice revenue during the month before last,1
+average prepay voice revenue two months ago,1
+sum of prepay voice revenue the month before last,1
+the month before last prepaid voice revenue,1
+subscriber's sum of OG SMS revenue one month ago,1
+customer's outgoing SMS revenue one month ago,1
+previous month OG SMS revenue,1
+M1 SMS revenue,1
+sum of SMS revenue for the month before this,1
+three months ago og payg call mou,1
+og payg call mou 3 months back,1
+sum of og payg call mou three months ago,1
+average og payg call mou 3 months prior,1
+sum of og payg call mou for M3,1
+the average og local bundle onnet call mou two months ago,1
+subscriber's average og local bundle onnet call mou M2,1
+total og local bundle onnet call mou for the month before last,1
+customer's og local bundle onnet call mou M2,1
+og local bundle onnet call mou two months ago,1
+subscriber's average incoming call duration last month,1
+last month incoming MOU,1
+last month incoming call minutes,1
+incoming call minutes M1,1
+customer's incoming call minutes M1,1
+nine months ago total prepaid revenue,1
+sum of total prepay revenue nine months ago,1
+nine months ago total prepay revenue,1
+overall total prepay revenue M9,1
+sum of total revenue nine months ago,1
+customer's complimentary data volume three months ago,1
+three months ago free data volume,1
+overall free data volume for M3,1
+sum of complimentary data volume during M3,1
+3 months prior complimentary data volume,1
+overall smvolumesum lst7days for during the last 7 days,1
+past 7 days smvolumesum lst7days,1
+customer's smvolumesum lst7days during the last 7 days,1
+in the last 7 days smvolumesum lst7days,1
+total smvolumesum lst7days for past 7 days,1
+previous month ic sms count,1
+subscriber's sum of ic sms count the month before this,1
+the total ic sms count M1,1
+the average ic sms count previous month,1
+total ic sms count last month,1
+data usage in the last 45 days,1
+overall data usage for over the last 45 days,1
+data usage over the last 45 days,1
+subscriber's sum of data usage during the last 45 days,1
+data usage within the last 45 days,1
+half a year back total prepaid revenue,1
+average total revenue for M6,1
+overall prepaid revenue half a year back,1
+M6 total revenue,1
+six months ago total revenue,1
+customer's TikTok usage M2,1
+TikTok usage 2 months back,1
+total TikTok data volume during two months ago,1
+overall TikTok data volume during two months ago,1
+average TikTok data volume during two months ago,1
+overall og local offnet call mou during previous month,1
+customer's og local offnet call mou the month before this,1
+previous month og local offnet call mou,1
+customer's og local offnet call mou previous month,1
+average og local offnet call mou during last month,1
+the average prepay voice revenue previous month,1
+sum of voice revenue one month ago,1
+overall prepaid voice revenue during M1,1
+average prepay voice revenue one month ago,1
+last month voice revenue,1
+LMTD data usage revenue,1
+the average mobile data revenue LMTD,1
+data revenue same period last month,1
+subscriber's total data revenue last month to date,1
+last month to date data billing revenue,1
+the overall og bundle sms count three months ago,1
+customer's og bundle sms count three months ago,1
+three months ago og bundle sms count,1
+the total og bundle sms count three months ago,1
+sum of og bundle sms count three months ago,1
+game volume the month before this,1
+average game volume for last month,1
+average game volume for the month before this,1
+customer's game volume previous month,1
+game volume one month ago,1
+total OG SMS revenue for M1,1
+OG SMS revenue last month,1
+overall SMS revenue the month before this,1
+last month OG SMS revenue,1
+customer's OG SMS revenue M1,1
+overall overall prepaid revenue for W1 rolling,1
+subscriber's sum of total prepaid revenue W1 rolling,1
+sum of total prepaid revenue for first rolling week,1
+the average total prepay revenue rolling week 1,1
+overall prepaid revenue the last 7 days rolling,1
+three months ago og roam ibp call mou,1
+subscriber's sum of og roam ibp call mou 3 months back,1
+3 months prior og roam ibp call mou,1
+total og roam ibp call mou 3 months back,1
+overall og roam ibp call mou 3 months back,1
+overall data billing revenue for over the last 15 days,1
+customer's mobile data revenue past 15 days,1
+average data usage revenue for past 15 days,1
+in the last 15 days mobile data revenue,1
+data usage revenue past 15 days,1
+customer's number of incoming calls two months ago,1
+the month before last incoming call count,1
+the sum of number of incoming calls M2,1
+sum of number of incoming calls M2,1
+the overall incoming call count M2,1
+customer's data billing revenue W7 rolling,1
+subscriber's total data revenue seventh rolling week,1
+seventh rolling week data billing revenue,1
+total mobile data revenue during W7 rolling,1
+data usage revenue W7 rolling,1
+total og idd payg call mou for two months ago,1
+total og idd payg call mou for M2,1
+total og idd payg call mou 2 months back,1
+total og idd payg call mou during the month before last,1
+the total og idd payg call mou 2 months back,1
+subscriber's overall og roam gcc call count last month,1
+customer's og roam gcc call count the month before this,1
+og roam gcc call count last month,1
+og roam gcc call count M1,1
+subscriber's total og roam gcc call count last month,1
+sum of prepaid gift revenue for so far this month,1
+prepaid gift revenue current month,1
+overall prepaid gift revenue for current month,1
+subscriber's total gift revenue MTD,1
+sum of prepaid gift revenue for month to date,1
+customer's roaming call revenue M1,1
+subscriber's sum of outgoing roaming call revenue previous month,1
+average outgoing roaming call revenue during the month before this,1
+roaming call revenue the month before this,1
+OG roam call revenue one month ago,1
+overall outgoing IDD call revenue for the month before last,1
+outgoing IDD call revenue the month before last,1
+outgoing IDD call revenue two months ago,1
+IDD call revenue two months ago,1
+customer's outgoing IDD call revenue M2,1
+bonus received in the last X days,5
+subscriber got a bonus during the configurable window,5
+bonus delivered in the past X days,5
+bonus sent in the last X days,5
+the customer was bonused in the last specified days,5
+metric over the last X days,5
+value during a configurable day window,5
+the KPI in the past X days,5
+the metric over a runtime time window,5
+subscriber's value in the last X days,5
+subscriber was detected in a region in the last 30 days,3
+customer's region in the past 30 days,3
+geographic presence within the last 30 days,3
+region the customer was in over the last 30 days,3
+the subscriber appeared in a location during the last 30 days,3
+percentage drop in voice revenue between two months,4
+month-over-month decline in voice revenue,4
+voice revenue drop comparing two consecutive months,4
+voice revenue fell by some percentage between months,4
+% decrease in voice revenue from one month to the next,4
+action key was not sent with offnet MSISDN,6
+subscriber did not receive the action key with offnet MSISDN,6
+no action key delivered with offnet MSISDN,6
+absent action key with offnet MSISDN,6
+action key count is zero with offnet MSISDN,6
+action key was not sent via RE_REFILL_ID,6
+subscriber did not receive the action key via RE_REFILL_ID,6
+no action key delivered via RE_REFILL_ID,6
+absent action key via RE_REFILL_ID,6
+action key count is zero via RE_REFILL_ID,6
+action key was sent via OM_MSISDN in the last 364 days,6
+customer received an action key via OM_MSISDN in the past 364 days,6
+action key delivered via OM_MSISDN,6
+action key present via OM_MSISDN,6
+action key count is greater than zero via OM_MSISDN,6
